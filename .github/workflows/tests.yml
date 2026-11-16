@@ -1,0 +1,28 @@
+name: Uji generator
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "generator/**"
+      - "sources.json"
+      - ".github/workflows/tests.yml"
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Jalankan tes offline
+        run: python generator/selftest.py
+      - name: Validasi sources.json
+        run: python -c "import json,pathlib; d=json.loads(pathlib.Path('sources.json').read_text(encoding='utf-8')); print(len(d['sources']), 'sumber valid')"

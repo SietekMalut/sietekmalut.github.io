@@ -1,0 +1,270 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Berita terkini dan terpercaya Indonesia - ANTARA News",
+  "home_page_url": "https://www.antaranews.com",
+  "feed_url": "https://sietekmalut.github.io/feeds/antaranews.json",
+  "description": "Berita terkini dan terpercaya dari Indonesia dan dunia seputar politik, ekonomi, bisnis, humaniora, gaya hidup, hiburan, sepak bola, otomotif",
+  "language": "id",
+  "items": [
+    {
+      "id": "https://www.antaranews.com/berita/5856335/indef-potensi-investasi-plts-industri-ri-capai-133-miliar-dolar-as",
+      "url": "https://www.antaranews.com/berita/5856335/indef-potensi-investasi-plts-industri-ri-capai-133-miliar-dolar-as",
+      "title": "Indef: Potensi investasi PLTS industri RI capai 13,3 miliar dolar AS",
+      "summary": "25 menit lalu",
+      "content_text": "25 menit lalu",
+      "date_published": "2026-11-16T02:58:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/16/1000227031.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5856331/petani-panen-harga-cabai-rawit-di-lebak-alami-penurunan",
+      "url": "https://www.antaranews.com/berita/5856331/petani-panen-harga-cabai-rawit-di-lebak-alami-penurunan",
+      "title": "Petani panen, harga cabai rawit di Lebak alami penurunan",
+      "summary": "29 menit lalu",
+      "content_text": "29 menit lalu",
+      "date_published": "2026-11-16T02:54:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/16/IMG-20261116-WA0004.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5856311/ekonom-nilai-integrasi-data-impor-bantu-jaga-harga-pangan",
+      "url": "https://www.antaranews.com/berita/5856311/ekonom-nilai-integrasi-data-impor-bantu-jaga-harga-pangan",
+      "title": "Ekonom nilai integrasi data impor bantu jaga harga pangan",
+      "summary": "49 menit lalu",
+      "content_text": "49 menit lalu",
+      "date_published": "2026-11-16T02:34:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/09/03/peningkatan-nilai-impor-nonmigas-jawa-timur-2855872.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5856295/pemprov-jatim-gelar-pasar-murah-ke-225-di-bondowoso",
+      "url": "https://www.antaranews.com/berita/5856295/pemprov-jatim-gelar-pasar-murah-ke-225-di-bondowoso",
+      "title": "Pemprov Jatim gelar pasar murah ke-225 di Bondowoso",
+      "summary": "1 jam lalu",
+      "content_text": "1 jam lalu",
+      "date_published": "2026-11-16T02:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/16/IMG-20261116-WA0020.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5856255/sekolah-nelayan-dan-ujian-efisiensi-negara",
+      "url": "https://www.antaranews.com/berita/5856255/sekolah-nelayan-dan-ujian-efisiensi-negara",
+      "title": "Sekolah, nelayan, dan ujian efisiensi negara",
+      "summary": "1 jam lalu",
+      "content_text": "1 jam lalu",
+      "date_published": "2026-11-16T02:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/14/Prabowo-Hadiri-Tanwir-Dan-Milad-Dipalu-14112026-Rif-7.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5856227/bi-targetkan-produktivitas-bawang-merah-halsel-12-ton-per-hektare",
+      "url": "https://www.antaranews.com/berita/5856227/bi-targetkan-produktivitas-bawang-merah-halsel-12-ton-per-hektare",
+      "title": "BI targetkan produktivitas bawang merah Halsel 12 ton per hektare",
+      "summary": "1 jam lalu",
+      "content_text": "1 jam lalu",
+      "date_published": "2026-11-16T02:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/10/10/cbd83040-6d96-4983-880a-01ef771af379.jpeg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5856219/pusat-kajian-ui-panas-bumi-salah-satu-aset-strategis-indonesia",
+      "url": "https://www.antaranews.com/berita/5856219/pusat-kajian-ui-panas-bumi-salah-satu-aset-strategis-indonesia",
+      "title": "Pusat Kajian UI: Panas bumi salah satu aset strategis Indonesia",
+      "summary": "1 jam lalu",
+      "content_text": "1 jam lalu",
+      "date_published": "2026-11-16T02:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/16/1000668403.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5856207/ekonom-karantina-impor-berbasis-risiko-lindungi-produksi-pangan",
+      "url": "https://www.antaranews.com/berita/5856207/ekonom-karantina-impor-berbasis-risiko-lindungi-produksi-pangan",
+      "title": "Ekonom: Karantina impor berbasis risiko lindungi produksi pangan",
+      "summary": "2 jam lalu",
+      "content_text": "2 jam lalu",
+      "date_published": "2026-11-16T01:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2025/11/27/IMG_6417.jpeg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5856195/kementerian-pkp-terus-kawal-target-bedah-rumah-hingga-akhir-tahun",
+      "url": "https://www.antaranews.com/berita/5856195/kementerian-pkp-terus-kawal-target-bedah-rumah-hingga-akhir-tahun",
+      "title": "Kementerian PKP terus kawal target Bedah Rumah hingga akhir tahun",
+      "summary": "2 jam lalu",
+      "content_text": "2 jam lalu",
+      "date_published": "2026-11-16T01:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/16/WhatsApp-Image-2026-11-02-at-10.00.44_edited.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/video/5856067/landasan-pacu-sutan-sjahrir-panggung-lahirnya-talenta-balap-nasional",
+      "url": "https://www.antaranews.com/video/5856067/landasan-pacu-sutan-sjahrir-panggung-lahirnya-talenta-balap-nasional",
+      "title": "Landasan pacu Sutan Sjahrir panggung lahirnya talenta balap nasional",
+      "summary": "4 jam lalu",
+      "content_text": "4 jam lalu",
+      "date_published": "2026-11-15T23:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/AB_LANDASAN-PACU-SUTAN-SJAHRIR-PANGGUNG-LAHIRNYA-TALENTA-BALAP-NASIONAL.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/video/5856075/menghidupkan-dunia-fantasi-lewat-teknologi-multimedia",
+      "url": "https://www.antaranews.com/video/5856075/menghidupkan-dunia-fantasi-lewat-teknologi-multimedia",
+      "title": "Menghidupkan dunia fantasi lewat teknologi multimedia",
+      "summary": "9 jam lalu",
+      "content_text": "9 jam lalu",
+      "date_published": "2026-11-15T18:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/AB_MENGHIDUPKAN-DUNIA-FANTASI-LEWAT-TEKNOLOGI-MULTIMEDIA_1.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5856031/dirut-bulog-pastikan-penyaluran-bantuan-pangan-beras-sesuai-data",
+      "url": "https://www.antaranews.com/berita/5856031/dirut-bulog-pastikan-penyaluran-bantuan-pangan-beras-sesuai-data",
+      "title": "Dirut Bulog pastikan penyaluran bantuan pangan beras sesuai data",
+      "summary": "11 jam lalu",
+      "content_text": "11 jam lalu",
+      "date_published": "2026-11-15T16:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/15/066D5540-A712-4C34-902F-228274618FC5.jpeg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5855951/di-ktt-asean-prabowo-tegaskan-pangan-dan-energi-jadi-prioritas-ri",
+      "url": "https://www.antaranews.com/berita/5855951/di-ktt-asean-prabowo-tegaskan-pangan-dan-energi-jadi-prioritas-ri",
+      "title": "Di KTT ASEAN, Prabowo tegaskan pangan dan energi jadi prioritas RI",
+      "summary": "12 jam lalu",
+      "content_text": "12 jam lalu",
+      "date_published": "2026-11-15T15:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/15/1000044160.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5855943/dprd-ntb-nilai-sekolah-rakyat-bisa-jadi-solusi-anak-putus-sekolah",
+      "url": "https://www.antaranews.com/berita/5855943/dprd-ntb-nilai-sekolah-rakyat-bisa-jadi-solusi-anak-putus-sekolah",
+      "title": "DPRD NTB nilai Sekolah Rakyat bisa jadi solusi anak putus sekolah",
+      "summary": "13 jam lalu",
+      "content_text": "13 jam lalu",
+      "date_published": "2026-11-15T14:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/15/20260929_160110.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5855931/kkp-bangun-empat-kampung-nelayan-merah-putih-di-lamongan",
+      "url": "https://www.antaranews.com/berita/5855931/kkp-bangun-empat-kampung-nelayan-merah-putih-di-lamongan",
+      "title": "KKP bangun empat Kampung Nelayan Merah Putih di Lamongan",
+      "summary": "13 jam lalu",
+      "content_text": "13 jam lalu",
+      "date_published": "2026-11-15T14:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/15/WhatsApp-Image-2026-11-15-at-19.31.35.jpeg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5855923/anggota-dpr-minta-kemendag-jaga-harga-kebutuhan-pokok-jelang-nataru",
+      "url": "https://www.antaranews.com/berita/5855923/anggota-dpr-minta-kemendag-jaga-harga-kebutuhan-pokok-jelang-nataru",
+      "title": "Anggota DPR minta Kemendag jaga harga kebutuhan pokok jelang Nataru",
+      "summary": "13 jam lalu",
+      "content_text": "13 jam lalu",
+      "date_published": "2026-11-15T14:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/09/14/WhatsApp-Image-2026-09-09-at-09.46.03-1.jpeg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5855783/bulog-dekatkan-akses-pangan-lewat-gerakan-pangan-murah-serentak",
+      "url": "https://www.antaranews.com/berita/5855783/bulog-dekatkan-akses-pangan-lewat-gerakan-pangan-murah-serentak",
+      "title": "Bulog dekatkan akses pangan lewat Gerakan Pangan Murah serentak",
+      "summary": "15 jam lalu",
+      "content_text": "15 jam lalu",
+      "date_published": "2026-11-15T12:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/15/WhatsApp-Image-2026-11-15-at-16.05.55.jpeg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5855743/babel-intensifkan-pasar-murah-menjelang-natal",
+      "url": "https://www.antaranews.com/berita/5855743/babel-intensifkan-pasar-murah-menjelang-natal",
+      "title": "Babel intensifkan pasar murah menjelang Natal",
+      "summary": "16 jam lalu",
+      "content_text": "16 jam lalu",
+      "date_published": "2026-11-15T11:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/15/pasar-natal.jpeg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5855699/pemprov-papua-minta-pemkab-mamberamo-raya-siapkan-lahan-sekolah-rakyat",
+      "url": "https://www.antaranews.com/berita/5855699/pemprov-papua-minta-pemkab-mamberamo-raya-siapkan-lahan-sekolah-rakyat",
+      "title": "Pemprov Papua minta Pemkab Mamberamo Raya siapkan lahan Sekolah Rakyat",
+      "summary": "17 jam lalu",
+      "content_text": "17 jam lalu",
+      "date_published": "2026-11-15T10:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/15/1002434217.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5855663/mind-id-industri-tambang-masuki-babak-baru-menuju-rendah-karbon",
+      "url": "https://www.antaranews.com/berita/5855663/mind-id-industri-tambang-masuki-babak-baru-menuju-rendah-karbon",
+      "title": "MIND ID: Industri tambang masuki babak baru menuju rendah karbon",
+      "summary": "17 jam lalu",
+      "content_text": "17 jam lalu",
+      "date_published": "2026-11-15T10:23:50Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/06/27/IMG_20260627_084103.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5855067/festival-pangan-merawat-ketahanan-kota",
+      "url": "https://www.antaranews.com/berita/5855067/festival-pangan-merawat-ketahanan-kota",
+      "title": "Festival pangan, merawat ketahanan kota",
+      "summary": "19 menit lalu",
+      "content_text": "19 menit lalu",
+      "date_published": "2026-11-15T02:47:00Z"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5854703/bp-tapera-hunian-vertikal-potensial-dikembangkan-di-kepri",
+      "url": "https://www.antaranews.com/berita/5854703/bp-tapera-hunian-vertikal-potensial-dikembangkan-di-kepri",
+      "title": "BP Tapera: Hunian vertikal potensial dikembangkan di Kepri",
+      "summary": "12 jam lalu",
+      "content_text": "12 jam lalu",
+      "date_published": "2026-11-14T15:06:00Z"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5854667/phr-zona-4-selesaikan-pengeboran-sumur-bng-084-di-sumsel-lebih-cepat",
+      "url": "https://www.antaranews.com/berita/5854667/phr-zona-4-selesaikan-pengeboran-sumur-bng-084-di-sumsel-lebih-cepat",
+      "title": "PHR Zona 4 selesaikan pengeboran Sumur BNG-084 di Sumsel lebih cepat",
+      "summary": "12 jam lalu",
+      "content_text": "12 jam lalu",
+      "date_published": "2026-11-14T15:06:00Z"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5854459/komisi-iv-dpr-teknologi-bpbat-mandiangin-strategis-jaga-spesies-lokal",
+      "url": "https://www.antaranews.com/berita/5854459/komisi-iv-dpr-teknologi-bpbat-mandiangin-strategis-jaga-spesies-lokal",
+      "title": "Komisi IV DPR: Teknologi BPBAT Mandiangin strategis jaga spesies lokal",
+      "summary": "14 jam lalu",
+      "content_text": "14 jam lalu",
+      "date_published": "2026-11-14T13:06:00Z"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5854343/bgn-tingkatkan-keterbukaan-informasi-publik-perkuat-program-mbg",
+      "url": "https://www.antaranews.com/berita/5854343/bgn-tingkatkan-keterbukaan-informasi-publik-perkuat-program-mbg",
+      "title": "BGN tingkatkan keterbukaan informasi publik perkuat Program MBG",
+      "summary": "15 jam lalu",
+      "content_text": "15 jam lalu",
+      "date_published": "2026-11-14T12:06:00Z"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5854271/kementerian-pu-rampungkan-lima-sekolah-rakyat-di-aceh",
+      "url": "https://www.antaranews.com/berita/5854271/kementerian-pu-rampungkan-lima-sekolah-rakyat-di-aceh",
+      "title": "Kementerian PU rampungkan lima Sekolah Rakyat di Aceh",
+      "summary": "16 jam lalu",
+      "content_text": "16 jam lalu",
+      "date_published": "2026-11-14T11:06:00Z"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5854179/pemprov-maluku-bi-datangkan-960-kg-cabai-ntt-upaya-tekan-harga",
+      "url": "https://www.antaranews.com/berita/5854179/pemprov-maluku-bi-datangkan-960-kg-cabai-ntt-upaya-tekan-harga",
+      "title": "Pemprov Maluku-BI datangkan 960 kg cabai NTT upaya tekan harga",
+      "summary": "17 jam lalu",
+      "content_text": "17 jam lalu",
+      "date_published": "2026-11-14T10:06:00Z"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5854151/tep-ui-kembangkan-sekolah-operator-ekonomi-lokal-di-teluk-wondama",
+      "url": "https://www.antaranews.com/berita/5854151/tep-ui-kembangkan-sekolah-operator-ekonomi-lokal-di-teluk-wondama",
+      "title": "TEP UI kembangkan sekolah operator ekonomi lokal di Teluk Wondama",
+      "summary": "17 jam lalu",
+      "content_text": "17 jam lalu",
+      "date_published": "2026-11-14T10:06:00Z"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5854115/pemprov-ntb-kejar-sertifikasi-halal-dan-nkv-pada-29-rumah-potong-hewan",
+      "url": "https://www.antaranews.com/berita/5854115/pemprov-ntb-kejar-sertifikasi-halal-dan-nkv-pada-29-rumah-potong-hewan",
+      "title": "Pemprov NTB kejar sertifikasi halal dan NKV pada 29 rumah potong hewan",
+      "summary": "17 jam lalu",
+      "content_text": "17 jam lalu",
+      "date_published": "2026-11-14T10:06:00Z"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5853987/pemkab-pidie-jaya-kembangkan-bawang-merah-di-sawah-bekas-banjir",
+      "url": "https://www.antaranews.com/berita/5853987/pemkab-pidie-jaya-kembangkan-bawang-merah-di-sawah-bekas-banjir",
+      "title": "Pemkab Pidie Jaya kembangkan bawang merah di sawah bekas banjir",
+      "summary": "18 jam lalu",
+      "content_text": "18 jam lalu",
+      "date_published": "2026-11-14T09:06:00Z"
+    }
+  ]
+}

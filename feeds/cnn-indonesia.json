@@ -1,0 +1,280 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "CNN Indonesia | Berita Terkini Nasional",
+  "home_page_url": "https://www.cnnindonesia.com",
+  "feed_url": "https://sietekmalut.github.io/feeds/cnn-indonesia.json",
+  "description": "CNNIndonesia.com menyajikan berita terbaru, terkini Indonesia, dunia, seputar politik, hukum kriminal, peristiwa",
+  "language": "id",
+  "items": [
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116095333-32-1427527/foto-wapres-gibran-diturunkan-serentak-di-dki-jakarta-hari-ini",
+      "url": "https://www.cnnindonesia.com/nasional/20261116095333-32-1427527/foto-wapres-gibran-diturunkan-serentak-di-dki-jakarta-hari-ini",
+      "title": "Foto Wapres Gibran Diturunkan Serentak di DKI Jakarta Hari Ini",
+      "summary": "Gubernur DKI Jakarta Pramono Anung mengumumkan penurunan foto Wakil Presiden di seluruh institusi per hari ini, Senin (16/11).",
+      "content_html": "Gubernur DKI Jakarta Pramono Anung mengumumkan penurunan foto Wakil Presiden di seluruh institusi per hari ini, Senin (16/11).",
+      "date_published": "2026-11-16T10:18:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/16/foto-wapres-diturunkan-secara-serentak-di-dki-jakarta-1794797957867_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116094127-32-1427524/beda-gibran-dan-bung-hatta-soal-mundur-dari-wapres",
+      "url": "https://www.cnnindonesia.com/nasional/20261116094127-32-1427524/beda-gibran-dan-bung-hatta-soal-mundur-dari-wapres",
+      "title": "Beda Gibran dan Bung Hatta soal Mundur dari Wapres",
+      "summary": "Dalam sejarah Indonesia, Gibran bukanlah sosok pertama yang memutuskan berhenti sebagai wakil presiden. Pada Desember 1956, M Hatta juga menyatakan berhenti.",
+      "content_html": "Dalam sejarah Indonesia, Gibran bukanlah sosok pertama yang memutuskan berhenti sebagai wakil presiden. Pada Desember 1956, M Hatta juga menyatakan berhenti.",
+      "date_published": "2026-11-16T10:08:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/16/presiden-prabowo-subianto-gibran-rakabuming-raka-sufmi-dasco-ahmad-1794796075999_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116092535-25-1427519/wamensos-sekolah-rakyat-memutus-rantai-kemiskinan-antargenerasi",
+      "url": "https://www.cnnindonesia.com/nasional/20261116092535-25-1427519/wamensos-sekolah-rakyat-memutus-rantai-kemiskinan-antargenerasi",
+      "title": "Wamensos: Sekolah Rakyat Memutus Rantai Kemiskinan Antargenerasi",
+      "summary": "Sebanyak 76 persen orang tua menyatakan tidak mampu menyekolahkan anak karena faktor ekonomi.",
+      "content_html": "Sebanyak 76 persen orang tua menyatakan tidak mampu menyekolahkan anak karena faktor ekonomi.",
+      "date_published": "2026-11-16T09:54:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2025/07/09/simulasi-kbm-sekolah-rakyat-sentra-handayani-jakarta-1752049091758_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116093207-12-1427522/bareskrim-bnn-gelar-razia-8-napi-lapas-sukabumi-positif-narkoba",
+      "url": "https://www.cnnindonesia.com/nasional/20261116093207-12-1427522/bareskrim-bnn-gelar-razia-8-napi-lapas-sukabumi-positif-narkoba",
+      "title": "Bareskrim-BNN Gelar Razia, 8 Napi Lapas Sukabumi Positif Narkoba",
+      "summary": "Razia yang digelar tim gabungan Bareskrim Polri, BNN dan Kementerian Imipas menemukan delapan napi di Lapas Sukabumi positif narkoba.",
+      "content_html": "Razia yang digelar tim gabungan Bareskrim Polri, BNN dan Kementerian Imipas menemukan delapan napi di Lapas Sukabumi positif narkoba.",
+      "date_published": "2026-11-16T09:51:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2023/05/30/ilustrasi-penangkapan_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116091931-12-1427517/polisi-masih-tunggu-konfirmasi-firli-bahuri-untuk-pemeriksaan-lanjutan",
+      "url": "https://www.cnnindonesia.com/nasional/20261116091931-12-1427517/polisi-masih-tunggu-konfirmasi-firli-bahuri-untuk-pemeriksaan-lanjutan",
+      "title": "Polisi Masih Tunggu Konfirmasi Firli Bahuri untuk Pemeriksaan Lanjutan",
+      "summary": "Polda Metro Jaya masih menunggu konfirmasi pihak eks Ketua KPK Firli Bahuri terkait jadwal pemeriksaan lanjutannya sebagai tersangka pemerasan terhadap SYL.",
+      "content_html": "Polda Metro Jaya masih menunggu konfirmasi pihak eks Ketua KPK Firli Bahuri terkait jadwal pemeriksaan lanjutannya sebagai tersangka pemerasan terhadap SYL.",
+      "date_published": "2026-11-16T09:35:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2024/01/19/firli-bahuri-tiba-di-gedung-bareskrim-polri_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116085214-32-1427512/tahapan-lengkap-pemilihan-wapres-hingga-ditetapkan-2-desember-2026",
+      "url": "https://www.cnnindonesia.com/nasional/20261116085214-32-1427512/tahapan-lengkap-pemilihan-wapres-hingga-ditetapkan-2-desember-2026",
+      "title": "Wapres Pengganti Gibran Ditetapkan 2 Desember, Ini Proses Tahapannya",
+      "summary": "Rapat Paripurna untuk pemilihan wakil presiden baru digelar pada 2 Desember 2026. Berikut tahapan pemilihan wapres.",
+      "content_html": "Rapat Paripurna untuk pemilihan wakil presiden baru digelar pada 2 Desember 2026. Berikut tahapan pemilihan wapres.",
+      "date_published": "2026-11-16T09:11:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/10/rapat-paripurna-pembukaan-masa-sidang-1794288033541_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116080056-12-1427496/pernyataan-tni-ad-soal-prajurit-aniaya-santri-di-pangandaran",
+      "url": "https://www.cnnindonesia.com/nasional/20261116080056-12-1427496/pernyataan-tni-ad-soal-prajurit-aniaya-santri-di-pangandaran",
+      "title": "Pernyataan TNI AD soal Prajurit Aniaya Santri di Pangandaran",
+      "summary": "TNI AD meminta maaf atas dugaan penganiayaan santri di Pangandaran oleh prajuritnya. Proses hukum sedang berjalan.",
+      "content_html": "TNI AD meminta maaf atas dugaan penganiayaan santri di Pangandaran oleh prajuritnya. Proses hukum sedang berjalan.",
+      "date_published": "2026-11-16T08:55:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2018/08/31/02182152-d247-457f-bd4d-4f273637f701_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116072811-32-1427490/kata-pan-demokrat-dan-golkar-soal-bursa-cawapres-pengganti-gibran",
+      "url": "https://www.cnnindonesia.com/nasional/20261116072811-32-1427490/kata-pan-demokrat-dan-golkar-soal-bursa-cawapres-pengganti-gibran",
+      "title": "Kata PAN, Demokrat dan Golkar soal Bursa Cawapres Pengganti Gibran",
+      "summary": "Partai politik koalisi memberikan tanggapan terkait calon wakil presiden pengganti Gibran. Nama 3 kader gerindra mencuat di bursa cawapres.",
+      "content_html": "Partai politik koalisi memberikan tanggapan terkait calon wakil presiden pengganti Gibran. Nama 3 kader gerindra mencuat di bursa cawapres.",
+      "date_published": "2026-11-16T08:37:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2024/03/24/bingkai-sepekan-edisi-25-maret-2024-1_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116070918-12-1427484/kampung-ambon-digerebek-lagi-126-personel-terjun-5-ditangkap",
+      "url": "https://www.cnnindonesia.com/nasional/20261116070918-12-1427484/kampung-ambon-digerebek-lagi-126-personel-terjun-5-ditangkap",
+      "title": "Kampung Ambon Digerebek Lagi: 126 Personel Terjun, 5 Ditangkap",
+      "summary": "Polisi menggerebek Kampung Ambon, Jakarta, menangkap lima pria positif narkoba. Operasi melibatkan 126 personel dan menyita barang bukti narkotika.",
+      "content_html": "Polisi menggerebek Kampung Ambon, Jakarta, menangkap lima pria positif narkoba. Operasi melibatkan 126 personel dan menyita barang bukti narkotika.",
+      "date_published": "2026-11-16T08:10:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/09/penggerebekan-sarang-narkoba-di-kampung-ambon-1791527660406_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116071848-12-1427487/najwa-shihab-hingga-raffi-ahmad-jadi-korban-penyadapan-listyo-cs",
+      "url": "https://www.cnnindonesia.com/nasional/20261116071848-12-1427487/najwa-shihab-hingga-raffi-ahmad-jadi-korban-penyadapan-listyo-cs",
+      "title": "Nagita Slavina Ikut Jadi Korban Penyadapan Listyo Sigit Cs",
+      "summary": "Bareskrim Polri mengungkap nama-nama lain korban penyadapan Listyo cs, termasuk Raffi Ahmad, Nagita Slavina, dan Najwa Shihab.",
+      "content_html": "Bareskrim Polri mengungkap nama-nama lain korban penyadapan Listyo cs, termasuk Raffi Ahmad, Nagita Slavina, dan Najwa Shihab.",
+      "date_published": "2026-11-16T07:52:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2025/05/20/najwa-shihab-1747732005924_169.png?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116072358-12-1427488/pemuda-tewas-dikeroyok-di-grobogan-diduga-kuat-korban-salah-sasaran",
+      "url": "https://www.cnnindonesia.com/nasional/20261116072358-12-1427488/pemuda-tewas-dikeroyok-di-grobogan-diduga-kuat-korban-salah-sasaran",
+      "title": "Pemuda Tewas Dikeroyok di Grobogan, Diduga Kuat Korban Salah Sasaran",
+      "summary": "Diduga salah sasaran, Tegar Gilang Pradita (19), pemuda asal Grobogan tewas usai dikeroyok belasan orang tak dikenal di Jalan Purwodadi-Blora.",
+      "content_html": "Diduga salah sasaran, Tegar Gilang Pradita (19), pemuda asal Grobogan tewas usai dikeroyok belasan orang tak dikenal di Jalan Purwodadi-Blora.",
+      "date_published": "2026-11-16T07:31:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2024/02/04/ilustrasi-korban-tewas_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116064646-32-1427479/profil-dasco-sugiono-dan-muzani-di-bursa-cawapres-pengganti-gibran",
+      "url": "https://www.cnnindonesia.com/nasional/20261116064646-32-1427479/profil-dasco-sugiono-dan-muzani-di-bursa-cawapres-pengganti-gibran",
+      "title": "Dasco Si Kancil hingga Sugiono Anak Ideologis Prabowo di Bursa Wapres",
+      "summary": "Tiga kader Gerindra, termasuk Sufmi Dasco Ahmad, muncul sebagai calon pengganti Wakil Presiden. Ketum parpol sepakat wapres dari Gerindra.",
+      "content_html": "Tiga kader Gerindra, termasuk Sufmi Dasco Ahmad, muncul sebagai calon pengganti Wakil Presiden. Ketum parpol sepakat wapres dari Gerindra.",
+      "date_published": "2026-11-16T07:12:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/02/06/peringatan-hut-ke-18-partai-gerindra-1770376035562_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115183803-22-1427424/foto-kapolri-beber-kasus-penyadapan-hingga-gibran-mundur-wapres",
+      "url": "https://www.cnnindonesia.com/nasional/20261115183803-22-1427424/foto-kapolri-beber-kasus-penyadapan-hingga-gibran-mundur-wapres",
+      "title": "FOTO: Kapolri Beber Kasus Penyadapan hingga Gibran Mundur Wapres",
+      "summary": "Bingkai Sepekan kali ini diwarnai ragam peristiwa mulai dari rapat kerja Kapolri soal kasus penyadapan hingga Gibran Rakabuming mundur dari wakil presiden.",
+      "content_html": "Bingkai Sepekan kali ini diwarnai ragam peristiwa mulai dari rapat kerja Kapolri soal kasus penyadapan hingga Gibran Rakabuming mundur dari wakil presiden.",
+      "date_published": "2026-11-16T06:54:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/puja-puji-prabowo-terima-pengunduran-diri-gibran-1794473873081_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261116061546-32-1427469/tiga-pentolan-gerindra-di-bursa-cawapres-dasco-sugiono-dan-muzani",
+      "url": "https://www.cnnindonesia.com/nasional/20261116061546-32-1427469/tiga-pentolan-gerindra-di-bursa-cawapres-dasco-sugiono-dan-muzani",
+      "title": "Tiga Pentolan Gerindra di Bursa Cawapres: Dasco, Sugiono, dan Muzani",
+      "summary": "Peta pencalonan Wapres pengganti Gibran mulai mengerucut menyusul kesepakatan para ketum parpol untuk menyerahkan usulan kandidat kepada kader Partai Gerindra.",
+      "content_html": "Peta pencalonan Wapres pengganti Gibran mulai mengerucut menyusul kesepakatan para ketum parpol untuk menyerahkan usulan kandidat kepada kader Partai Gerindra.",
+      "date_published": "2026-11-16T06:29:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2025/07/16/presiden-tiba-di-tanah-air-usai-kunjungan-kenegaraan-1752671842981_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115100139-12-1427304/oknum-prajurit-diduga-aniaya-santri-tni-ad-proses-hukum-pelaku",
+      "url": "https://www.cnnindonesia.com/nasional/20261115100139-12-1427304/oknum-prajurit-diduga-aniaya-santri-tni-ad-proses-hukum-pelaku",
+      "title": "Oknum Prajurit Diduga Aniaya Santri, TNI AD Proses Hukum Pelaku",
+      "summary": "Oknum TNI AD yang diduga melakukan tindakan penganiayaan terhadap sejumlah santri di Pangandaran, Jabar akan diproses sesuai hukum yang berlaku.",
+      "content_html": "Oknum TNI AD yang diduga melakukan tindakan penganiayaan terhadap sejumlah santri di Pangandaran, Jabar akan diproses sesuai hukum yang berlaku.",
+      "date_published": "2026-11-15T23:30:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2018/08/31/02182152-d247-457f-bd4d-4f273637f701_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115202234-20-1427441/pendaki-15-tahun-ditemukan-selamat-usai-7-hari-hilang-di-sulsel",
+      "url": "https://www.cnnindonesia.com/nasional/20261115202234-20-1427441/pendaki-15-tahun-ditemukan-selamat-usai-7-hari-hilang-di-sulsel",
+      "title": "Pendaki 15 Tahun Ditemukan Selamat Usai 7 Hari Hilang di Sulsel",
+      "summary": "Asrading ditemukan selamat setelah tujuh hari hilang di Gunung Bawakaraeng, Sulawesi Selatan. Ia mengalami sejumlah luka di tubuhnya.",
+      "content_html": "Asrading ditemukan selamat setelah tujuh hari hilang di Gunung Bawakaraeng, Sulawesi Selatan. Ia mengalami sejumlah luka di tubuhnya.",
+      "date_published": "2026-11-15T22:30:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2015/03/30/8d951726-291a-4f68-88b2-0df53321f535_169.jpg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115174057-20-1427415/balita-tewas-tertimbun-longsor-di-aceh-tengah",
+      "url": "https://www.cnnindonesia.com/nasional/20261115174057-20-1427415/balita-tewas-tertimbun-longsor-di-aceh-tengah",
+      "title": "Balita Tewas Tertimbun Longsor di Aceh Tengah",
+      "summary": "Seorang balita meninggal dunia setelah tertimbun longsor di ruas jalan Isaq-Pantan, Aceh Tengah, saat melintas bersama keluarganya.",
+      "content_html": "Seorang balita meninggal dunia setelah tertimbun longsor di ruas jalan Isaq-Pantan, Aceh Tengah, saat melintas bersama keluarganya.",
+      "date_published": "2026-11-15T21:35:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2018/12/08/4c2b49ed-14fb-4630-ad8c-97ec6e66cb3c_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115135040-20-1427356/bpbd-kaltim-ingatkan-warga-waspada-banjir-tiga-hari-ke-depan",
+      "url": "https://www.cnnindonesia.com/nasional/20261115135040-20-1427356/bpbd-kaltim-ingatkan-warga-waspada-banjir-tiga-hari-ke-depan",
+      "title": "BPBD Kaltim Ingatkan Warga Waspada Banjir Tiga Hari ke Depan",
+      "summary": "BPBD Kaltim meminta warga di daerah rawan banjir dan longsor meningkatkan kewaspadaan menyusul peringatan dini BMKG.",
+      "content_html": "BPBD Kaltim meminta warga di daerah rawan banjir dan longsor meningkatkan kewaspadaan menyusul peringatan dini BMKG.",
+      "date_published": "2026-11-15T21:10:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2020/01/20/e938dd54-e364-43f3-9dd1-9c92337c93d7_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115174833-20-1427417/kemenhut-alas-purwo-belum-pasti-layak-jadi-habitat-kedua-badak-jawa",
+      "url": "https://www.cnnindonesia.com/nasional/20261115174833-20-1427417/kemenhut-alas-purwo-belum-pasti-layak-jadi-habitat-kedua-badak-jawa",
+      "title": "Kemenhut: Alas Purwo Belum Pasti Layak Jadi Habitat Kedua Badak Jawa",
+      "summary": "Kemenhut menyebut gagasan habitat kedua badak jawa di TN Alas Purwo masih memerlukan kajian ilmiah dan penilaian menyeluruh.",
+      "content_html": "Kemenhut menyebut gagasan habitat kedua badak jawa di TN Alas Purwo masih memerlukan kajian ilmiah dan penilaian menyeluruh.",
+      "date_published": "2026-11-15T20:21:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/02/05/momen-langka-induk-dan-anakan-badak-jawa-terekam-di-tn-ujung-kulon-1770246469633_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115165806-12-1427409/komnas-ham-ikut-investigasi-kasus-dugaan-pemerkosaan-bupati-kupang",
+      "url": "https://www.cnnindonesia.com/nasional/20261115165806-12-1427409/komnas-ham-ikut-investigasi-kasus-dugaan-pemerkosaan-bupati-kupang",
+      "title": "Komnas HAM Ikut Investigasi Kasus Dugaan Pemerkosaan Bupati Kupang",
+      "summary": "Komnas HAM turut meminta informasi dari sejumlah pihak terkait kasus dugaan pemerkosaan yang dilakukan Bupati Kupang NTT Yosef Lede terhadap seorang mahasiswi.",
+      "content_html": "Komnas HAM turut meminta informasi dari sejumlah pihak terkait kasus dugaan pemerkosaan yang dilakukan Bupati Kupang NTT Yosef Lede terhadap seorang mahasiswi.",
+      "date_published": "2026-11-15T17:05:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2024/09/06/koordinator-subkomisi-pemajuan-ham-komnas-ham-anis-hidayah-1_169.png?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115130503-36-1427342/ketum-pan-sebut-tak-ajukan-kader-jadi-cawapres",
+      "url": "https://www.cnnindonesia.com/nasional/20261115130503-36-1427342/ketum-pan-sebut-tak-ajukan-kader-jadi-cawapres",
+      "title": "Ketum PAN Sebut Tak Ajukan Kader Jadi Cawapres",
+      "summary": "Ketua Umum PAN menyatakan partainya tidak mengusulkan kader untuk mengisi posisi Wakil Presiden.",
+      "content_html": "Ketua Umum PAN menyatakan partainya tidak mengusulkan kader untuk mengisi posisi Wakil Presiden.",
+      "date_published": "2026-11-15T16:50:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/15/ketum-pan-sebut-partainya-tak-ajukan-kader-jadi-cawapres-1794723343634_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115152046-25-1427386/ahmad-luthfi-membaur-dengan-ribuan-pelari-di-borobudur-marathon-2026",
+      "url": "https://www.cnnindonesia.com/nasional/20261115152046-25-1427386/ahmad-luthfi-membaur-dengan-ribuan-pelari-di-borobudur-marathon-2026",
+      "title": "Ahmad Luthfi Membaur dengan Ribuan Pelari di Borobudur Marathon 2026",
+      "summary": "Gubernur Jateng Ahmad Luthfi meramaikan Bank Jateng Borobudur Marathon 2026, berlari 10K dan berinteraksi dengan warga.",
+      "content_html": "Gubernur Jateng Ahmad Luthfi meramaikan Bank Jateng Borobudur Marathon 2026, berlari 10K dan berinteraksi dengan warga.",
+      "date_published": "2026-11-15T15:33:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/15/pemprov-jateng-1794728397731_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115151241-12-1427385/crane-jatuh-dki-bakal-periksa-prosedur-k3-proyek-di-mega-kuningan",
+      "url": "https://www.cnnindonesia.com/nasional/20261115151241-12-1427385/crane-jatuh-dki-bakal-periksa-prosedur-k3-proyek-di-mega-kuningan",
+      "title": "Crane Jatuh, DKI Bakal Periksa Prosedur K3 Proyek di Mega Kuningan",
+      "summary": "Pemprov DKI Jakarta akan memeriksa pemenuhan prosedur dan standar K3 di proyek pembangunan gedung di Mega Kuningan, Jaksel menyusul jatuhnya tower crane.",
+      "content_html": "Pemprov DKI Jakarta akan memeriksa pemenuhan prosedur dan standar K3 di proyek pembangunan gedung di Mega Kuningan, Jaksel menyusul jatuhnya tower crane.",
+      "date_published": "2026-11-15T15:31:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/13/thumbnail-video-1794570531938_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115150220-25-1427375/borobudur-marathon-dongkrak-ekonomi-umkm-hingga-ojol-panen-rezeki",
+      "url": "https://www.cnnindonesia.com/nasional/20261115150220-25-1427375/borobudur-marathon-dongkrak-ekonomi-umkm-hingga-ojol-panen-rezeki",
+      "title": "Borobudur Marathon Dongkrak Ekonomi, UMKM hingga Ojol Panen Rezeki",
+      "summary": "Para pedagang kuliner, pengemudi ojol, hingga pengelola penginapan mengakui peningkatan pendapatan seiring kedatangan hampir 12.500 pelari dari 38 negara.",
+      "content_html": "Para pedagang kuliner, pengemudi ojol, hingga pengelola penginapan mengakui peningkatan pendapatan seiring kedatangan hampir 12.500 pelari dari 38 negara.",
+      "date_published": "2026-11-15T15:20:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/15/pemprov-jateng-1794729916182_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115142155-25-1427370/cuaca-ekstrem-aceh-kasatgas-prr-minta-pemda-perkuat-kesiapsiagaan",
+      "url": "https://www.cnnindonesia.com/nasional/20261115142155-25-1427370/cuaca-ekstrem-aceh-kasatgas-prr-minta-pemda-perkuat-kesiapsiagaan",
+      "title": "Cuaca Ekstrem Aceh, Kasatgas PRR Minta Pemda Perkuat Kesiapsiagaan",
+      "summary": "Masyarakat diimbau tetap tenang, tidak terpancing informasi yang belum terverifikasi, serta mengikuti perkembangan cuaca dan arahan dari instansi resmi.",
+      "content_html": "Masyarakat diimbau tetap tenang, tidak terpancing informasi yang belum terverifikasi, serta mengikuti perkembangan cuaca dan arahan dari instansi resmi.",
+      "date_published": "2026-11-15T14:29:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/15/kemendagri-1794725196856_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115132648-20-1427354/alasan-pemerintah-ingin-pindahkan-badak-jawa-ke-alas-purwo",
+      "url": "https://www.cnnindonesia.com/nasional/20261115132648-20-1427354/alasan-pemerintah-ingin-pindahkan-badak-jawa-ke-alas-purwo",
+      "title": "Alasan Pemerintah Ingin Pindahkan Badak Jawa ke Alas Purwo",
+      "summary": "Pemerintah berencana memindahkan sebagian populasi badak Jawa dari Ujung Kulon, Banten, ke Alas Purwo, Jawa Timur, untuk mengantisipasi ancaman bencana alam.",
+      "content_html": "Pemerintah berencana memindahkan sebagian populasi badak Jawa dari Ujung Kulon, Banten, ke Alas Purwo, Jawa Timur, untuk mengantisipasi ancaman bencana alam.",
+      "date_published": "2026-11-15T13:35:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2015/09/08/29c9ca69-00a8-4bd4-8cd2-205d51be71c0_169.jpg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115120803-32-1427332/zulhas-sebut-semua-ketum-parpol-sepakat-wapres-dari-gerindra",
+      "url": "https://www.cnnindonesia.com/nasional/20261115120803-32-1427332/zulhas-sebut-semua-ketum-parpol-sepakat-wapres-dari-gerindra",
+      "title": "Zulhas Sebut Semua Ketum Parpol Sepakat Wapres dari Gerindra",
+      "summary": "Ketua Umum PAN Zulkifli Hasan mengatakan, semua parpol koalisi sepakat wakil presiden pengganti Gibran Rakabuming berasal dari Gerindra.",
+      "content_html": "Ketua Umum PAN Zulkifli Hasan mengatakan, semua parpol koalisi sepakat wakil presiden pengganti Gibran Rakabuming berasal dari Gerindra.",
+      "date_published": "2026-11-15T12:15:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/19/menteri-koordinator-bidang-pangan-zulkifli-hasan-di-cnn-indonesia-agrifood-forum-2026-1792384625917_169.png?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115092849-25-1427300/borobudur-marathon-2026-diikuti-38-negara-ekonomi-magelang-bergeliat",
+      "url": "https://www.cnnindonesia.com/nasional/20261115092849-25-1427300/borobudur-marathon-2026-diikuti-38-negara-ekonomi-magelang-bergeliat",
+      "title": "Borobudur Marathon 2026 Diikuti 38 Negara, Ekonomi Magelang Bergeliat",
+      "summary": "Borobudur Marathon 2026 menarik 12.500 pelari dari 38 negara, mendorong pariwisata dan ekonomi, Event ini jadi peluang bagi UMKM dan pengembangan sport tourism.",
+      "content_html": "Borobudur Marathon 2026 menarik 12.500 pelari dari 38 negara, mendorong pariwisata dan ekonomi, Event ini jadi peluang bagi UMKM dan pengembangan sport tourism.",
+      "date_published": "2026-11-15T10:30:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/15/pemprov-jateng-1794708882458_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115091903-25-1427297/program-kecamatan-berdaya-jateng-hadirkan-beragam-layanan-untuk-warga",
+      "url": "https://www.cnnindonesia.com/nasional/20261115091903-25-1427297/program-kecamatan-berdaya-jateng-hadirkan-beragam-layanan-untuk-warga",
+      "title": "Program Kecamatan Berdaya Jateng Hadirkan Beragam Layanan untuk Warga",
+      "summary": "Program Kecamatan Berdaya di Juwiring, Jawa Tengah, menunjukkan manfaat nyata bagi masyarakat dengan layanan publik yang lebih dekat dan beragam.",
+      "content_html": "Program Kecamatan Berdaya di Juwiring, Jawa Tengah, menunjukkan manfaat nyata bagi masyarakat dengan layanan publik yang lebih dekat dan beragam.",
+      "date_published": "2026-11-15T09:42:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/15/pemprov-jateng-1794708716452_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "https://www.cnnindonesia.com/nasional/20261115092101-20-1427298/prabowo-puji-suyudi-tak-kenal-sebelum-tunjuk-jadi-kapolri",
+      "url": "https://www.cnnindonesia.com/nasional/20261115092101-20-1427298/prabowo-puji-suyudi-tak-kenal-sebelum-tunjuk-jadi-kapolri",
+      "title": "Prabowo Puji Suyudi, Tak Kenal Sebelum Tunjuk Jadi Kapolri",
+      "summary": "Mengaku sempat tak mengenal sebelumnya, Presiden RI Prabowo Subianto memuji Kapolri Jenderal Suyudi Ario Seto sebagai sosok yang menyejukkan.",
+      "content_html": "Mengaku sempat tak mengenal sebelumnya, Presiden RI Prabowo Subianto memuji Kapolri Jenderal Suyudi Ario Seto sebagai sosok yang menyejukkan.",
+      "date_published": "2026-11-15T09:40:00Z",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/14/pembukaan-tanwir-dan-milad-ke-114-muhammadiyah-1794644580832_169.png?w=360&q=90"
+    }
+  ]
+}

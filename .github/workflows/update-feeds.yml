@@ -1,0 +1,99 @@
+name: Perbarui feed RSS
+
+on:
+  # Jaring pengaman: kalau jadwal utama terlewat, tetap ada pembaruan.
+  schedule:
+    - cron: "*/15 * * * *"
+  # Permintaan feed baru langsung diproses begitu file-nya masuk.
+  push:
+    paths:
+      - "requests/**.json"
+      - "sources.json"
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Alamat halaman yang ingin dijadikan feed (kosongkan untuk sekadar refresh)"
+        required: false
+      name:
+        description: "Nama feed (opsional)"
+        required: false
+      limit:
+        description: "Jumlah item maksimum (5-100)"
+        required: false
+        default: "30"
+      mode:
+        description: "Cara mengambil konten"
+        type: choice
+        options: [auto, feed, html]
+        default: auto
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Ambil repositori
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Siapkan Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Uji parser (tanpa jaringan)
+        run: python generator/selftest.py
+
+      - name: Daftarkan permintaan baru
+        env:
+          SRC_URL: ${{ inputs.url }}
+          SRC_NAME: ${{ inputs.name }}
+          SRC_LIMIT: ${{ inputs.limit }}
+          SRC_MODE: ${{ inputs.mode }}
+        run: |
+          set -euo pipefail
+          args=(--config-only)
+          if [ -n "${SRC_URL:-}" ]; then
+            args+=(--add "$SRC_URL" --name "${SRC_NAME:-$SRC_URL}")
+            if [ -n "${SRC_LIMIT:-}" ]; then args+=(--limit "$SRC_LIMIT"); fi
+            if [ -n "${SRC_MODE:-}" ]; then args+=(--mode "$SRC_MODE"); fi
+          fi
+          if compgen -G "requests/*.json" > /dev/null || [ -n "${SRC_URL:-}" ]; then
+            args+=(--process-requests)
+            python generator/generate.py "${args[@]}"
+          else
+            echo "Tidak ada permintaan baru."
+          fi
+
+      - name: Bangun semua feed
+        run: python generator/generate.py --workers 8
+
+      - name: Jaga workflow tetap aktif
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          last=$(git log -1 --format=%ct -- .keepalive 2>/dev/null || echo 0)
+          now=$(date +%s)
+          if [ $((now - last)) -gt $((40 * 86400)) ]; then
+            date -u +"%Y-%m-%dT%H:%M:%SZ" > .keepalive
+          fi
+
+      - name: Commit hasil
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- feeds sources.json requests .keepalive; then
+            echo "Tidak ada perubahan; tidak perlu commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A feeds sources.json requests .keepalive
+          git commit -m "chore(feed): perbarui $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

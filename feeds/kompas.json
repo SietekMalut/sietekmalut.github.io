@@ -1,0 +1,278 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Berita Terkini Hari Ini, Kabar Akurat Terpercaya - Kompas.com",
+  "home_page_url": "https://www.kompas.com",
+  "feed_url": "https://sietekmalut.github.io/feeds/kompas.json",
+  "description": "Kompas.com - Berita Indonesia dan Dunia Terkini Hari Ini, Kabar Harian Terbaru Terpercaya Terlengkap Seputar Politik, Ekonomi, Travel, Teknologi, Otomotif, Bola",
+  "language": "id",
+  "items": [
+    {
+      "id": "https://nasional.kompas.com/read/2026/11/16/08514701/komisi-iii-dpr-mulai-bahas-ruu-penyadapan-hari-ini",
+      "url": "https://nasional.kompas.com/read/2026/11/16/08514701/komisi-iii-dpr-mulai-bahas-ruu-penyadapan-hari-ini",
+      "title": "Komisi III DPR Mulai Bahas RUU Penyadapan Hari Ini",
+      "summary": "News",
+      "content_text": "News",
+      "date_published": "2026-11-16T03:23:50Z",
+      "image": "https://asset.kompas.com/crops/CjosDeZqxsFXOZAnNPl_MRRtwQg=/280x82:1360x802/740x400/data/photo/2026/11/05/6aec07012e097.jpg"
+    },
+    {
+      "id": "https://travel.kompas.com/read/2026/11/16/101842327/libur-nataru-2027-ada-diskon-tiket-kereta-api-30-persen-dari-blitar",
+      "url": "https://travel.kompas.com/read/2026/11/16/101842327/libur-nataru-2027-ada-diskon-tiket-kereta-api-30-persen-dari-blitar",
+      "title": "Libur Nataru 2027, Ada Diskon Tiket Kereta Api 30 Persen dari Blitar",
+      "summary": "Travel 5 menit lalu Waktu baca 4 menit",
+      "content_text": "Travel 5 menit lalu Waktu baca 4 menit",
+      "date_published": "2026-11-16T03:18:50Z",
+      "image": "https://asset.kompas.com/crops/mgA28Nj1IGoIZ_Mcgy8TMdhurSA=/0x0:0x0/375x210/data/photo/2026/06/24/6a3b9c98b4a3d.jpg"
+    },
+    {
+      "id": "https://health.kompas.com/read/26K16101800568/kenapa-pasien-gagal-ginjal-harus-membatasi-minum-air-putih-",
+      "url": "https://health.kompas.com/read/26K16101800568/kenapa-pasien-gagal-ginjal-harus-membatasi-minum-air-putih-",
+      "title": "Kenapa Pasien Gagal Ginjal Harus Membatasi Minum Air Putih?",
+      "summary": "Health 6 menit lalu Waktu baca 4 menit",
+      "content_text": "Health 6 menit lalu Waktu baca 4 menit",
+      "date_published": "2026-11-16T03:17:50Z",
+      "image": "https://asset.kompas.com/crops/3wx8Ve8JariKDeEpPmceftbw854=/0x7:817x552/375x210/data/photo/2017/04/10/4182654090.jpg"
+    },
+    {
+      "id": "https://bola.kompas.com/read/2026/11/16/10162418/pengalaman-berharga-pemain-muda-bali-united-saat-tahan-timnas-indonesia",
+      "url": "https://bola.kompas.com/read/2026/11/16/10162418/pengalaman-berharga-pemain-muda-bali-united-saat-tahan-timnas-indonesia",
+      "title": "Pengalaman Berharga Pemain Muda Bali United Saat Tahan Timnas Indonesia",
+      "summary": "Bola 7 menit lalu Waktu baca 3 menit",
+      "content_text": "Bola 7 menit lalu Waktu baca 3 menit",
+      "date_published": "2026-11-16T03:16:50Z",
+      "image": "https://asset.kompas.com/crops/zgSVwLa6qJFXcw-dyDSfIFajgUg=/152x164:1176x847/375x210/data/photo/2026/11/15/6af9c97f068d6.jpeg"
+    },
+    {
+      "id": "https://health.kompas.com/read/26K16101500368/bukan-cuma-bikin-berat-badan-naik-lemak-berlebih-juga-bisa-picu-diabetes",
+      "url": "https://health.kompas.com/read/26K16101500368/bukan-cuma-bikin-berat-badan-naik-lemak-berlebih-juga-bisa-picu-diabetes",
+      "title": "Bukan Cuma Bikin Berat Badan Naik, Lemak Berlebih Juga Bisa Picu Diabetes",
+      "summary": "Health 9 menit lalu Waktu baca 4 menit",
+      "content_text": "Health 9 menit lalu Waktu baca 4 menit",
+      "date_published": "2026-11-16T03:14:50Z",
+      "image": "https://asset.kompas.com/crops/XXwZ_Rfx3ocA7Vf2fPuMCwouLZE=/0x0:4592x3061/375x210/data/photo/2026/06/06/6a237b033cde7.jpg"
+    },
+    {
+      "id": "https://otomotif.kompas.com/read/2026/11/16/101200315/operasi-zebra-2026-digelar-16-29-november-ini-fokus-korlantas-polri",
+      "url": "https://otomotif.kompas.com/read/2026/11/16/101200315/operasi-zebra-2026-digelar-16-29-november-ini-fokus-korlantas-polri",
+      "title": "Operasi Zebra 2026 Digelar 16-29 November, Ini Fokus Korlantas Polri",
+      "summary": "Otomotif 12 menit lalu Waktu baca 4 menit",
+      "content_text": "Otomotif 12 menit lalu Waktu baca 4 menit",
+      "date_published": "2026-11-16T03:11:50Z",
+      "image": "https://asset.kompas.com/crops/CjJ-OkMYw8QxHUMNu2aDKVHBc4c=/73x182:1600x1200/375x210/data/photo/2025/11/20/691e2afd9f1d5.jpeg"
+    },
+    {
+      "id": "https://lestari.kompas.com/read/2026/11/16/100100986/brin-kembangkan-teknologi-radiasi-olah-sampah-plastik-jadi-bahan-bernilai",
+      "url": "https://lestari.kompas.com/read/2026/11/16/100100986/brin-kembangkan-teknologi-radiasi-olah-sampah-plastik-jadi-bahan-bernilai",
+      "title": "BRIN Kembangkan Teknologi Radiasi, Olah Sampah Plastik Jadi Bahan Bernilai Tambah",
+      "summary": "Lestari 23 menit lalu Waktu baca 4 menit",
+      "content_text": "Lestari 23 menit lalu Waktu baca 4 menit",
+      "date_published": "2026-11-16T03:00:50Z",
+      "image": "https://asset.kompas.com/crops/PTQpoKzab3jYjHYUDDq1HGaQPW4=/0x0:1500x1000/375x210/data/photo/2026/03/25/69c3c2ce8e8de.jpg"
+    },
+    {
+      "id": "https://lifestyle.kompas.com/read/2026/11/16/100100920/cara-kate-middleton-pulihkan-diri-dari-kanker-lewat-alam",
+      "url": "https://lifestyle.kompas.com/read/2026/11/16/100100920/cara-kate-middleton-pulihkan-diri-dari-kanker-lewat-alam",
+      "title": "Cara Kate Middleton Pulihkan Diri dari Kanker Lewat Alam",
+      "summary": "Lifestyle 23 menit lalu Waktu baca 4 menit",
+      "content_text": "Lifestyle 23 menit lalu Waktu baca 4 menit",
+      "date_published": "2026-11-16T03:00:50Z",
+      "image": "https://asset.kompas.com/crops/-j1GB0CZBQScIDnPidvSz9SBA0I=/0x0:0x0/375x210/data/photo/2026/10/22/6ad97ad053b41.jpeg"
+    },
+    {
+      "id": "https://tekno.kompas.com/read/2026/11/16/10010007/huawei-umumkan-sense-g1-perangkat-mungil-untuk-pantau-gula-darah-tanpa-tusuk",
+      "url": "https://tekno.kompas.com/read/2026/11/16/10010007/huawei-umumkan-sense-g1-perangkat-mungil-untuk-pantau-gula-darah-tanpa-tusuk",
+      "title": "Huawei Umumkan Sense G1, Perangkat Mungil untuk Pantau Gula Darah Tanpa Tusuk Jari",
+      "summary": "Tekno 23 menit lalu Waktu baca 4 menit",
+      "content_text": "Tekno 23 menit lalu Waktu baca 4 menit",
+      "date_published": "2026-11-16T03:00:50Z",
+      "image": "https://asset.kompas.com/crops/qCgIIG5rh5q_HjbJdNExpkII7a0=/121x0:1345x816/375x210/data/photo/2026/11/15/6af93d549d210.jpg"
+    },
+    {
+      "id": "https://www.kompas.com/homey/read/2026/11/16/100000476/7-elektronik-yang-wajib-dicabut-dari-stopkontak-saat-listrik-padam",
+      "url": "https://www.kompas.com/homey/read/2026/11/16/100000476/7-elektronik-yang-wajib-dicabut-dari-stopkontak-saat-listrik-padam",
+      "title": "7 Elektronik yang Wajib Dicabut dari Stopkontak Saat Listrik Padam",
+      "summary": "Homey 24 menit lalu Waktu baca 3 menit",
+      "content_text": "Homey 24 menit lalu Waktu baca 3 menit",
+      "date_published": "2026-11-16T02:59:50Z",
+      "image": "https://asset.kompas.com/crops/55SWQPXJjeHb8-5RKwydfHKi7Qs=/0x0:1200x800/375x210/data/photo/2026/05/25/6a14495b1b5d7.jpg"
+    },
+    {
+      "id": "https://www.kompas.com/tren/read/2026/11/16/100000065/berbekal-keahlian-pasang-tapal-kuda-mahasiswa-raup-puluhan-juta-sebulan",
+      "url": "https://www.kompas.com/tren/read/2026/11/16/100000065/berbekal-keahlian-pasang-tapal-kuda-mahasiswa-raup-puluhan-juta-sebulan",
+      "title": "Berbekal Keahlian Pasang Tapal Kuda, Mahasiswa Raup Puluhan Juta Sebulan",
+      "summary": "Tren 24 menit lalu Waktu baca 5 menit",
+      "content_text": "Tren 24 menit lalu Waktu baca 5 menit",
+      "date_published": "2026-11-16T02:59:50Z",
+      "image": "https://asset.kompas.com/crops/42wST80EVk4uMqLKzXV0Z0OWWzQ=/0x0:4261x2841/375x210/data/photo/2023/09/07/64f9f47dcd50d.jpg"
+    },
+    {
+      "id": "https://internasional.kompas.com/read/2026/11/16/095858170/prabowo-dukung-aspirasi-timor-leste-jabat-ketua-asean-2029",
+      "url": "https://internasional.kompas.com/read/2026/11/16/095858170/prabowo-dukung-aspirasi-timor-leste-jabat-ketua-asean-2029",
+      "title": "Prabowo Dukung Aspirasi Timor Leste Jabat Ketua ASEAN 2029",
+      "summary": "Global 25 menit lalu Waktu baca 3 menit",
+      "content_text": "Global 25 menit lalu Waktu baca 3 menit",
+      "date_published": "2026-11-16T02:58:50Z",
+      "image": "https://asset.kompas.com/crops/5d2MudsU8VSGSXpuDHG2zEorxOQ=/0x0:1199x799/375x210/data/photo/2026/11/16/6afa711e76b41.jpg"
+    },
+    {
+      "id": "https://surabaya.kompas.com/read/2026/11/16/095819878/eri-cahyadi-minta-seluruh-guru-asn-wajib-sertifikasi-paling-lambat-2027",
+      "url": "https://surabaya.kompas.com/read/2026/11/16/095819878/eri-cahyadi-minta-seluruh-guru-asn-wajib-sertifikasi-paling-lambat-2027",
+      "title": "Eri Cahyadi Minta Seluruh Guru ASN Wajib Sertifikasi Paling Lambat 2027",
+      "summary": "Regional 25 menit lalu Waktu baca 3 menit",
+      "content_text": "Regional 25 menit lalu Waktu baca 3 menit",
+      "date_published": "2026-11-16T02:58:50Z",
+      "image": "https://asset.kompas.com/crops/azsiLVa06NIK-czxPajePTL_y7M=/0x0:0x0/375x210/data/photo/2026/11/16/6afa4fc17fa97.jpeg"
+    },
+    {
+      "id": "https://www.kompas.com/sports/read/2026/11/16/09510578/intercontinental-futsal-cup-2026-bintang-timur-surabaya-dilumat-sporting",
+      "url": "https://www.kompas.com/sports/read/2026/11/16/09510578/intercontinental-futsal-cup-2026-bintang-timur-surabaya-dilumat-sporting",
+      "title": "Intercontinental Futsal Cup 2026: Bintang Timur Surabaya Dilumat Sporting CP 2-8",
+      "summary": "Bola 33 menit lalu Waktu baca 3 menit",
+      "content_text": "Bola 33 menit lalu Waktu baca 3 menit",
+      "date_published": "2026-11-16T02:50:50Z",
+      "image": "https://asset.kompas.com/crops/pMxQwmrd2tnh6QSbiRQCvFQR1bw=/0x0:1200x800/375x210/data/photo/2026/11/08/6af06d5f9b65f.png"
+    },
+    {
+      "id": "https://regional.kompas.com/read/2026/11/16/094914978/aspal-mulus-koto-tuo-padang-denyut-ekonomi-baru-warga-pascabanjir-bandang",
+      "url": "https://regional.kompas.com/read/2026/11/16/094914978/aspal-mulus-koto-tuo-padang-denyut-ekonomi-baru-warga-pascabanjir-bandang",
+      "title": "Aspal Mulus Koto Tuo Padang, Denyut Ekonomi Baru Warga Pascabanjir Bandang",
+      "summary": "Regional 34 menit lalu Waktu baca 5 menit",
+      "content_text": "Regional 34 menit lalu Waktu baca 5 menit",
+      "date_published": "2026-11-16T02:49:50Z",
+      "image": "https://asset.kompas.com/crops/CDWIZ6d1iBoMzVXDHsQJ7YWva04=/0x0:0x0/375x210/data/photo/2026/11/15/6af9bef03ebed.jpeg"
+    },
+    {
+      "id": "https://video.kompas.com/watch/1968070/detik-detik-drone-dan-artileri-houthi-hujani-pasukan-pro-saudi-di-perbukitan-lahj-yaman",
+      "url": "https://video.kompas.com/watch/1968070/detik-detik-drone-dan-artileri-houthi-hujani-pasukan-pro-saudi-di-perbukitan-lahj-yaman",
+      "title": "Detik-detik Drone dan Artileri Houthi Hujani Pasukan Pro-Saudi di Perbukitan Lahj Yaman",
+      "summary": "03:49 Detik-detik Drone dan Artileri Houthi Hujani Pasukan Pro-Saudi di Perbukitan Lahj Yaman Video 36 menit lalu",
+      "content_text": "03:49 Detik-detik Drone dan Artileri Houthi Hujani Pasukan Pro-Saudi di Perbukitan Lahj Yaman Video 36 menit lalu",
+      "date_published": "2026-11-16T02:47:50Z",
+      "image": "https://assets-studiohub.kompas.com/video2019/73f614858444241bddf143/7ca63e977e05ab069a79d569d7341b6a/7ca63e977e05ab069a79d569d7341b6a.jpg"
+    },
+    {
+      "id": "https://www.kompas.com/food/read/2026/11/16/094638975/sejarah-sendok-dulu-dianggap-jadi-jaminan-hidup",
+      "url": "https://www.kompas.com/food/read/2026/11/16/094638975/sejarah-sendok-dulu-dianggap-jadi-jaminan-hidup",
+      "title": "Sejarah Sendok, Dulu Dianggap Jadi Jaminan Hidup",
+      "summary": "Food 37 menit lalu Waktu baca 3 menit",
+      "content_text": "Food 37 menit lalu Waktu baca 3 menit",
+      "date_published": "2026-11-16T02:46:50Z",
+      "image": "https://asset.kompas.com/crops/llSnjcQDgr_vE96vH77RwCIwoY8=/0x0:1280x853/375x210/data/photo/2026/11/15/6af980deaa197.jpg"
+    },
+    {
+      "id": "https://bandung.kompas.com/read/2026/11/16/094609278/operasi-zebra-lodaya-2026-digelar-2-pekan-di-bandung-polisi-sasar-knalpot",
+      "url": "https://bandung.kompas.com/read/2026/11/16/094609278/operasi-zebra-lodaya-2026-digelar-2-pekan-di-bandung-polisi-sasar-knalpot",
+      "title": "Operasi Zebra Lodaya 2026 Digelar 2 Pekan di Bandung, Polisi Sasar Knalpot Brong hingga Balap Liar",
+      "summary": "Regional 37 menit lalu Waktu baca 3 menit",
+      "content_text": "Regional 37 menit lalu Waktu baca 3 menit",
+      "date_published": "2026-11-16T02:46:50Z",
+      "image": "https://asset.kompas.com/crops/i51ZZLxHolItz4s589ktLdCS0ZU=/0x0:0x0/375x210/data/photo/2026/11/16/6afa6a1361e60.jpg"
+    },
+    {
+      "id": "https://tekno.kompas.com/read/2026/11/16/09450017/pengkinian-data-bsu-2026-diperpanjang-hingga-besok-ada-link-khusus-hrd",
+      "url": "https://tekno.kompas.com/read/2026/11/16/09450017/pengkinian-data-bsu-2026-diperpanjang-hingga-besok-ada-link-khusus-hrd",
+      "title": "Pengkinian Data BSU 2026 Diperpanjang hingga Besok, Ada Link Khusus HRD",
+      "summary": "Tekno 39 menit lalu Waktu baca 5 menit",
+      "content_text": "Tekno 39 menit lalu Waktu baca 5 menit",
+      "date_published": "2026-11-16T02:44:50Z",
+      "image": "https://asset.kompas.com/crops/MtYEM5bK_pjcc0vcj8vmubzFFBE=/29x0:2166x1424/375x210/data/photo/2026/11/12/6af51979bc89e.png"
+    },
+    {
+      "id": "https://nasional.kompas.com/read/2026/11/16/09433191/sepekan-yang-riuh-satu-keputusan-bersejarah",
+      "url": "https://nasional.kompas.com/read/2026/11/16/09433191/sepekan-yang-riuh-satu-keputusan-bersejarah",
+      "title": "Sepekan yang Riuh, Satu Keputusan Bersejarah...",
+      "summary": "News 40 menit lalu Waktu baca 7 menit",
+      "content_text": "News 40 menit lalu Waktu baca 7 menit",
+      "date_published": "2026-11-16T02:43:50Z",
+      "image": "https://asset.kompas.com/crops/hmexuvs97OEaaaNxEJZJiFZVJII=/144x576:1295x1343/375x210/data/photo/2026/11/12/6af5933c7480d.jpg"
+    },
+    {
+      "id": "https://health.kompas.com/read/26K16093500768/ihdc-meluncurkan-ideologi-kesehatan-pancasila-ini-gagasan-utamanya",
+      "url": "https://health.kompas.com/read/26K16093500768/ihdc-meluncurkan-ideologi-kesehatan-pancasila-ini-gagasan-utamanya",
+      "title": "IHDC Meluncurkan Ideologi Kesehatan Pancasila, Ini Gagasan Utamanya",
+      "summary": "Health 49 menit lalu Waktu baca 4 menit",
+      "content_text": "Health 49 menit lalu Waktu baca 4 menit",
+      "date_published": "2026-11-16T02:34:50Z",
+      "image": "https://asset.kompas.com/crops/ZQZf4ZhL9QWFEsIzcSIQ7boPgl4=/0x86:1600x1153/375x210/data/photo/2026/11/14/6af8860079927.jpeg"
+    },
+    {
+      "id": "https://video.kompas.com/watch/1968068/jadi-pahlawan-rizky-terjun-menyelam-selamatkan-anak-tenggelam",
+      "url": "https://video.kompas.com/watch/1968068/jadi-pahlawan-rizky-terjun-menyelam-selamatkan-anak-tenggelam",
+      "title": "Jadi Pahlawan, Rizky Terjun Menyelam, Selamatkan Anak Tenggelam",
+      "summary": "00:32 Jadi Pahlawan, Rizky Terjun Menyelam, Selamatkan Anak Tenggelam Video 50 menit lalu",
+      "content_text": "00:32 Jadi Pahlawan, Rizky Terjun Menyelam, Selamatkan Anak Tenggelam Video 50 menit lalu",
+      "date_published": "2026-11-16T02:33:50Z",
+      "image": "https://video.kgnow.com/1001/1968068/1a8c26892a53426cd18b4fe074b2a7ac.jpg"
+    },
+    {
+      "id": "https://regional.kompas.com/read/2026/11/16/093300278/kesaksian-warga-soal-jasad-bayi-terkubur-di-boyolali-dua-perempuan-mengaku",
+      "url": "https://regional.kompas.com/read/2026/11/16/093300278/kesaksian-warga-soal-jasad-bayi-terkubur-di-boyolali-dua-perempuan-mengaku",
+      "title": "Kesaksian Warga soal Jasad Bayi Terkubur di Boyolali, Dua Perempuan Mengaku Kubur Bangkai Kucing",
+      "summary": "Regional 51 menit lalu Waktu baca 3 menit",
+      "content_text": "Regional 51 menit lalu Waktu baca 3 menit",
+      "date_published": "2026-11-16T02:32:50Z",
+      "image": "https://asset.kompas.com/crops/05ZY5SYWqzBfr4QWEbXAbhyUmQU=/0x0:1000x667/375x210/data/photo/2026/04/06/69d3483e4476b.jpg"
+    },
+    {
+      "id": "https://video.kompas.com/watch/1968067/detik-detik-irgc-luncurkan-6-drone-ke-bahrain-akhiri-jeda-serangan-selama-sebulan",
+      "url": "https://video.kompas.com/watch/1968067/detik-detik-irgc-luncurkan-6-drone-ke-bahrain-akhiri-jeda-serangan-selama-sebulan",
+      "title": "Detik-detik IRGC Luncurkan 6 Drone ke Bahrain, Akhiri Jeda Serangan Selama Sebulan",
+      "summary": "03:43 Detik-detik IRGC Luncurkan 6 Drone ke Bahrain, Akhiri Jeda Serangan Selama Sebulan Video 1 jam lalu",
+      "content_text": "03:43 Detik-detik IRGC Luncurkan 6 Drone ke Bahrain, Akhiri Jeda Serangan Selama Sebulan Video 1 jam lalu",
+      "date_published": "2026-11-16T02:23:50Z",
+      "image": "https://assets-studiohub.kompas.com/video2019/73f614858444241bddf143/95dfab0f2ecd6fc1ed45c02231f473ef/95dfab0f2ecd6fc1ed45c02231f473ef.jpg"
+    },
+    {
+      "id": "https://video.kompas.com/watch/1968066/kriteria-cawapres-ideal-dampingi-prabowo-sosok-seperti-apa-yang-dibutuhkan",
+      "url": "https://video.kompas.com/watch/1968066/kriteria-cawapres-ideal-dampingi-prabowo-sosok-seperti-apa-yang-dibutuhkan",
+      "title": "Kriteria Cawapres Ideal Dampingi Prabowo, Sosok Seperti Apa yang Dibutuhkan?",
+      "summary": "04:20 Kriteria Cawapres Ideal Dampingi Prabowo, Sosok Seperti Apa yang Dibutuhkan? Video 2 jam lalu",
+      "content_text": "04:20 Kriteria Cawapres Ideal Dampingi Prabowo, Sosok Seperti Apa yang Dibutuhkan? Video 2 jam lalu",
+      "date_published": "2026-11-16T01:23:50Z",
+      "image": "https://assets-studiohub.kompas.com/video2019/73f614858444241bddf143/bf9cde219705c8195f0b6e1d337be198/bf9cde219705c8195f0b6e1d337be198.jpg"
+    },
+    {
+      "id": "https://nasional.kompas.com/read/2026/11/16/08182721/hitung-hitungan-prabowo-memilih-wapres-loyalitas-atau-elektabilitas",
+      "url": "https://nasional.kompas.com/read/2026/11/16/08182721/hitung-hitungan-prabowo-memilih-wapres-loyalitas-atau-elektabilitas",
+      "title": "Headline Hitung-hitungan Prabowo Memilih Wapres: Loyalitas atau Elektabilitas?",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://asset.kompas.com/crops/BurK7FLisrog4VSEazHC4oFnKow=/236x0:1344x739/740x400/data/photo/2026/11/14/6af8140424f1f.jpeg"
+    },
+    {
+      "id": "https://money.kompas.com/read/2026/11/16/082200126/dipekerjakan-tak-sesuai-kontrak-pekerja-pkwt-otomatis-berstatus-karyawan-tetap",
+      "url": "https://money.kompas.com/read/2026/11/16/082200126/dipekerjakan-tak-sesuai-kontrak-pekerja-pkwt-otomatis-berstatus-karyawan-tetap",
+      "title": "Dipekerjakan Tak Sesuai Kontrak, Pekerja PKWT Otomatis Berstatus Karyawan Tetap",
+      "summary": "Money",
+      "content_text": "Money",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://asset.kompas.com/crops/IyEpPVPYta-uyn_SHAlWL0plJEU=/0x0:0x0/740x400/data/photo/2026/08/25/6a8d0a88eaa20.jpg"
+    },
+    {
+      "id": "https://internasional.kompas.com/read/2026/11/16/090348370/pertama-dalam-sejarah-ktt-trump-xi-putin-digelar-kamis-19-november",
+      "url": "https://internasional.kompas.com/read/2026/11/16/090348370/pertama-dalam-sejarah-ktt-trump-xi-putin-digelar-kamis-19-november",
+      "title": "Pertama dalam Sejarah, KTT Trump-Xi-Putin Digelar Kamis 19 November",
+      "summary": "Global",
+      "content_text": "Global",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://asset.kompas.com/crops/sf4m0D3RiCtftJ99orEqbxn3x2o=/64x0:1939x1250/740x400/data/photo/2026/11/16/6afa63149d532.jpg"
+    },
+    {
+      "id": "https://nasional.kompas.com/read/2026/11/16/09150031/gibran-pelajaran-mahal-untuk-tua-dan-muda",
+      "url": "https://nasional.kompas.com/read/2026/11/16/09150031/gibran-pelajaran-mahal-untuk-tua-dan-muda",
+      "title": "Gibran, Pelajaran Mahal untuk Tua dan Muda",
+      "summary": "News",
+      "content_text": "News",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://asset.kompas.com/crops/BMC-lsJzZ9rCnN7PEeOLveKghkU=/0x399:1439x1359/740x400/data/photo/2026/11/12/6af59338e1cd0.jpg"
+    },
+    {
+      "id": "https://money.kompas.com/read/2026/11/16/090432526/menteri-keuangan-as-minta-nvidia-cari-ceo-baru-dari-luar-perusahaan",
+      "url": "https://money.kompas.com/read/2026/11/16/090432526/menteri-keuangan-as-minta-nvidia-cari-ceo-baru-dari-luar-perusahaan",
+      "title": "Menteri Keuangan AS Minta Nvidia Cari CEO Baru dari Luar Perusahaan",
+      "summary": "Money",
+      "content_text": "Money",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://asset.kompas.com/crops/tuSj649UosMm-mDdnTJe9WrJXQw=/0x0:2000x1333/740x400/data/photo/2026/11/10/6af2767abf24a.jpg"
+    }
+  ]
+}

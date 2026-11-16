@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RSS SietekMalut — generator feed XML gratis</title>
+<meta name="description" content="Kumpulan link feed RSS (XML) yang dibuat otomatis dari halaman web dan bisa dibuka dari mana saja, kapan saja. Gratis, tanpa server sendiri.">
+<meta name="theme-color" content="#0b1220">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230ea5e9'/><circle cx='28' cy='72' r='9' fill='%230b1220'/><path d='M28 48a24 24 0 0 1 24 24' stroke='%230b1220' stroke-width='9' fill='none' stroke-linecap='round'/><path d='M28 26a46 46 0 0 1 46 46' stroke='%230b1220' stroke-width='9' fill='none' stroke-linecap='round'/></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#katalog">Lewati ke katalog feed</a>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round">
+          <circle cx="6" cy="18" r="1.6" fill="currentColor" stroke="none"/>
+          <path d="M6 12a6 6 0 0 1 6 6"/><path d="M6 6a12 12 0 0 1 12 12"/>
+        </svg>
+      </span>
+      <span class="brand-text">
+        <strong>RSS SietekMalut</strong>
+        <small>generator feed XML gratis</small>
+      </span>
+    </div>
+    <nav class="header-nav" aria-label="Navigasi utama">
+      <a href="#katalog">Katalog</a>
+      <a href="#buat">Buat feed</a>
+      <a href="#cara">Cara pakai</a>
+      <button id="themeToggle" class="icon-btn" type="button" title="Ganti tema" aria-label="Ganti tema terang/gelap">◐</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <h1>Link feed RSS dari website mana pun,<br><span class="accent">hidup terus di internet.</span></h1>
+      <p class="lead">
+        Setiap feed di halaman ini berupa file <strong>XML statis</strong> yang disimpan di GitHub Pages.
+        Tidak ada server yang perlu Anda bayar atau nyalakan — cukup buka linknya dari HP, laptop, atau pembaca RSS favorit.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#katalog">Lihat feed siap pakai</a>
+        <a class="btn" href="#buat">Buat feed baru</a>
+      </div>
+      <dl class="stats" id="stats" aria-live="polite">
+        <div><dt>Feed aktif</dt><dd id="statFeeds">—</dd></div>
+        <div><dt>Total item</dt><dd id="statItems">—</dd></div>
+        <div><dt>Diperbarui</dt><dd id="statUpdated">—</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <section class="section" id="katalog">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <h2>Katalog feed</h2>
+          <p class="muted">Salin link XML ke aplikasi pembaca RSS mana pun. Urutan mengikuti sumber terbaru.</p>
+        </div>
+        <div class="field-inline">
+          <label class="sr-only" for="search">Cari feed</label>
+          <input id="search" type="search" placeholder="Cari nama atau alamat situs…" autocomplete="off">
+        </div>
+      </div>
+
+      <p class="notice" id="catalogNotice" hidden></p>
+      <div class="grid" id="feedGrid" aria-live="polite">
+        <p class="skeleton">Memuat katalog…</p>
+      </div>
+      <p class="empty" id="emptyState" hidden>Tidak ada feed yang cocok dengan pencarian itu.</p>
+
+      <div class="opml-bar">
+        <div>
+          <strong>Impor semuanya sekaligus</strong>
+          <p class="muted">Satu klik untuk memasukkan seluruh feed ini ke pembaca RSS Anda lewat file OPML.</p>
+        </div>
+        <a class="btn" href="feeds/all.opml" download>Unduh all.opml</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-alt" id="buat">
+    <div class="wrap">
+      <h2>Buat feed baru</h2>
+      <p class="muted section-intro">
+        Tempel alamat halaman yang ingin dijadikan feed. Sistem akan mengambil judul, tanggal, ringkasan, dan gambar
+        dari halaman itu, lalu menerbitkannya sebagai XML.
+      </p>
+
+      <div class="builder">
+        <form id="builderForm" class="card builder-form" novalidate>
+          <div class="field">
+            <label for="srcUrl">Alamat halaman</label>
+            <input id="srcUrl" name="url" type="url" inputmode="url" placeholder="https://contoh.com/berita" required>
+            <p class="hint">Boleh halaman beranda, kategori, atau URL feed RSS/Atom yang sudah ada.</p>
+          </div>
+          <div class="field-row">
+            <div class="field">
+              <label for="srcName">Nama feed</label>
+              <input id="srcName" name="name" type="text" placeholder="Contoh: Berita Malut" maxlength="60">
+            </div>
+            <div class="field field-small">
+              <label for="srcLimit">Maks. item</label>
+              <input id="srcLimit" name="limit" type="number" min="5" max="100" step="5" value="30">
+            </div>
+          </div>
+          <div class="field">
+            <label for="srcMode">Cara mengambil</label>
+            <select id="srcMode" name="mode">
+              <option value="auto">Otomatis (disarankan)</option>
+              <option value="feed">Hanya feed RSS/Atom yang sudah ada</option>
+              <option value="html">Paksa ambil dari HTML halaman</option>
+            </select>
+          </div>
+          <button class="btn btn-primary btn-block" type="submit">Siapkan permintaan feed</button>
+          <p class="hint">Tidak ada data yang dikirim ke mana pun sampai Anda menekan tombol GitHub di bawah.</p>
+        </form>
+
+        <div class="card builder-result" id="builderResult" hidden>
+          <h3>Permintaan siap</h3>
+          <p class="muted">Langkah terakhir: kirim ke repositori. Setelah itu robot GitHub membuat XML-nya dalam 1–2 menit.</p>
+
+          <div class="result-preview">
+            <span class="badge" id="resultSlug">slug</span>
+            <code id="resultUrlPreview">https://sietekmalut.github.io/feeds/slug.xml</code>
+          </div>
+
+          <div class="btn-row">
+            <a class="btn btn-primary" id="publishLink" href="#" target="_blank" rel="noopener">Buka GitHub &amp; publikasikan</a>
+            <button class="btn" id="copyRequest" type="button">Salin JSON</button>
+          </div>
+          <p class="hint">
+            Butuh login GitHub (akun <strong>SietekMalut</strong>). Di halaman GitHub, tekan
+            <em>Commit changes</em> — tidak perlu mengubah apa pun.
+          </p>
+          <details>
+            <summary>Lihat isi permintaan</summary>
+            <pre><code id="resultJson"></code></pre>
+          </details>
+        </div>
+
+        <aside class="card builder-help">
+          <h3>Kalau tombol GitHub tidak bisa dipakai</h3>
+          <ol>
+            <li>Buka <a href="https://github.com/SietekMalut/sietekmalut.github.io/actions/workflows/update-feeds.yml" target="_blank" rel="noopener">halaman Actions</a>, tekan <em>Run workflow</em>.</li>
+            <li>Isi <code>url</code> dan <code>name</code>, lalu jalankan.</li>
+            <li>Tunggu ikon centang hijau; link feed muncul di katalog ini.</li>
+          </ol>
+          <h3>Batas yang wajar</h3>
+          <ul>
+            <li>Halaman yang butuh login atau dirender penuh oleh JavaScript tidak bisa dibaca.</li>
+            <li>Situs yang menolak robot (403/429) akan gagal; feed lama tetap dipertahankan.</li>
+            <li>Feed diperbarui otomatis tiap 30 menit.</li>
+          </ul>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="cara">
+    <div class="wrap">
+      <h2>Cara pakai</h2>
+      <ol class="steps">
+        <li>
+          <span class="step-num" aria-hidden="true">1</span>
+          <h3>Pilih atau buat feed</h3>
+          <p>Gunakan feed yang sudah ada, atau buat baru dengan menempel satu alamat halaman.</p>
+        </li>
+        <li>
+          <span class="step-num" aria-hidden="true">2</span>
+          <h3>Salin link XML</h3>
+          <p>Bentuknya selalu <code>https://sietekmalut.github.io/feeds/nama-feed.xml</code>.</p>
+        </li>
+        <li>
+          <span class="step-num" aria-hidden="true">3</span>
+          <h3>Tempel di pembaca RSS</h3>
+          <p>Feedly, Inoreader, NetNewsWire, FreshRSS, atau widget dashboard — semuanya bisa membaca RSS 2.0. Butuh data untuk scraping? Pakai versi <code>.json</code> (JSON Feed 1.1).</p>
+        </li>
+        <li>
+          <span class="step-num" aria-hidden="true">4</span>
+          <h3>Biarkan berjalan</h3>
+          <p>Robot GitHub memperbarui XML tiap setengah jam. Link tetap sama, isinya yang bertambah.</p>
+        </li>
+      </ol>
+
+      <div class="faq">
+        <details>
+          <summary>Apakah ini benar-benar gratis dan permanen?</summary>
+          <p>Ya, selama repositori GitHub Pages-nya ada. Tidak ada langganan, database, atau server yang perlu dinyalakan.</p>
+        </details>
+        <details>
+          <summary>Kenapa halaman saya menghasilkan feed kosong?</summary>
+          <p>Biasanya karena daftar artikelnya dibuat oleh JavaScript, atau situs memblokir permintaan otomatis. Coba alamat halaman kategori/indeks yang memuat tautan artikel langsung di HTML.</p>
+        </details>
+        <details>
+          <summary>Apakah saya bisa memakai lebih dari 100 item?</summary>
+          <p>Tidak untuk saat ini. Batas 100 item menjaga ukuran file dan waktu muat tetap wajar. Untuk arsip, gunakan beberapa halaman kategori.</p>
+        </details>
+        <details>
+          <summary>Bagaimana kalau situsnya mati sementara?</summary>
+          <p>Generator tidak menghapus feed lama. File XML terakhir tetap bisa diakses, dan akan diperbarui lagi saat situs pulih.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <p>
+      Dibuat otomatis oleh <a href="https://github.com/SietekMalut/sietekmalut.github.io" target="_blank" rel="noopener">SietekMalut</a>
+      · RSS 2.0 · <a href="feeds/index.json">index.json</a> · <a href="feeds/all.opml">OPML</a>
+    </p>
+    <p class="muted small">Konten milik situs sumber. Feed ini hanya menyusun ulang tautan publik yang sudah tersedia.</p>
+  </div>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="assets/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,251 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "detikcom - Informasi Berita Terkini dan Terbaru Hari Ini",
+  "home_page_url": "https://www.detik.com",
+  "feed_url": "https://sietekmalut.github.io/feeds/detik.json",
+  "description": "Indeks berita terkini dan terbaru hari ini dari peristiwa, kecelakaan, kriminal, hukum, berita unik, Politik, dan liputan khusus di Indonesia dan Internasional",
+  "language": "id",
+  "items": [
+    {
+      "id": "https://news.detik.com/berita/d-8754691/pramono-sudah-konsultasi-dengan-pemerintah-pusat-soal-penurunan-foto-gibran",
+      "url": "https://news.detik.com/berita/d-8754691/pramono-sudah-konsultasi-dengan-pemerintah-pusat-soal-penurunan-foto-gibran",
+      "title": "Pramono Sudah Konsultasi dengan Pemerintah Pusat soal Penurunan Foto Gibran",
+      "summary": "detikNews | 1 menit yang lalu",
+      "content_text": "detikNews | 1 menit yang lalu",
+      "date_published": "2026-11-16T03:23:20Z",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2026/11/16/foto-gibran-rakabuming-raka-di-kantor-pemprov-dki-jakarta-diturunkan-taufiq-syarifudindetikcom-1794799174287_169.jpeg?w=700&q=90"
+    },
+    {
+      "id": "https://sport.detik.com/sepakbola/bola-dunia/d-8754646/harry-kane-samai-rekor-78-tahun-inggris",
+      "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8754646/harry-kane-samai-rekor-78-tahun-inggris",
+      "title": "Harry Kane Samai Rekor 78 Tahun Inggris",
+      "summary": "3 menit yang lalu",
+      "content_text": "3 menit yang lalu",
+      "date_published": "2026-11-16T03:21:00Z"
+    },
+    {
+      "id": "https://news.detik.com/berita/d-8754682/tengara-kasih-ingin-bermanfaat-untuk-kesehatan-anak-lewat-sobiku-indonesia",
+      "url": "https://news.detik.com/berita/d-8754682/tengara-kasih-ingin-bermanfaat-untuk-kesehatan-anak-lewat-sobiku-indonesia",
+      "title": "DPD RI Awards 2026",
+      "summary": "Tengara Kasih Ingin Bermanfaat untuk Kesehatan Anak Lewat SOBIKU Indonesia 7 menit yang lalu",
+      "content_text": "Tengara Kasih Ingin Bermanfaat untuk Kesehatan Anak Lewat SOBIKU Indonesia 7 menit yang lalu",
+      "date_published": "2026-11-16T03:16:00Z"
+    },
+    {
+      "id": "https://20.detik.com/detikupdate/20261116-261116020/video-siswi-smkn-1-buduran-tewas-saat-mendaki-gunung-penanggungan",
+      "url": "https://20.detik.com/detikupdate/20261116-261116020/video-siswi-smkn-1-buduran-tewas-saat-mendaki-gunung-penanggungan",
+      "title": "Video: Siswi SMKN 1 Buduran Tewas saat Mendaki Gunung Penanggungan",
+      "summary": "8 menit yang lalu",
+      "content_text": "8 menit yang lalu",
+      "date_published": "2026-11-16T03:16:00Z"
+    },
+    {
+      "id": "https://inet.detik.com/games-news/d-8754569/pubg-mobile-flash-resmi-dirilis-global-bisa-main-di-android-dan-ios",
+      "url": "https://inet.detik.com/games-news/d-8754569/pubg-mobile-flash-resmi-dirilis-global-bisa-main-di-android-dan-ios",
+      "title": "PUBG Mobile Flash Resmi Dirilis Global, Bisa Main di Android dan iOS",
+      "summary": "8 menit yang lalu",
+      "content_text": "8 menit yang lalu",
+      "date_published": "2026-11-16T03:16:00Z"
+    },
+    {
+      "id": "https://www.detik.com/hikmah/infografis/d-8754251/ini-nama-nama-neraka-dan-calon-penghuninya",
+      "url": "https://www.detik.com/hikmah/infografis/d-8754251/ini-nama-nama-neraka-dan-calon-penghuninya",
+      "title": "Ini Nama-Nama Neraka dan Calon Penghuninya",
+      "summary": "Infografis Infografis Ini Nama-Nama Neraka dan Calon Penghuninya 9 menit yang lalu",
+      "content_text": "Infografis Infografis Ini Nama-Nama Neraka dan Calon Penghuninya 9 menit yang lalu",
+      "date_published": "2026-11-16T03:15:00Z"
+    },
+    {
+      "id": "https://news.detik.com/berita/d-8754679/polri-ungkap-alasan-kasus-pemerasan-syl-mandek-firli-bahuri-absen-pemeriksaan",
+      "url": "https://news.detik.com/berita/d-8754679/polri-ungkap-alasan-kasus-pemerasan-syl-mandek-firli-bahuri-absen-pemeriksaan",
+      "title": "Polri Ungkap Alasan Kasus Pemerasan SYL Mandek: Firli Bahuri Absen Pemeriksaan",
+      "summary": "9 menit yang lalu",
+      "content_text": "9 menit yang lalu",
+      "date_published": "2026-11-16T03:15:00Z"
+    },
+    {
+      "id": "https://travel.detik.com/travel-news/d-8754469/gamelan-bali-bikin-warga-as-terpukau-di-berkeley",
+      "url": "https://travel.detik.com/travel-news/d-8754469/gamelan-bali-bikin-warga-as-terpukau-di-berkeley",
+      "title": "Gamelan Bali Bikin Warga AS Terpukau di Berkeley",
+      "summary": "10 menit yang lalu",
+      "content_text": "10 menit yang lalu",
+      "date_published": "2026-11-16T03:14:00Z"
+    },
+    {
+      "id": "https://www.detik.com/properti/berita/d-8754676/nyaris-dirobohkan-mal-tua-ini-bakal-disulap-jadi-surganya-nongkrong",
+      "url": "https://www.detik.com/properti/berita/d-8754676/nyaris-dirobohkan-mal-tua-ini-bakal-disulap-jadi-surganya-nongkrong",
+      "title": "Nyaris Dirobohkan! Mal Tua Ini Bakal Disulap Jadi Surganya Nongkrong",
+      "summary": "11 menit yang lalu",
+      "content_text": "11 menit yang lalu",
+      "date_published": "2026-11-16T03:13:00Z"
+    },
+    {
+      "id": "https://20.detik.com/detikupdate/20261116-261116021/video-pecah-banget-ong-seong-wu-ajak-fans-jakarta-nostalgia-wanna-one",
+      "url": "https://20.detik.com/detikupdate/20261116-261116021/video-pecah-banget-ong-seong-wu-ajak-fans-jakarta-nostalgia-wanna-one",
+      "title": "Video: Pecah Banget! Ong Seong-wu Ajak Fans Jakarta Nostalgia Wanna One",
+      "summary": "13 menit yang lalu",
+      "content_text": "13 menit yang lalu",
+      "date_published": "2026-11-16T03:11:00Z"
+    },
+    {
+      "id": "https://sport.detik.com/moto-gp/d-8754648/motogp-portugal-2026-8-skenario-marc-marquez-bisa-kunci-gelar-di-sprint-race",
+      "url": "https://sport.detik.com/moto-gp/d-8754648/motogp-portugal-2026-8-skenario-marc-marquez-bisa-kunci-gelar-di-sprint-race",
+      "title": "MotoGP Portugal 2026: 8 Skenario Marc Marquez Bisa Kunci Gelar di Sprint Race",
+      "summary": "13 menit yang lalu",
+      "content_text": "13 menit yang lalu",
+      "date_published": "2026-11-16T03:11:00Z"
+    },
+    {
+      "id": "https://news.detik.com/berita/d-8754674/rano-pkb-dukung-dasco-jadi-wapres-mampu-rangkul-berbagai-kekuatan-politik",
+      "url": "https://news.detik.com/berita/d-8754674/rano-pkb-dukung-dasco-jadi-wapres-mampu-rangkul-berbagai-kekuatan-politik",
+      "title": "Rano PKB Dukung Dasco Jadi Wapres: Mampu Rangkul Berbagai Kekuatan Politik",
+      "summary": "14 menit yang lalu",
+      "content_text": "14 menit yang lalu",
+      "date_published": "2026-11-16T03:10:00Z"
+    },
+    {
+      "id": "https://news.detik.com/berita/d-8754673/momen-prabowo-ikut-family-photo-saat-ktt-asean-di-manila",
+      "url": "https://news.detik.com/berita/d-8754673/momen-prabowo-ikut-family-photo-saat-ktt-asean-di-manila",
+      "title": "Momen Prabowo Ikut Family Photo Saat KTT ASEAN di Manila",
+      "summary": "14 menit yang lalu",
+      "content_text": "14 menit yang lalu",
+      "date_published": "2026-11-16T03:10:00Z"
+    },
+    {
+      "id": "https://oto.detik.com/mobil/d-8754669/dua-mobil-honda-ini-laku-keras-yang-beli-mesti-sabar",
+      "url": "https://oto.detik.com/mobil/d-8754669/dua-mobil-honda-ini-laku-keras-yang-beli-mesti-sabar",
+      "title": "Dua Mobil Honda Ini Laku Keras, Yang Beli Mesti Sabar",
+      "summary": "16 menit yang lalu",
+      "content_text": "16 menit yang lalu",
+      "date_published": "2026-11-16T03:08:00Z"
+    },
+    {
+      "id": "https://news.detik.com/bbc-world/d-8754667/penerbangan-as-lumpuh-berjam-jam-apa-kaitannya-dengan-pembaruan-telekomunikasi",
+      "url": "https://news.detik.com/bbc-world/d-8754667/penerbangan-as-lumpuh-berjam-jam-apa-kaitannya-dengan-pembaruan-telekomunikasi",
+      "title": "Penerbangan AS Lumpuh Berjam-jam, Apa Kaitannya dengan Pembaruan Telekomunikasi?",
+      "summary": "18 menit yang lalu",
+      "content_text": "18 menit yang lalu",
+      "date_published": "2026-11-16T03:06:00Z"
+    },
+    {
+      "id": "https://finance.detik.com/bursa-dan-valas/d-8754666/rans-ditinggal-10-883-investor",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8754666/rans-ditinggal-10-883-investor",
+      "title": "RANS Ditinggal 10.883 Investor",
+      "summary": "19 menit yang lalu",
+      "content_text": "19 menit yang lalu",
+      "date_published": "2026-11-16T03:05:00Z"
+    },
+    {
+      "id": "https://20.detik.com/detikupdate/20261116-261116019/video-mengintip-5000-fosil-dinosaurus-di-satu-dinding-raksasa",
+      "url": "https://20.detik.com/detikupdate/20261116-261116019/video-mengintip-5000-fosil-dinosaurus-di-satu-dinding-raksasa",
+      "title": "Video: Mengintip 5.000 Fosil Dinosaurus di Satu Dinding Raksasa!",
+      "summary": "20 menit yang lalu",
+      "content_text": "20 menit yang lalu",
+      "date_published": "2026-11-16T03:04:00Z"
+    },
+    {
+      "id": "https://www.detik.com/pop/movie/d-8754392/bocornya-kontrak-robert-pattinson-di-james-bond",
+      "url": "https://www.detik.com/pop/movie/d-8754392/bocornya-kontrak-robert-pattinson-di-james-bond",
+      "title": "Bocornya Kontrak Robert Pattinson di James Bond",
+      "summary": "20 menit yang lalu",
+      "content_text": "20 menit yang lalu",
+      "date_published": "2026-11-16T03:04:00Z"
+    },
+    {
+      "id": "https://news.detik.com/berita/d-8754662/ngeri-rumah-warga-klaten-jadi-sarang-kobra-weling-dan-piton-beranak-pinak",
+      "url": "https://news.detik.com/berita/d-8754662/ngeri-rumah-warga-klaten-jadi-sarang-kobra-weling-dan-piton-beranak-pinak",
+      "title": "Ngeri Rumah Warga Klaten Jadi Sarang Kobra, Weling dan Piton Beranak-pinak",
+      "summary": "22 menit yang lalu",
+      "content_text": "22 menit yang lalu",
+      "date_published": "2026-11-16T03:02:00Z"
+    },
+    {
+      "id": "https://hot.detik.com/celeb/d-8754270/nadine-chandrawinata-siap-mau-punya-anak-cowok",
+      "url": "https://hot.detik.com/celeb/d-8754270/nadine-chandrawinata-siap-mau-punya-anak-cowok",
+      "title": "Nadine Chandrawinata Siap Mau Punya Anak Cowok",
+      "summary": "22 menit yang lalu",
+      "content_text": "22 menit yang lalu",
+      "date_published": "2026-11-16T03:01:00Z"
+    },
+    {
+      "id": "https://food.detik.com/berita-boga/d-8754543/auto-kalap-durian-musang-king-diskon-40-di-transmart-ada-garansi-rasa",
+      "url": "https://food.detik.com/berita-boga/d-8754543/auto-kalap-durian-musang-king-diskon-40-di-transmart-ada-garansi-rasa",
+      "title": "Auto Kalap! Durian Musang King Diskon 40% di Transmart, Ada Garansi Rasa",
+      "summary": "23 menit yang lalu",
+      "content_text": "23 menit yang lalu",
+      "date_published": "2026-11-16T03:01:00Z"
+    },
+    {
+      "id": "https://news.detik.com/foto-news/d-8754070/pameran-world-press-photo-2026-rekam-konflik-hingga-tradisi-dunia",
+      "url": "https://news.detik.com/foto-news/d-8754070/pameran-world-press-photo-2026-rekam-konflik-hingga-tradisi-dunia",
+      "title": "Pameran World Press Photo 2026 Rekam Konflik hingga Tradisi Dunia",
+      "summary": "3 Foto Foto News Pameran World Press Photo 2026 Rekam Konflik hingga Tradisi Dunia 23 menit yang lalu",
+      "content_text": "3 Foto Foto News Pameran World Press Photo 2026 Rekam Konflik hingga Tradisi Dunia 23 menit yang lalu",
+      "date_published": "2026-11-16T03:00:00Z"
+    },
+    {
+      "id": "https://wolipop.detik.com/love/d-8754592/ramalan-zodiak-16-november-cancer-atur-waktu-virgo-jangan-monton",
+      "url": "https://wolipop.detik.com/love/d-8754592/ramalan-zodiak-16-november-cancer-atur-waktu-virgo-jangan-monton",
+      "title": "Ramalan Zodiak 16 November: Cancer Atur Waktu, Virgo Jangan Monton",
+      "summary": "24 menit yang lalu",
+      "content_text": "24 menit yang lalu",
+      "date_published": "2026-11-16T03:00:00Z"
+    },
+    {
+      "id": "https://sport.detik.com/sepakbola/bola-dunia/d-8754537/italia-php-dirinya-sendiri",
+      "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8754537/italia-php-dirinya-sendiri",
+      "title": "Italia PHP Dirinya Sendiri",
+      "summary": "24 menit yang lalu",
+      "content_text": "24 menit yang lalu",
+      "date_published": "2026-11-16T03:00:00Z"
+    },
+    {
+      "id": "https://www.detik.com/edu/detikpedia/d-8754410/menurut-sains-begini-cara-bunglon-mengubah-warna-tubuh",
+      "url": "https://www.detik.com/edu/detikpedia/d-8754410/menurut-sains-begini-cara-bunglon-mengubah-warna-tubuh",
+      "title": "Menurut Sains, Begini Cara Bunglon Mengubah Warna Tubuh",
+      "summary": "24 menit yang lalu",
+      "content_text": "24 menit yang lalu",
+      "date_published": "2026-11-16T03:00:00Z"
+    },
+    {
+      "id": "https://news.detik.com/berita/d-8754652/kapolri-resmikan-4-fasilitas-brimob-gerbang-mako-hingga-monumen-di-kalbar",
+      "url": "https://news.detik.com/berita/d-8754652/kapolri-resmikan-4-fasilitas-brimob-gerbang-mako-hingga-monumen-di-kalbar",
+      "title": "Kapolri Resmikan 4 Fasilitas Brimob: Gerbang Mako hingga Monumen di Kalbar",
+      "summary": "30 menit yang lalu",
+      "content_text": "30 menit yang lalu",
+      "date_published": "2026-11-16T02:54:00Z"
+    },
+    {
+      "id": "https://news.detik.com/berita/d-8754650/prabowo-dorong-negara-asean-kompak-dukung-kandidat-di-pbb",
+      "url": "https://news.detik.com/berita/d-8754650/prabowo-dorong-negara-asean-kompak-dukung-kandidat-di-pbb",
+      "title": "Prabowo Dorong Negara ASEAN Kompak Dukung Kandidat di PBB",
+      "summary": "30 menit yang lalu",
+      "content_text": "30 menit yang lalu",
+      "date_published": "2026-11-16T02:53:00Z"
+    },
+    {
+      "id": "https://20.detik.com/detikupdate/20261116-261116018/video-penjelasan-kemnaker-soal-cuti-bersama-yang-sifatnya-tidak-wajib",
+      "url": "https://20.detik.com/detikupdate/20261116-261116018/video-penjelasan-kemnaker-soal-cuti-bersama-yang-sifatnya-tidak-wajib",
+      "title": "Video Penjelasan Kemnaker soal Cuti Bersama yang Sifatnya Tidak Wajib",
+      "summary": "33 menit yang lalu",
+      "content_text": "33 menit yang lalu",
+      "date_published": "2026-11-16T02:50:00Z"
+    },
+    {
+      "id": "https://20.detik.com/detikupdate/20261116-261116014/video-aksi-heroik-pria-di-palembang-selamatkan-bocah-yang-jatuh-ke-drainase",
+      "url": "https://20.detik.com/detikupdate/20261116-261116014/video-aksi-heroik-pria-di-palembang-selamatkan-bocah-yang-jatuh-ke-drainase",
+      "title": "Video Aksi Heroik Pria di Palembang Selamatkan Bocah yang Jatuh ke Drainase",
+      "summary": "35 menit yang lalu",
+      "content_text": "35 menit yang lalu",
+      "date_published": "2026-11-16T02:48:00Z"
+    },
+    {
+      "id": "https://oto.detik.com/berita/d-8754637/ban-mobil-listrik-lebih-cepat-botak-mitos-atau-fakta",
+      "url": "https://oto.detik.com/berita/d-8754637/ban-mobil-listrik-lebih-cepat-botak-mitos-atau-fakta",
+      "title": "Ban Mobil Listrik Lebih Cepat Botak, Mitos atau Fakta?",
+      "summary": "36 menit yang lalu",
+      "content_text": "36 menit yang lalu",
+      "date_published": "2026-11-16T02:48:00Z"
+    }
+  ]
+}

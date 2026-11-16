@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>SietekMalut RSS</title>
+  </head>
+  <body>
+    <outline type="rss" text="CNN Indonesia" title="CNN Indonesia" xmlUrl="https://sietekmalut.github.io/feeds/cnn-indonesia.xml" htmlUrl="https://www.cnnindonesia.com"/>
+    <outline type="rss" text="Kompas.com" title="Kompas.com" xmlUrl="https://sietekmalut.github.io/feeds/kompas.xml" htmlUrl="https://www.kompas.com"/>
+    <outline type="rss" text="Detik.com" title="Detik.com" xmlUrl="https://sietekmalut.github.io/feeds/detik.xml" htmlUrl="https://www.detik.com"/>
+    <outline type="rss" text="Antara News" title="Antara News" xmlUrl="https://sietekmalut.github.io/feeds/antaranews.xml" htmlUrl="https://www.antaranews.com"/>
+    <outline type="rss" text="Tagar.id" title="Tagar.id" xmlUrl="https://sietekmalut.github.io/feeds/tagar.xml" htmlUrl="https://www.tagar.id"/>
+    <outline type="rss" text="Malut Post" title="Malut Post" xmlUrl="https://sietekmalut.github.io/feeds/malutpost.xml" htmlUrl="https://malutpost.id"/>
+    <outline type="rss" text="Malut Today" title="Malut Today" xmlUrl="https://sietekmalut.github.io/feeds/malut-today.xml" htmlUrl="https://maluttoday.id"/>
+    <outline type="rss" text="Posko Malut" title="Posko Malut" xmlUrl="https://sietekmalut.github.io/feeds/poskomalut.xml" htmlUrl="https://poskomalut.com"/>
+    <outline type="rss" text="Malut Satu" title="Malut Satu" xmlUrl="https://sietekmalut.github.io/feeds/malutsatu.xml" htmlUrl="https://www.malutsatu.com"/>
+    <outline type="rss" text="Indo Timur" title="Indo Timur" xmlUrl="https://sietekmalut.github.io/feeds/indotimur.xml" htmlUrl="https://indotimur.com"/>
+  </body>
+</opml>

@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "title": "SietekMalut RSS",
+    "site_url": "https://sietekmalut.github.io",
+    "description": "Feed RSS publik yang dibuat otomatis dari halaman berita mana pun."
+  },
+  "defaults": {
+    "limit": 30,
+    "mode": "auto",
+    "min_items": 3,
+    "ttl": 30
+  },
+  "sources": [
+    {
+      "slug": "cnn-indonesia",
+      "name": "CNN Indonesia",
+      "url": "https://www.cnnindonesia.com/",
+      "language": "id",
+      "enabled": true
+    },
+    {
+      "slug": "kompas",
+      "name": "Kompas.com",
+      "url": "https://www.kompas.com/",
+      "language": "id",
+      "enabled": true
+    },
+    {
+      "slug": "detik",
+      "name": "Detik.com",
+      "url": "https://www.detik.com/",
+      "language": "id",
+      "enabled": true
+    },
+    {
+      "slug": "antaranews",
+      "name": "Antara News",
+      "url": "https://www.antaranews.com/",
+      "language": "id",
+      "enabled": true
+    },
+    {
+      "slug": "tagar",
+      "name": "Tagar.id",
+      "url": "https://www.tagar.id/",
+      "language": "id",
+      "enabled": true
+    },
+    {
+      "slug": "malutpost",
+      "name": "Malut Post",
+      "url": "https://malutpost.id/",
+      "language": "id",
+      "enabled": true
+    },
+    {
+      "slug": "malut-today",
+      "name": "Malut Today",
+      "url": "https://maluttoday.com/",
+      "language": "id",
+      "enabled": true
+    },
+    {
+      "slug": "poskomalut",
+      "name": "Posko Malut",
+      "url": "https://poskomalut.com/",
+      "language": "id",
+      "enabled": true
+    },
+    {
+      "slug": "malutsatu",
+      "name": "Malut Satu",
+      "url": "https://malutsatu.com/",
+      "language": "id",
+      "enabled": true
+    },
+    {
+      "slug": "indotimur",
+      "name": "Indo Timur",
+      "url": "https://indotimur.com/",
+      "language": "id",
+      "enabled": true
+    }
+  ]
+}
