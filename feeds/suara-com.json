@@ -1,0 +1,136 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Suara.com - Tanpa Suara, Beda Artinya",
+  "home_page_url": "https://www.suara.com",
+  "feed_url": "https://sietekmalut.github.io/feeds/suara-com.json",
+  "description": "Dapatkan berita terkini dan terpercaya dari Suara.com. Informasi lengkap seputar politik, bisnis, hukum, sepak bola, entertainment, gaya hidup, otomotif, sains & teknologi, serta jurnalisme warga Indonesia.",
+  "language": "id",
+  "items": [
+    {
+      "id": "https://jateng.suara.com/read/2026/11/16/101557/jateng-punya-potensi-ekonomi-kreatif-melimpah-wakil-ketua-dprd-butuh-modal-dan-pendampingan",
+      "url": "https://jateng.suara.com/read/2026/11/16/101557/jateng-punya-potensi-ekonomi-kreatif-melimpah-wakil-ketua-dprd-butuh-modal-dan-pendampingan",
+      "title": "Jateng Punya Potensi Ekonomi Kreatif Melimpah, Wakil Ketua DPRD: Butuh Modal dan Pendampingan!",
+      "summary": "Jawa Tengah| 10:15 WIB",
+      "content_text": "Jawa Tengah| 10:15 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2026/11/16/28205-sarif-abdillah.jpg"
+    },
+    {
+      "id": "https://www.suara.com/yoursay/2026/11/16/101500/bias-di-balik-label-harga-mengapa-status-penjual-mengubah-nilai-produk",
+      "url": "https://www.suara.com/yoursay/2026/11/16/101500/bias-di-balik-label-harga-mengapa-status-penjual-mengubah-nilai-produk",
+      "title": "Bias di Balik Label Harga: Mengapa Status Penjual Mengubah Nilai Produk?",
+      "summary": "Your Say| 10:15 WIB",
+      "content_text": "Your Say| 10:15 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2026/11/16/58124-ilustrasi-live-shopping-magnific.jpg"
+    },
+    {
+      "id": "https://riau.suara.com/read/2026/11/16/101437/viral-juru-parkir-diduga-serang-pengemudi-dishub-pekanbaru-cari-pelaku",
+      "url": "https://riau.suara.com/read/2026/11/16/101437/viral-juru-parkir-diduga-serang-pengemudi-dishub-pekanbaru-cari-pelaku",
+      "title": "Viral Juru Parkir Diduga Serang Pengemudi, Dishub Pekanbaru Cari Pelaku",
+      "summary": "Riau| 10:14 WIB",
+      "content_text": "Riau| 10:14 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2026/11/16/11486-juru-pakir-viral-di-pekanbaru-ist.jpg"
+    },
+    {
+      "id": "https://www.suara.com/bisnis/2026/11/16/101314/belanja-produk-umkm-pakai-mypertamina-ada-kejutan-hadiah-di-hari-terakhir-smexpo-2026",
+      "url": "https://www.suara.com/bisnis/2026/11/16/101314/belanja-produk-umkm-pakai-mypertamina-ada-kejutan-hadiah-di-hari-terakhir-smexpo-2026",
+      "title": "Belanja Produk UMKM Pakai MyPertamina, Ada Kejutan Hadiah di Hari Terakhir SMEXPO 2026!",
+      "summary": "Bisnis| 10:13 WIB",
+      "content_text": "Bisnis| 10:13 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2026/11/16/74285-pertamina.jpg"
+    },
+    {
+      "id": "https://www.suara.com/health/2026/11/16/101018/deteksi-dini-pemeriksaan-kesuburan-tidak-hanya-fokus-pada-perempuan",
+      "url": "https://www.suara.com/health/2026/11/16/101018/deteksi-dini-pemeriksaan-kesuburan-tidak-hanya-fokus-pada-perempuan",
+      "title": "Deteksi Dini Pemeriksaan Kesuburan, Tidak Hanya Fokus pada Perempuan",
+      "summary": "Health| 10:10 WIB",
+      "content_text": "Health| 10:10 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2025/08/28/24528-ilustrasi-hamil.jpg"
+    },
+    {
+      "id": "https://www.suara.com/news/2026/11/16/100806/kata-kata-malaysia-singapura-keluhkan-kebakaran-hutan-di-ktt-asean-2026",
+      "url": "https://www.suara.com/news/2026/11/16/100806/kata-kata-malaysia-singapura-keluhkan-kebakaran-hutan-di-ktt-asean-2026",
+      "title": "Kata-kata Malaysia - Singapura Keluhkan Kebakaran Hutan di KTT ASEAN 2026",
+      "summary": "News| 10:08 WIB",
+      "content_text": "News| 10:08 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2026/07/06/91939-prabowo-subianto-dan-perdana-menteri-singapura-lawrence-wong.jpg"
+    },
+    {
+      "id": "https://sumut.suara.com/read/2026/11/16/100500/sering-emosi-meledak-ini-cara-mengendalikan-amarah-sebelum-menyesal",
+      "url": "https://sumut.suara.com/read/2026/11/16/100500/sering-emosi-meledak-ini-cara-mengendalikan-amarah-sebelum-menyesal",
+      "title": "Sering Emosi Meledak? Ini Cara Mengendalikan Amarah Sebelum Menyesal",
+      "summary": "Sumut| 10:05 WIB",
+      "content_text": "Sumut| 10:05 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2023/05/25/14654-ilustrasi-marah-pexelsarlawka-aungtun.jpg"
+    },
+    {
+      "id": "https://www.suara.com/news/2026/11/16/095914/ranjau-laut-iran-tenggelamkan-supertanker-minyak-di-selat-hormuz",
+      "url": "https://www.suara.com/news/2026/11/16/095914/ranjau-laut-iran-tenggelamkan-supertanker-minyak-di-selat-hormuz",
+      "title": "Ranjau Laut Iran Tenggelamkan Supertanker Minyak di Selat Hormuz",
+      "summary": "News| 09:59 WIB",
+      "content_text": "News| 09:59 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2026/04/09/96199-selat-hormuz.jpg"
+    },
+    {
+      "id": "https://www.suara.com/bola/2026/11/16/095248/persebaya-belum-puas-fokus-benahi-tim-meski-menang-tipis-atas-western-australia",
+      "url": "https://www.suara.com/bola/2026/11/16/095248/persebaya-belum-puas-fokus-benahi-tim-meski-menang-tipis-atas-western-australia",
+      "title": "Persebaya Belum Puas, Fokus Benahi Tim Meski Menang Tipis atas Western Australia",
+      "summary": "Bola| 09:52 WIB",
+      "content_text": "Bola| 09:52 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2026/11/16/68621-bernardo-tavares-fokus-evaluasi-pemain-meski-persebaya-menang-4-3-atas-western-australia.jpg"
+    },
+    {
+      "id": "https://riau.suara.com/read/2026/11/16/095025/terungkap-wni-direkrut-jadi-tentara-bayaran-rusia-dijanjikan-gaji-rp50-juta",
+      "url": "https://riau.suara.com/read/2026/11/16/095025/terungkap-wni-direkrut-jadi-tentara-bayaran-rusia-dijanjikan-gaji-rp50-juta",
+      "title": "Terungkap! WNI Direkrut Jadi Tentara Bayaran Rusia, Dijanjikan Gaji Rp50 Juta",
+      "summary": "Riau| 09:50 WIB",
+      "content_text": "Riau| 09:50 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2022/04/24/33775-tentara-rusia-di-mariupol-ukraina.jpg"
+    },
+    {
+      "id": "https://www.suara.com/bisnis/2026/11/16/094926/makin-pedas-harga-cabai-merah-keriting-tembus-rp121-ribu-per-kg",
+      "url": "https://www.suara.com/bisnis/2026/11/16/094926/makin-pedas-harga-cabai-merah-keriting-tembus-rp121-ribu-per-kg",
+      "title": "Makin Pedas, Harga Cabai Merah Keriting Tembus Rp121 Ribu per Kg",
+      "summary": "Bisnis| 09:49 WIB",
+      "content_text": "Bisnis| 09:49 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2025/04/08/10733-cabai-merah.jpg"
+    },
+    {
+      "id": "https://www.suara.com/bisnis/2026/11/16/094148/bitcoin-cs-menghijau-indeks-cfx10-mulai-bangkit-naik-289",
+      "url": "https://www.suara.com/bisnis/2026/11/16/094148/bitcoin-cs-menghijau-indeks-cfx10-mulai-bangkit-naik-289",
+      "title": "Bitcoin Cs Menghijau, Indeks CFX10 Mulai Bangkit Naik 2,89%",
+      "summary": "Bisnis| 09:41 WIB",
+      "content_text": "Bisnis| 09:41 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2026/11/09/87025-ilustrasi-daftar-aset-kripto-di-indeks-cfx10-gemini-ai.jpg"
+    },
+    {
+      "id": "https://www.suara.com/yoursay/2026/11/16/093914/wapres-boleh-mundur-tapi-apakah-nasib-dapur-rakyat-otomatis-membaik",
+      "url": "https://www.suara.com/yoursay/2026/11/16/093914/wapres-boleh-mundur-tapi-apakah-nasib-dapur-rakyat-otomatis-membaik",
+      "title": "Wapres Boleh Mundur, tapi Apakah Nasib Dapur Rakyat Otomatis Membaik?",
+      "summary": "Your Say| 09:39 WIB",
+      "content_text": "Your Say| 09:39 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2026/11/12/99954-gibran-rakabuming-raka-gibran-di-istana-wapres.jpg"
+    },
+    {
+      "id": "https://www.suara.com/bisnis/2026/11/16/093753/ditabung-dulu-harga-emas-antam-mulai-naik-jadi-rp2522000gram",
+      "url": "https://www.suara.com/bisnis/2026/11/16/093753/ditabung-dulu-harga-emas-antam-mulai-naik-jadi-rp2522000gram",
+      "title": "Ditabung Dulu, Harga Emas Antam Mulai Naik Jadi Rp2.522.000/Gram",
+      "summary": "Bisnis| 09:37 WIB",
+      "content_text": "Bisnis| 09:37 WIB",
+      "date_published": "2026-11-16T00:00:00Z",
+      "image": "https://media.suara.com/pictures/336x188/2016/10/12/o_1aurp5adtr511mul6iitiu8hij.jpg"
+    }
+  ]
+}

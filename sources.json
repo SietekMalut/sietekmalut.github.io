@@ -80,6 +80,14 @@
       "url": "https://indotimur.com/",
       "language": "id",
       "enabled": true
+    },
+    {
+      "slug": "suara-com",
+      "name": "Suara.com",
+      "url": "https://www.suara.com/",
+      "mode": "auto",
+      "limit": 30,
+      "enabled": true
     }
   ]
 }
