@@ -88,12 +88,14 @@ jobs:
       - name: Commit hasil
         run: |
           set -euo pipefail
-          if git diff --quiet -- feeds sources.json requests .keepalive; then
+          if git diff --quiet -- feeds sources.json requests; then
             echo "Tidak ada perubahan; tidak perlu commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A feeds sources.json requests .keepalive
+          git add -A feeds sources.json requests
+          [ -f .keepalive ] && git add .keepalive
+          git diff --cached --quiet && { echo "Tidak ada perubahan untuk di-commit."; exit 0; }
           git commit -m "chore(feed): perbarui $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
