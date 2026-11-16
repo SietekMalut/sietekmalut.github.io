@@ -320,6 +320,30 @@ class StabilityTests(unittest.TestCase):
         self.assertEqual(generate.fix_clock_skew(items, NOW), 0)
 
 
+class RequestTests(unittest.TestCase):
+    """File permintaan dari Windows sering membawa BOM; jangan sampai ditolak."""
+
+    def test_bom_request_is_accepted(self):
+        import tempfile
+
+        with tempfile.TemporaryDirectory() as tmp:
+            requests_dir = Path(tmp)
+            (requests_dir / "contoh.json").write_bytes(
+                '\ufeff{"name":"Contoh","url":"https://contoh.test/berita"}'.encode("utf-8")
+            )
+            config = {"meta": {}, "defaults": {}, "sources": []}
+            original = generate.REQUESTS_DIR
+            generate.REQUESTS_DIR = requests_dir
+            try:
+                touched = generate.process_requests(config)
+            finally:
+                generate.REQUESTS_DIR = original
+
+        self.assertEqual(touched, ["contoh"])
+        self.assertEqual(config["sources"][0]["url"], "https://contoh.test/berita")
+        self.assertEqual(config["sources"][0]["name"], "Contoh")
+
+
 class SafetyTests(unittest.TestCase):
     def test_private_hosts_blocked(self):
         for url in (

@@ -64,7 +64,7 @@ def link_key(url: str) -> str:
 def load_config() -> dict:
     if not CONFIG_PATH.exists():
         return {"meta": {"site_url": DEFAULT_SITE, "title": "SietekMalut RSS"}, "defaults": {}, "sources": []}
-    with CONFIG_PATH.open(encoding="utf-8") as handle:
+    with CONFIG_PATH.open(encoding="utf-8-sig") as handle:
         config = json.load(handle)
     config.setdefault("meta", {}).setdefault("site_url", DEFAULT_SITE)
     config.setdefault("defaults", {})
@@ -523,7 +523,9 @@ def process_requests(config: dict) -> list[str]:
     }
     for path in sorted(REQUESTS_DIR.glob("*.json")):
         try:
-            payload = json.loads(path.read_text(encoding="utf-8"))
+            # utf-8-sig: toleran terhadap BOM, yang mudah muncul saat file
+            # dibuat dari Notepad / PowerShell di Windows.
+            payload = json.loads(path.read_text(encoding="utf-8-sig"))
         except (OSError, json.JSONDecodeError) as exc:
             log(f"  ! lewati {path.name}: {exc}")
             path.unlink(missing_ok=True)
