@@ -5,11 +5,31 @@
     <link>https://www.tagar.id</link>
     <description>Situs berita online Indonesia Tagar News, sajikan kabar terkini dari Jakarta dan daerah, beragam rubrik dan cerita menarik.</description>
     <language>id</language>
-    <lastBuildDate>Mon, 16 Nov 2026 03:24:20 GMT</lastBuildDate>
-    <pubDate>Sat, 14 Nov 2026 09:12:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:53:25 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 06:15:00 GMT</pubDate>
     <ttl>30</ttl>
     <generator>SietekMalut RSS Feed Generator</generator>
     <atom:link href="https://sietekmalut.github.io/feeds/tagar.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Inggris Menang Lawan Spanyol di Matchday 6 fase grup UEFA Nations League 2026/2027</title>
+      <link>https://www.tagar.id/inggris-menang-lawan-spanyol-di-matchday-6-fase-grup-uefa-nations-league-2026-2027</link>
+      <guid isPermaLink="false">https://www.tagar.id/inggris-menang-lawan-spanyol-di-matchday-6-fase-grup-uefa-nations-league-2026-2027</guid>
+      <pubDate>Mon, 16 Nov 2026 06:15:00 GMT</pubDate>
+      <description>Tim asuhan Tuchel unggul 3-0 sebelum menit ke-60</description>
+      <dc:creator>Syaiful W Harahap</dc:creator>
+      <category>Bola</category>
+      <enclosure url="https://www.tagar.id/uploads/2026/11/16/1794809672402-kane-rayakan-gol-di-madrid-edited.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Italia Gagal Lolos Otomatis ke Perempat Final Dihadang Belgia</title>
+      <link>https://www.tagar.id/italia-gagal-lolos-otomatis-ke-perempat-final-dihadang-belgia</link>
+      <guid isPermaLink="false">https://www.tagar.id/italia-gagal-lolos-otomatis-ke-perempat-final-dihadang-belgia</guid>
+      <pubDate>Mon, 16 Nov 2026 05:58:00 GMT</pubDate>
+      <description>Italia akan mengikuti babak play-off</description>
+      <dc:creator>Syaiful W Harahap</dc:creator>
+      <category>Bola</category>
+      <enclosure url="https://www.tagar.id/uploads/2026/11/16/1794808630986-j-doku-edited.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Kampanye Multipass Edusav Tawarkan Hadiah hingga Rp12 Miliar</title>
       <link>https://www.tagar.id/kampanye-multipass-edusav-tawarkan-hadiah-hingga-rp12-miliar</link>
@@ -289,26 +309,6 @@
       <dc:creator>Syaiful W Harahap</dc:creator>
       <category>Bola</category>
       <enclosure url="https://www.tagar.id/uploads/2026/11/01/1793491943716-pemain-milan-edited.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Manchester City Ditekuk Brighton di Kandang Sendiri Matchday 9 Liga Premier Inggris 2026/2027</title>
-      <link>https://www.tagar.id/manchester-city-ditekuk-brighton-di-kandang-sendiri-matchday-9-liga-premier-inggris-2026-2027</link>
-      <guid isPermaLink="false">https://www.tagar.id/manchester-city-ditekuk-brighton-di-kandang-sendiri-matchday-9-liga-premier-inggris-2026-2027</guid>
-      <pubDate>Sat, 31 Oct 2026 23:49:00 GMT</pubDate>
-      <description>Brighton mencetak gol kemenangan hanya dalam 11 menit</description>
-      <dc:creator>Syaiful W Harahap</dc:creator>
-      <category>Bola</category>
-      <enclosure url="https://www.tagar.id/uploads/2026/11/01/1793490518564-pemain-brighton-edited.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Barcelona Pesta Gol ke Gawang Alaves di Matchday 11 La Liga Spanyol 2026/2027</title>
-      <link>https://www.tagar.id/barcelona-pesta-gol-ke-gawang-alaves-di-matchday-11-la-liga-spanyol-2026-2027</link>
-      <guid isPermaLink="false">https://www.tagar.id/barcelona-pesta-gol-ke-gawang-alaves-di-matchday-11-la-liga-spanyol-2026-2027</guid>
-      <pubDate>Sat, 31 Oct 2026 17:02:00 GMT</pubDate>
-      <description>Mereka telah melompati Atletico Madrid, yang sempat berada di puncak klasemen</description>
-      <dc:creator>Syaiful W Harahap</dc:creator>
-      <category>Bola</category>
-      <enclosure url="https://www.tagar.id/uploads/2026/11/01/1793491269055-raphinha-cetak-15-gol-edited.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
