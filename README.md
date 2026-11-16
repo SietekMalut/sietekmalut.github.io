@@ -255,7 +255,10 @@ requests/                  kotak masuk permintaan feed dari halaman web
   Feed lama tetap tersedia dan ditandai “tertahan” di katalog.
 - **Penjadwalan** mengikuti cron GitHub; bisa mundur 5–15 menit saat jam sibuk.
   Build Pages dibatasi 10 per jam — commit hanya dibuat bila isi feed berubah,
-  jadi dalam praktiknya jauh di bawah batas itu.
+  jadi dalam praktiknya jauh di bawah batas itu. Kalau butuh pembaruan yang
+  lebih tepat waktu, tambahkan cron eksternal gratis (mis. cron-job.org) yang
+  memanggil `POST /repos/SietekMalut/sietekmalut.github.io/dispatches` dengan
+  body `{"event_type":"refresh"}` — workflow sudah menerima pemicu itu.
 - **Batas item** 100 per feed agar ukuran file dan waktu muat wajar.
 - **Konten** milik situs sumber. Feed ini hanya menyusun ulang tautan yang
   sudah publik; tidak menyalin seluruh artikel untuk dijual ulang.

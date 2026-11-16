@@ -9,6 +9,10 @@ on:
     paths:
       - "requests/**.json"
       - "sources.json"
+  # Opsional: pemicu dari cron eksternal (cron-job.org, UptimeRobot, dsb.)
+  # POST /repos/SietekMalut/sietekmalut.github.io/dispatches {"event_type":"refresh"}
+  repository_dispatch:
+    types: [refresh]
   workflow_dispatch:
     inputs:
       url:
