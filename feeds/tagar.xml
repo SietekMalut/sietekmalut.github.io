@@ -5,11 +5,21 @@
     <link>https://www.tagar.id</link>
     <description>Situs berita online Indonesia Tagar News, sajikan kabar terkini dari Jakarta dan daerah, beragam rubrik dan cerita menarik.</description>
     <language>id</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:11:13 GMT</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 03:20:00 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:25:19 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 08:36:00 GMT</pubDate>
     <ttl>30</ttl>
     <generator>SietekMalut RSS Feed Generator</generator>
     <atom:link href="https://sietekmalut.github.io/feeds/tagar.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TNI AD Segera Bangun Jembatan Bailey Krueng Sawang di Aceh Utara yang Ambruk Akibat Banjir</title>
+      <link>https://www.tagar.id/tni-ad-segera-bangun-jembatan-bailey-krueng-sawang-di-aceh-utara-yang-ambruk-akibat-banjir</link>
+      <guid isPermaLink="false">https://www.tagar.id/tni-ad-segera-bangun-jembatan-bailey-krueng-sawang-di-aceh-utara-yang-ambruk-akibat-banjir</guid>
+      <pubDate>Tue, 17 Nov 2026 08:36:00 GMT</pubDate>
+      <description>Danrem 011/Lilawangsa tinjau Jembatan Krueng Sawang yang rusak diterjang banjir segera dipulihkan oleh TNI AD</description>
+      <dc:creator>Syaiful W Harahap</dc:creator>
+      <category>Nasional</category>
+      <enclosure url="https://www.tagar.id/uploads/2026/11/17/1794904364372-krueng-sawang-1-edited.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Anyone Can Celebrate Rayakan Pergantian Tahun di Ketinggian Bromo Bersama ARTOTEL Cabin Bromo</title>
       <link>https://www.tagar.id/anyone-can-celebrate-rayakan-pergantian-tahun-di-ketinggian-bromo-bersama-artotel-cabin-bromo</link>
@@ -299,16 +309,6 @@
       <dc:creator>Syaiful W Harahap</dc:creator>
       <category>Bola</category>
       <enclosure url="https://www.tagar.id/uploads/2026/11/02/1793577167019-pemain-madrid-edited.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Arsenal Menang Tipis Atas Liverpool di Matchday 9 Liga Premier Inggris 2026/2027</title>
-      <link>https://www.tagar.id/arsenal-menang-tipis-atas-liverpool-di-matchday-9-liga-premier-inggris-2026-2027</link>
-      <guid isPermaLink="false">https://www.tagar.id/arsenal-menang-tipis-atas-liverpool-di-matchday-9-liga-premier-inggris-2026-2027</guid>
-      <pubDate>Sun, 01 Nov 2026 23:42:00 GMT</pubDate>
-      <description>Kekalahan beruntun City memberi The Gunners kesempatan untuk mengendalikan persaingan perebutan gelar</description>
-      <dc:creator>Syaiful W Harahap</dc:creator>
-      <category>Bola</category>
-      <enclosure url="https://www.tagar.id/uploads/2026/11/02/1793576500065-pemain-arsenal-edited.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
