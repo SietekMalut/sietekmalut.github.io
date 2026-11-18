@@ -5,11 +5,21 @@
     <link>https://www.tagar.id</link>
     <description>Situs berita online Indonesia Tagar News, sajikan kabar terkini dari Jakarta dan daerah, beragam rubrik dan cerita menarik.</description>
     <language>id</language>
-    <lastBuildDate>Tue, 17 Nov 2026 21:51:11 GMT</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 16:23:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 03:17:46 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 22:59:00 GMT</pubDate>
     <ttl>30</ttl>
     <generator>SietekMalut RSS Feed Generator</generator>
     <atom:link href="https://sietekmalut.github.io/feeds/tagar.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rute Terpesona di Ancol Jadi Ide Couple Escape Menikmati Empat Suasana dalam Satu Hari</title>
+      <link>https://www.tagar.id/rute-terpesona-di-ancol-jadi-ide-couple-escape-menikmati-empat-suasana-dalam-satu-hari</link>
+      <guid isPermaLink="false">https://www.tagar.id/rute-terpesona-di-ancol-jadi-ide-couple-escape-menikmati-empat-suasana-dalam-satu-hari</guid>
+      <pubDate>Tue, 17 Nov 2026 22:59:00 GMT</pubDate>
+      <description>Berjalan santai bersama pasangan bisa menjadi cara sederhana untuk menciptakan momen</description>
+      <dc:creator>Syaiful W Harahap</dc:creator>
+      <category>Rileks</category>
+      <enclosure url="https://www.tagar.id/uploads/2026/11/18/1794956363877-ancol1-edited.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Kapolri Sebut Belum Ada Tersangka Makar dalam Kasus Dugaan Penyadapan Presiden</title>
       <link>https://www.tagar.id/kapolri-sebut-belum-ada-tersangka-makar-dalam-kasus-dugaan-penyadapan-presiden</link>
@@ -299,16 +309,6 @@
       <dc:creator>Syaiful W Harahap</dc:creator>
       <category>Daerah</category>
       <enclosure url="https://www.tagar.id/uploads/2026/11/07/1794014680940-danrem-lw-ke-mpu-2-edited.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>BW Express Jakarta Berkolaborasi dengan KIMBO Hadirkan Cooking Demo Spesial di Krista Interfood 2026</title>
-      <link>https://www.tagar.id/bw-express-jakarta-berkolaborasi-dengan-kimbo-hadirkan-cooking-demo-spesial-di-krista-interfood-2026</link>
-      <guid isPermaLink="false">https://www.tagar.id/bw-express-jakarta-berkolaborasi-dengan-kimbo-hadirkan-cooking-demo-spesial-di-krista-interfood-2026</guid>
-      <pubDate>Fri, 06 Nov 2026 19:49:00 GMT</pubDate>
-      <description>BW Express Jakarta, salah satu unit hotel di bawah naungan BW Hospitality, menjalin kolaborasi bersama KIMBO dalam menghadirkan Cooking Demo spesial dalam ajang Krista Interfood 2026</description>
-      <dc:creator>Mila Yefriza</dc:creator>
-      <category>Travel</category>
-      <enclosure url="https://www.tagar.id/uploads/2026/11/06/1793946611376-bwi-edited.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
