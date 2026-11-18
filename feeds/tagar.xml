@@ -5,11 +5,21 @@
     <link>https://www.tagar.id</link>
     <description>Situs berita online Indonesia Tagar News, sajikan kabar terkini dari Jakarta dan daerah, beragam rubrik dan cerita menarik.</description>
     <language>id</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:17:46 GMT</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 22:59:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:01:57 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 11:35:00 GMT</pubDate>
     <ttl>30</ttl>
     <generator>SietekMalut RSS Feed Generator</generator>
     <atom:link href="https://sietekmalut.github.io/feeds/tagar.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Liburan Keluarga Jawa Timur, Batu Love Garden atau Playlandia Surabaya?</title>
+      <link>https://www.tagar.id/liburan-keluarga-jawa-timur-batu-love-garden-atau-playlandia-surabaya</link>
+      <guid isPermaLink="false">https://www.tagar.id/liburan-keluarga-jawa-timur-batu-love-garden-atau-playlandia-surabaya</guid>
+      <pubDate>Wed, 18 Nov 2026 11:35:00 GMT</pubDate>
+      <description>Jawa Timur memiliki beragam destinasi wisata keluarga yang menarik dikunjungi saat musim liburan, mulai dari rekreasi alam di dataran tinggi hingga arena bermain modern di pusat kota.</description>
+      <dc:creator>Mila Yefriza</dc:creator>
+      <category>Travel</category>
+      <enclosure url="https://www.tagar.id/uploads/2026/11/18/1795001641264-ini-edited.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Rute Terpesona di Ancol Jadi Ide Couple Escape Menikmati Empat Suasana dalam Satu Hari</title>
       <link>https://www.tagar.id/rute-terpesona-di-ancol-jadi-ide-couple-escape-menikmati-empat-suasana-dalam-satu-hari</link>
@@ -299,16 +309,6 @@
       <dc:creator>Syaiful W Harahap</dc:creator>
       <category>Nasional</category>
       <enclosure url="https://www.tagar.id/uploads/2026/11/08/1794094823189-aziz-narang-edited.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Danrem 011 Lilawangsa Kol Inf Teuku Mustafa Kamal Silaturahmi dengan Ketua MPU Lhokseumawe</title>
-      <link>https://www.tagar.id/danrem-011-lilawangsa-kol-inf-teuku-mustafa-kamal-silaturahmi-dengan-ketua-mpu-lhokseumawe</link>
-      <guid isPermaLink="false">https://www.tagar.id/danrem-011-lilawangsa-kol-inf-teuku-mustafa-kamal-silaturahmi-dengan-ketua-mpu-lhokseumawe</guid>
-      <pubDate>Sat, 07 Nov 2026 01:25:00 GMT</pubDate>
-      <description>Dalam kunjungan tersebut, Danrem Mustafa turut didampingi Dandim 0103/Aceh Utara, Letkol Inf Faisal</description>
-      <dc:creator>Syaiful W Harahap</dc:creator>
-      <category>Daerah</category>
-      <enclosure url="https://www.tagar.id/uploads/2026/11/07/1794014680940-danrem-lw-ke-mpu-2-edited.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
