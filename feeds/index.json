@@ -1,6 +1,6 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-19T01:57:51Z",
+  "generated": "2026-11-19T09:59:25Z",
   "count": 11,
   "feeds": [
     {
@@ -15,8 +15,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T08:56:00Z",
-      "updated": "2026-11-19T01:57:51Z",
+      "latest": "2026-11-19T13:47:00Z",
+      "updated": "2026-11-19T09:59:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -33,11 +33,11 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-18T11:58:57Z",
-      "updated": "2026-11-19T01:57:50Z",
+      "latest": "2026-11-19T09:54:25Z",
+      "updated": "2026-11-19T09:59:25Z",
       "status": "ok",
-      "error": "tidak ada artikel yang bisa diekstrak (halaman mungkin butuh JavaScript) (feed lama dipertahankan)",
-      "stale": true
+      "error": "",
+      "stale": false
     },
     {
       "slug": "detik",
@@ -51,11 +51,11 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-18T11:57:57Z",
-      "updated": "2026-11-19T01:57:50Z",
+      "latest": "2026-11-19T09:56:25Z",
+      "updated": "2026-11-19T09:59:27Z",
       "status": "ok",
-      "error": "tidak bisa menghubungi https://www.detik.com/: _ssl.c:994: The handshake operation timed out (feed lama dipertahankan)",
-      "stale": true
+      "error": "",
+      "stale": false
     },
     {
       "slug": "antaranews",
@@ -69,8 +69,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T01:21:51Z",
-      "updated": "2026-11-19T01:57:53Z",
+      "latest": "2026-11-19T09:12:25Z",
+      "updated": "2026-11-19T09:59:27Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -88,7 +88,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-18T13:17:00Z",
-      "updated": "2026-11-19T01:57:50Z",
+      "updated": "2026-11-19T09:59:22Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -105,8 +105,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-18T23:56:00Z",
-      "updated": "2026-11-19T01:57:55Z",
+      "latest": "2026-11-19T08:56:00Z",
+      "updated": "2026-11-19T09:59:30Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -124,7 +124,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-10T21:45:00Z",
-      "updated": "2026-11-19T01:57:50Z",
+      "updated": "2026-11-19T09:59:22Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -141,8 +141,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-18T23:46:00Z",
-      "updated": "2026-11-19T01:57:56Z",
+      "latest": "2026-11-19T09:44:00Z",
+      "updated": "2026-11-19T09:59:29Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -160,7 +160,7 @@
       "language": "id",
       "items": 19,
       "latest": "2026-11-18T05:48:00Z",
-      "updated": "2026-11-19T01:57:50Z",
+      "updated": "2026-11-19T09:59:22Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -178,7 +178,7 @@
       "language": "id",
       "items": 5,
       "latest": "2026-11-14T00:00:00Z",
-      "updated": "2026-11-19T01:57:50Z",
+      "updated": "2026-11-19T09:59:22Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -196,7 +196,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-19T00:00:00Z",
-      "updated": "2026-11-19T01:57:51Z",
+      "updated": "2026-11-19T09:59:26Z",
       "status": "ok",
       "error": "",
       "stale": false
