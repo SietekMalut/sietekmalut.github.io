@@ -1,6 +1,6 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-19T09:59:25Z",
+  "generated": "2026-11-19T18:55:43Z",
   "count": 11,
   "feeds": [
     {
@@ -15,8 +15,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T13:47:00Z",
-      "updated": "2026-11-19T09:59:26Z",
+      "latest": "2026-11-19T23:59:00Z",
+      "updated": "2026-11-19T18:55:43Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -34,10 +34,10 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-19T09:54:25Z",
-      "updated": "2026-11-19T09:59:25Z",
+      "updated": "2026-11-19T18:55:42Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "tidak ada artikel yang bisa diekstrak (halaman mungkin butuh JavaScript) (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "detik",
@@ -51,8 +51,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T09:56:25Z",
-      "updated": "2026-11-19T09:59:27Z",
+      "latest": "2026-11-19T18:53:43Z",
+      "updated": "2026-11-19T18:55:44Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -69,8 +69,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T09:12:25Z",
-      "updated": "2026-11-19T09:59:27Z",
+      "latest": "2026-11-19T16:55:43Z",
+      "updated": "2026-11-19T18:55:45Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -87,8 +87,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-18T13:17:00Z",
-      "updated": "2026-11-19T09:59:22Z",
+      "latest": "2026-11-19T11:41:00Z",
+      "updated": "2026-11-19T18:55:45Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -105,8 +105,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T08:56:00Z",
-      "updated": "2026-11-19T09:59:30Z",
+      "latest": "2026-11-19T17:56:00Z",
+      "updated": "2026-11-19T18:55:47Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -124,7 +124,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-10T21:45:00Z",
-      "updated": "2026-11-19T09:59:22Z",
+      "updated": "2026-11-19T18:55:42Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -141,8 +141,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T09:44:00Z",
-      "updated": "2026-11-19T09:59:29Z",
+      "latest": "2026-11-19T13:01:00Z",
+      "updated": "2026-11-19T18:55:47Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -158,9 +158,9 @@
       "json_url": "https://sietekmalut.github.io/feeds/malutsatu.json",
       "mode": "native",
       "language": "id",
-      "items": 19,
-      "latest": "2026-11-18T05:48:00Z",
-      "updated": "2026-11-19T09:59:22Z",
+      "items": 21,
+      "latest": "2026-11-19T14:40:00Z",
+      "updated": "2026-11-19T18:55:49Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -178,7 +178,7 @@
       "language": "id",
       "items": 5,
       "latest": "2026-11-14T00:00:00Z",
-      "updated": "2026-11-19T09:59:22Z",
+      "updated": "2026-11-19T18:55:42Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -196,7 +196,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-19T00:00:00Z",
-      "updated": "2026-11-19T09:59:26Z",
+      "updated": "2026-11-19T18:55:45Z",
       "status": "ok",
       "error": "",
       "stale": false
