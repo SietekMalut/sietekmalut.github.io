@@ -1,6 +1,6 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T11:52:12Z",
+  "generated": "2026-11-20T11:52:43Z",
   "count": 15,
   "feeds": [
     {
@@ -16,7 +16,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-20T18:33:00Z",
-      "updated": "2026-11-20T11:49:52Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -33,8 +33,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-20T11:48:53Z",
-      "updated": "2026-11-20T11:49:53Z",
+      "latest": "2026-11-20T11:48:00Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -51,8 +51,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-20T11:46:53Z",
-      "updated": "2026-11-20T11:49:54Z",
+      "latest": "2026-11-20T11:47:43Z",
+      "updated": "2026-11-20T11:52:45Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -69,8 +69,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-20T11:45:00Z",
-      "updated": "2026-11-20T11:49:52Z",
+      "latest": "2026-11-20T11:48:43Z",
+      "updated": "2026-11-20T11:52:45Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -88,7 +88,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-19T11:41:00Z",
-      "updated": "2026-11-20T11:49:52Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -106,7 +106,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-20T10:56:00Z",
-      "updated": "2026-11-20T11:49:52Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -124,7 +124,7 @@
       "language": "id",
       "items": 11,
       "latest": "2026-11-20T09:32:00Z",
-      "updated": "2026-11-20T11:49:52Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -142,7 +142,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-20T10:41:00Z",
-      "updated": "2026-11-20T11:49:52Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -160,7 +160,7 @@
       "language": "id",
       "items": 24,
       "latest": "2026-11-20T04:24:00Z",
-      "updated": "2026-11-20T11:49:52Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -178,7 +178,7 @@
       "language": "id",
       "items": 5,
       "latest": "2026-11-14T00:00:00Z",
-      "updated": "2026-11-20T11:49:52Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -196,7 +196,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-20T00:00:00Z",
-      "updated": "2026-11-20T11:49:52Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -214,7 +214,7 @@
       "language": "id",
       "items": 50,
       "latest": "2026-11-20T11:35:00Z",
-      "updated": "2026-11-20T11:49:52Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
       "error": "HTTP 403 dari https://rri.co.id/ternate (feed lama dipertahankan)",
       "stale": true
@@ -232,7 +232,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T10:45:00Z",
-      "updated": "2026-11-20T11:49:52Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -250,7 +250,7 @@
       "language": "id",
       "items": 15,
       "latest": "2026-11-19T12:57:22Z",
-      "updated": "2026-11-20T11:49:52Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
       "error": "HTTP 403 dari https://LidikPost.id (feed lama dipertahankan)",
       "stale": true
@@ -268,10 +268,10 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T10:53:38Z",
-      "updated": "2026-11-20T11:52:12Z",
+      "updated": "2026-11-20T11:52:39Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "HTTP 403 dari https://salawaku.id (feed lama dipertahankan)",
+      "stale": true
     }
   ]
 }
