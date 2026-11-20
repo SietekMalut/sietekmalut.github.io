@@ -1,6 +1,6 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T12:04:07Z",
+  "generated": "2026-11-20T12:04:27Z",
   "count": 21,
   "feeds": [
     {
@@ -15,8 +15,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-20T18:33:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "latest": "2026-11-20T19:02:00Z",
+      "updated": "2026-11-20T12:04:28Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -33,11 +33,11 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-20T11:48:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "latest": "2026-11-20T12:00:27Z",
+      "updated": "2026-11-20T12:04:28Z",
       "status": "ok",
-      "error": "tidak ada artikel yang bisa diekstrak (halaman mungkin butuh JavaScript) (feed lama dipertahankan)",
-      "stale": true
+      "error": "",
+      "stale": false
     },
     {
       "slug": "detik",
@@ -51,8 +51,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-20T12:02:47Z",
-      "updated": "2026-11-20T12:03:49Z",
+      "latest": "2026-11-20T19:03:00Z",
+      "updated": "2026-11-20T12:04:29Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -70,7 +70,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-20T11:58:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -88,7 +88,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-19T11:41:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -106,7 +106,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-20T10:56:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -124,7 +124,7 @@
       "language": "id",
       "items": 11,
       "latest": "2026-11-20T09:32:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -142,7 +142,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-20T10:41:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -160,7 +160,7 @@
       "language": "id",
       "items": 24,
       "latest": "2026-11-20T04:24:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -178,7 +178,7 @@
       "language": "id",
       "items": 5,
       "latest": "2026-11-14T00:00:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -196,7 +196,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-20T00:00:00Z",
-      "updated": "2026-11-20T12:03:49Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -214,7 +214,7 @@
       "language": "id",
       "items": 50,
       "latest": "2026-11-20T11:55:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "HTTP 403 dari https://rri.co.id/ternate (feed lama dipertahankan)",
       "stale": true
@@ -232,7 +232,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T10:45:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -250,7 +250,7 @@
       "language": "id",
       "items": 15,
       "latest": "2026-11-19T12:57:22Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "HTTP 403 dari https://LidikPost.id (feed lama dipertahankan)",
       "stale": true
@@ -268,7 +268,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T10:53:38Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "HTTP 403 dari https://salawaku.id (feed lama dipertahankan)",
       "stale": true
@@ -286,7 +286,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T08:58:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -304,7 +304,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-20T11:56:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -322,7 +322,7 @@
       "language": "id",
       "items": 15,
       "latest": "2026-11-20T10:31:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -340,7 +340,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T10:26:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -358,7 +358,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T09:39:00Z",
-      "updated": "2026-11-20T12:03:39Z",
+      "updated": "2026-11-20T12:04:26Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -366,17 +366,17 @@
     {
       "slug": "ternate-hari-ini",
       "name": "Ternate Hari ini",
-      "title": "Ternate Hari ini",
-      "description": "Feed RSS untuk Ternate Hari ini",
+      "title": "Ternate Hari ini -",
+      "description": "Feed RSS otomatis untuk Ternate Hari ini.",
       "source_url": "ternatehariini.com",
       "site_url": "https://www.ternatehariini.com",
       "xml_url": "https://sietekmalut.github.io/feeds/ternate-hari-ini.xml",
       "json_url": "https://sietekmalut.github.io/feeds/ternate-hari-ini.json",
-      "mode": "discovered-feed",
+      "mode": "html",
       "language": "id",
-      "items": 10,
-      "latest": "2026-11-20T10:50:11Z",
-      "updated": "2026-11-20T12:04:07Z",
+      "items": 14,
+      "latest": "2026-11-20T00:00:00Z",
+      "updated": "2026-11-20T12:04:39Z",
       "status": "ok",
       "error": "",
       "stale": false

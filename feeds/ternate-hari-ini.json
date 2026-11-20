@@ -1,88 +1,55 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "Ternate Hari ini",
+  "title": "Ternate Hari ini -",
   "home_page_url": "https://www.ternatehariini.com",
   "feed_url": "https://sietekmalut.github.io/feeds/ternate-hari-ini.json",
-  "description": "Feed RSS untuk Ternate Hari ini",
+  "description": "Feed RSS otomatis untuk Ternate Hari ini.",
   "language": "id",
   "items": [
     {
-      "id": "https://www.ternatehariini.com/?p=10232",
+      "id": "https://www.ternatehariini.com/2026/11/20/polres-haltim-mutasi-tiga-jabatan-dan-lantik-kasi-humas/",
       "url": "https://www.ternatehariini.com/2026/11/20/polres-haltim-mutasi-tiga-jabatan-dan-lantik-kasi-humas/",
       "title": "Polres Haltim Mutasi Tiga Jabatan dan Lantik Kasi Humas",
-      "summary": "Ternatehariini – Polres Halmahera Timur menggelar serah terima jabatan (sertijab) Kasat Intelkam, Kapolsek Maba, dan Kapolsek Maba Selatan, sekaligus pelantikan Kasi Humas. Upacara berlangsung di Lapangan Apel Polres Halmahera Timur, Jumat 20 November 2026. Upacara dipimpin Kapolres Halmahera Timur, AKBP Rona Buha Tua Tambunan, dan dihadiri pejabat utama, para perwira, personel Polres Haltim, serta pengurus...",
-      "content_text": "Ternatehariini – Polres Halmahera Timur menggelar serah terima jabatan (sertijab) Kasat Intelkam, Kapolsek Maba, dan Kapolsek Maba Selatan, sekaligus pelantikan Kasi Humas. Upacara berlangsung di Lapangan Apel Polres Halmahera Timur, Jumat 20 November 2026. Upacara dipimpin Kapolres Halmahera Timur, AKBP Rona Buha Tua Tambunan, dan dihadiri pejabat utama, para perwira, personel Polres Haltim, serta pengurus...",
-      "date_published": "2026-11-20T10:50:11Z",
-      "authors": [
-        {
-          "name": "redaksi"
-        }
-      ]
+      "summary": "Peradilan Polres Haltim Mutasi Tiga Jabatan dan Lantik Kasi Humas",
+      "content_text": "Peradilan Polres Haltim Mutasi Tiga Jabatan dan Lantik Kasi Humas",
+      "date_published": "2026-11-20T00:00:00Z",
+      "image": "https://www.ternatehariini.com/wp-content/uploads/2026/11/IMG-20261120-WA0024.jpg"
     },
     {
-      "id": "https://www.ternatehariini.com/?p=10229",
+      "id": "https://www.ternatehariini.com/2026/11/20/wabup-haltim-ajak-bnnp-malut-perangi-narkoba/",
       "url": "https://www.ternatehariini.com/2026/11/20/wabup-haltim-ajak-bnnp-malut-perangi-narkoba/",
       "title": "Wabup Haltim Ajak BNNP Malut Perangi Narkoba",
-      "summary": "Ternatehariini – Wakil Bupati Halmahera Timur, Anjas Taher, berharap Badan Narkotika Nasional Provinsi (BNNP) Maluku Utara memperkuat kolaborasi dengan pemerintah daerah, dalam mencegah peredaran dan penyalahgunaan narkotika, khususnya di kalangan generasi muda. Harapan tersebut disampaikan Anjas saat menyambut kunjungan kerja Kepala BNNP Maluku Utara, Brigjen Pol. Mirzal Alwi, di Aula Lantai I Kantor Bupati Halmahera...",
-      "content_text": "Ternatehariini – Wakil Bupati Halmahera Timur, Anjas Taher, berharap Badan Narkotika Nasional Provinsi (BNNP) Maluku Utara memperkuat kolaborasi dengan pemerintah daerah, dalam mencegah peredaran dan penyalahgunaan narkotika, khususnya di kalangan generasi muda. Harapan tersebut disampaikan Anjas saat menyambut kunjungan kerja Kepala BNNP Maluku Utara, Brigjen Pol. Mirzal Alwi, di Aula Lantai I Kantor Bupati Halmahera...",
-      "date_published": "2026-11-20T10:43:10Z",
-      "authors": [
-        {
-          "name": "redaksi"
-        }
-      ]
+      "summary": "Parlementaria Wabup Haltim Ajak BNNP Malut Perangi Narkoba",
+      "content_text": "Parlementaria Wabup Haltim Ajak BNNP Malut Perangi Narkoba",
+      "date_published": "2026-11-20T00:00:00Z",
+      "image": "https://www.ternatehariini.com/wp-content/uploads/2026/11/IMG-20261120-WA0023-scaled.jpg"
     },
     {
-      "id": "https://www.ternatehariini.com/?p=10226",
+      "id": "https://www.ternatehariini.com/2026/11/20/dampak-proyek-pt-feni-dikeluhkan-disdik-haltim-turun-tangan/",
       "url": "https://www.ternatehariini.com/2026/11/20/dampak-proyek-pt-feni-dikeluhkan-disdik-haltim-turun-tangan/",
       "title": "Dampak Proyek PT Feni Dikeluhkan, Disdik Haltim Turun Tangan",
-      "summary": "Ternatehariini – Dinas Pendidikan Kabupaten Halmahera Timur, Maluku Utara, merespons keluhan dampak lingkungan dari aktivitas pembangunan kawasan industri PT Feni Halmahera Timur (FHT) yang berdekatan dengan fasilitas pendidikan, khususnya SMP Negeri 2 Satu Atap (Satap) Maba di Buli, Kecamatan Maba. Kepala Dinas Pendidikan Halmahera Timur, Djamal Esa, membenarkan bahwa pihaknya telah menerima laporan langsung, terkait...",
-      "content_text": "Ternatehariini – Dinas Pendidikan Kabupaten Halmahera Timur, Maluku Utara, merespons keluhan dampak lingkungan dari aktivitas pembangunan kawasan industri PT Feni Halmahera Timur (FHT) yang berdekatan dengan fasilitas pendidikan, khususnya SMP Negeri 2 Satu Atap (Satap) Maba di Buli, Kecamatan Maba. Kepala Dinas Pendidikan Halmahera Timur, Djamal Esa, membenarkan bahwa pihaknya telah menerima laporan langsung, terkait...",
-      "date_published": "2026-11-20T10:37:13Z",
-      "authors": [
-        {
-          "name": "redaksi"
-        }
-      ]
+      "summary": "Parlementaria Dampak Proyek PT Feni Dikeluhkan, Disdik Haltim Turun Tangan",
+      "content_text": "Parlementaria Dampak Proyek PT Feni Dikeluhkan, Disdik Haltim Turun Tangan",
+      "date_published": "2026-11-20T00:00:00Z",
+      "image": "https://www.ternatehariini.com/wp-content/uploads/2026/11/IMG-20261120-WA00221-scaled.jpg"
     },
     {
-      "id": "https://www.ternatehariini.com/?p=10223",
+      "id": "https://www.ternatehariini.com/2026/11/20/wali-kota-ternate-dorong-akselerasi-ekonomi-kawasan-timur/",
       "url": "https://www.ternatehariini.com/2026/11/20/wali-kota-ternate-dorong-akselerasi-ekonomi-kawasan-timur/",
       "title": "Wali Kota Ternate Dorong Akselerasi Ekonomi Kawasan Timur",
-      "summary": "Ternatehariini – Wali Kota Ternate, M. Tauhid Soleman, menghadiri Forum Akselerasi Ekonomi Daerah 2026 yang digelar di Hotel Bidakara, Jakarta Selatan, Jumat 20 November 2026. Forum yang diinisiasi Kementerian Dalam Negeri (Kemendagri) bersama Bappenas, Badan Pusat Statistik (BPS), dan CNN Indonesia tersebut membahas strategi percepatan pertumbuhan ekonomi serta pemerataan pembangunan antardaerah. Dalam kegiatan itu, Tauhid...",
-      "content_text": "Ternatehariini – Wali Kota Ternate, M. Tauhid Soleman, menghadiri Forum Akselerasi Ekonomi Daerah 2026 yang digelar di Hotel Bidakara, Jakarta Selatan, Jumat 20 November 2026. Forum yang diinisiasi Kementerian Dalam Negeri (Kemendagri) bersama Bappenas, Badan Pusat Statistik (BPS), dan CNN Indonesia tersebut membahas strategi percepatan pertumbuhan ekonomi serta pemerataan pembangunan antardaerah. Dalam kegiatan itu, Tauhid...",
-      "date_published": "2026-11-20T10:18:33Z",
-      "authors": [
-        {
-          "name": "redaksi"
-        }
-      ]
+      "summary": "Ternate Wali Kota Ternate Dorong Akselerasi Ekonomi Kawasan Timur",
+      "content_text": "Ternate Wali Kota Ternate Dorong Akselerasi Ekonomi Kawasan Timur",
+      "date_published": "2026-11-20T00:00:00Z",
+      "image": "https://www.ternatehariini.com/wp-content/uploads/2026/11/IMG-20261120-WA0016-scaled.jpg"
     },
     {
-      "id": "https://www.ternatehariini.com/?p=10219",
+      "id": "https://www.ternatehariini.com/2026/11/20/tpt-perhapi-xxxv-2026-soroti-masa-depan-tambang-dan-ekonomi-sirkular/",
       "url": "https://www.ternatehariini.com/2026/11/20/tpt-perhapi-xxxv-2026-soroti-masa-depan-tambang-dan-ekonomi-sirkular/",
       "title": "TPT PERHAPI XXXV 2026 Soroti Masa Depan Tambang dan Ekonomi Sirkular",
-      "summary": "Ternatehariini – Temu Profesi Tahunan (TPT) XXXV Perhimpunan Ahli Pertambangan Indonesia (PERHAPI) 2026 yang berlangsung di Kota Ternate, Maluku Utara, pada 16–18 November 2026, menjadi momentum untuk membahas masa depan industri pertambangan Indonesia, khususnya di Maluku Utara. Sejumlah isu strategis mengemuka dalam forum tersebut, mulai dari inovasi industri untuk mendorong penerapan ekonomi sirkular, implementasi standar...",
-      "content_text": "Ternatehariini – Temu Profesi Tahunan (TPT) XXXV Perhimpunan Ahli Pertambangan Indonesia (PERHAPI) 2026 yang berlangsung di Kota Ternate, Maluku Utara, pada 16–18 November 2026, menjadi momentum untuk membahas masa depan industri pertambangan Indonesia, khususnya di Maluku Utara. Sejumlah isu strategis mengemuka dalam forum tersebut, mulai dari inovasi industri untuk mendorong penerapan ekonomi sirkular, implementasi standar...",
-      "date_published": "2026-11-20T10:12:36Z",
-      "authors": [
-        {
-          "name": "redaksi"
-        }
-      ]
-    },
-    {
-      "id": "https://www.ternatehariini.com/?p=10216",
-      "url": "https://www.ternatehariini.com/2026/11/19/pemprov-malut-matangkan-perencanaan-pengadaan-2027-bidik-rup-tayang-100-persen-di-maret/",
-      "title": "Pemprov Malut Matangkan Perencanaan Pengadaan 2027, Bidik RUP Tayang 100 Persen di Maret",
-      "summary": "Ternatehariini– Pemerintah Provinsi Maluku Utara mulai mengakselerasi persiapan pengadaan barang dan jasa untuk Tahun Anggaran 2027. Seluruh organisasi perangkat daerah (OPD) diminta menyusun perencanaan lebih awal agar realisasi anggaran ke depan tidak sekadar mengejar serapan, melainkan juga memenuhi prinsip tepat mutu, tepat waktu, tepat biaya, dan tepat sasaran. Upaya awal tersebut digerakkan oleh Biro Pengadaan...",
-      "content_text": "Ternatehariini– Pemerintah Provinsi Maluku Utara mulai mengakselerasi persiapan pengadaan barang dan jasa untuk Tahun Anggaran 2027. Seluruh organisasi perangkat daerah (OPD) diminta menyusun perencanaan lebih awal agar realisasi anggaran ke depan tidak sekadar mengejar serapan, melainkan juga memenuhi prinsip tepat mutu, tepat waktu, tepat biaya, dan tepat sasaran. Upaya awal tersebut digerakkan oleh Biro Pengadaan...",
-      "date_published": "2026-11-19T22:48:33Z",
-      "authors": [
-        {
-          "name": "redaksi"
-        }
-      ]
+      "summary": "Publik TPT PERHAPI XXXV 2026 Soroti Masa Depan Tambang dan Ekonomi Sirkular November 20, 2026",
+      "content_text": "Publik TPT PERHAPI XXXV 2026 Soroti Masa Depan Tambang dan Ekonomi Sirkular November 20, 2026",
+      "date_published": "2026-11-20T00:00:00Z",
+      "image": "https://www.ternatehariini.com/wp-content/uploads/2026/11/IMG-20261120-WA0020.jpg"
     },
     {
       "id": "https://www.ternatehariini.com/?p=10208",
@@ -90,51 +57,75 @@
       "title": "Zulkifli Bian Resmi Jabat Kepala BKD Maluku Utara",
       "summary": "Ternatehariini – Gubernur Maluku Utara, Sarbin Sehe, resmi melantik Zulkifli Bian sebagai Kepala Badan Kepegawaian Daerah (BKD) Provinsi Maluku Utara definitif. Pelantikan dan pengambilan sumpah jabatan berlangsung di Kantor Gubernur Maluku Utara, Sofifi. Pelantikan ini mengakhiri status Zulkifli sebagai Pelaksana Tugas (Plt.) Kepala BKD yang dijabat sejak 7 Juli 2025 lalu. Pengangkatan tersebut, berdasarkan Surat...",
       "content_text": "Ternatehariini – Gubernur Maluku Utara, Sarbin Sehe, resmi melantik Zulkifli Bian sebagai Kepala Badan Kepegawaian Daerah (BKD) Provinsi Maluku Utara definitif. Pelantikan dan pengambilan sumpah jabatan berlangsung di Kantor Gubernur Maluku Utara, Sofifi. Pelantikan ini mengakhiri status Zulkifli sebagai Pelaksana Tugas (Plt.) Kepala BKD yang dijabat sejak 7 Juli 2025 lalu. Pengangkatan tersebut, berdasarkan Surat...",
-      "date_published": "2026-11-19T05:25:30Z",
-      "authors": [
-        {
-          "name": "redaksi"
-        }
-      ]
+      "date_published": "2026-11-19T05:25:00Z"
     },
     {
-      "id": "https://www.ternatehariini.com/?p=10205",
+      "id": "https://www.ternatehariini.com/2026/11/19/pemprov-malut-matangkan-perencanaan-pengadaan-2027-bidik-rup-tayang-100-persen-di-maret/",
+      "url": "https://www.ternatehariini.com/2026/11/19/pemprov-malut-matangkan-perencanaan-pengadaan-2027-bidik-rup-tayang-100-persen-di-maret/",
+      "title": "Pemprov Malut Matangkan Perencanaan Pengadaan 2027, Bidik RUP Tayang 100 Persen di Maret",
+      "summary": "Maluku Utara Pemprov Malut Matangkan Perencanaan Pengadaan 2027, Bidik RUP Tayang 100 Persen di Maret redaksi|November 19, 2026",
+      "content_text": "Maluku Utara Pemprov Malut Matangkan Perencanaan Pengadaan 2027, Bidik RUP Tayang 100 Persen di Maret redaksi|November 19, 2026",
+      "date_published": "2026-11-19T00:00:00Z",
+      "image": "https://www.ternatehariini.com/wp-content/uploads/2026/11/IMG_1625.png"
+    },
+    {
+      "id": "https://www.ternatehariini.com/2026/11/18/ketua-dprd-haltim-desak-penghentian-proyek-pt-feni/",
       "url": "https://www.ternatehariini.com/2026/11/18/ketua-dprd-haltim-desak-penghentian-proyek-pt-feni/",
       "title": "Ketua DPRD Haltim Desak Penghentian Proyek PT Feni",
-      "summary": "Ternatehariini – Ketua DPRD Kabupaten Halmahera Timur (Haltim), Idrus E. Maneke, mendesak pemerintah daerah menghentikan sementara aktivitas pembangunan perluasan kawasan PT Feni Halmahera Timur (FHT). Pasalnya, perusahaan tersebut diduga telah melakukan konstruksi fisik sebelum dokumen Analisis Mengenai Dampak Lingkungan (AMDAL) ditetapkan. Idrus mengatakan, berdasarkan informasi yang diterimanya, proses penyusunan AMDAL untuk perluasan kawasan tersebut baru...",
-      "content_text": "Ternatehariini – Ketua DPRD Kabupaten Halmahera Timur (Haltim), Idrus E. Maneke, mendesak pemerintah daerah menghentikan sementara aktivitas pembangunan perluasan kawasan PT Feni Halmahera Timur (FHT). Pasalnya, perusahaan tersebut diduga telah melakukan konstruksi fisik sebelum dokumen Analisis Mengenai Dampak Lingkungan (AMDAL) ditetapkan. Idrus mengatakan, berdasarkan informasi yang diterimanya, proses penyusunan AMDAL untuk perluasan kawasan tersebut baru...",
-      "date_published": "2026-11-18T11:53:08Z",
-      "authors": [
-        {
-          "name": "redaksi"
-        }
-      ]
+      "summary": "Pelayanan Publik Ketua DPRD Haltim Desak Penghentian Proyek PT Feni redaksi|November 18, 2026",
+      "content_text": "Pelayanan Publik Ketua DPRD Haltim Desak Penghentian Proyek PT Feni redaksi|November 18, 2026",
+      "date_published": "2026-11-18T00:00:00Z",
+      "image": "https://www.ternatehariini.com/wp-content/uploads/2026/11/IMG-20261118-WA0059.jpg"
     },
     {
-      "id": "https://www.ternatehariini.com/?p=10201",
+      "id": "https://www.ternatehariini.com/2026/11/18/pilkades-serentak-haltim-dijadwalkan-maret-2027-68-desa-jadi-peserta/",
       "url": "https://www.ternatehariini.com/2026/11/18/pilkades-serentak-haltim-dijadwalkan-maret-2027-68-desa-jadi-peserta/",
       "title": "Pilkades Serentak Haltim Dijadwalkan Maret 2027, 68 Desa Jadi Peserta",
-      "summary": "Ternatehariini – Dinas Pemberdayaan Masyarakat dan Desa (DPMD) Kabupaten Halmahera Timur, Maluku Utara, mematangkan persiapan Pemilihan Kepala Desa (Pilkades) serentak 2027. Pilkades ini dilkaksanakan, apabila seluruh tahapan berjalan sesuai rencana, pemungutan suara ditargetkan berlangsung pada pertengahan Maret 2027. Kepala DPMD Halmahera Timur, Khalid Abbas, mengatakan sejumlah tahapan awal sempat mengalami penyesuaian jadwal akibat proses pembentukan...",
-      "content_text": "Ternatehariini – Dinas Pemberdayaan Masyarakat dan Desa (DPMD) Kabupaten Halmahera Timur, Maluku Utara, mematangkan persiapan Pemilihan Kepala Desa (Pilkades) serentak 2027. Pilkades ini dilkaksanakan, apabila seluruh tahapan berjalan sesuai rencana, pemungutan suara ditargetkan berlangsung pada pertengahan Maret 2027. Kepala DPMD Halmahera Timur, Khalid Abbas, mengatakan sejumlah tahapan awal sempat mengalami penyesuaian jadwal akibat proses pembentukan...",
-      "date_published": "2026-11-18T11:43:07Z",
-      "authors": [
-        {
-          "name": "redaksi"
-        }
-      ]
+      "summary": "Pelayanan Publik Pilkades Serentak Haltim Dijadwalkan Maret 2027, 68 Desa Jadi Peserta redaksi|November 18, 2026",
+      "content_text": "Pelayanan Publik Pilkades Serentak Haltim Dijadwalkan Maret 2027, 68 Desa Jadi Peserta redaksi|November 18, 2026",
+      "date_published": "2026-11-18T00:00:00Z",
+      "image": "https://www.ternatehariini.com/wp-content/uploads/2026/11/IMG-20261118-WA0058-scaled.jpg"
     },
     {
-      "id": "https://www.ternatehariini.com/?p=10198",
+      "id": "https://www.ternatehariini.com/2026/11/18/pemprov-malut-dikabarkan-lantik-tiga-pejabat-eselon-ii-termasuk-bkd-dan-pupr/",
       "url": "https://www.ternatehariini.com/2026/11/18/pemprov-malut-dikabarkan-lantik-tiga-pejabat-eselon-ii-termasuk-bkd-dan-pupr/",
       "title": "Pemprov Malut Dikabarkan Lantik Tiga Pejabat Eselon II, Termasuk BKD dan PUPR",
-      "summary": "Ternatehariini – Pemerintah Provinsi (Pemprov) Maluku Utara, dikabarkan kembali melakukan perombakan jabatan pimpinan tinggi pratama atau pejabat eselon II. Sebanyak tiga pejabat dijadwalkan dilantik pada Kamis 19 November 2026, melalui mekanisme promosi jabatan. Informasi yang diperoleh dari sumber internal Pemprov Maluku Utara menyebutkan, pelantikan tahap awal ini diprioritaskan untuk mengisi sejumlah jabatan definitif pada Organisasi...",
-      "content_text": "Ternatehariini – Pemerintah Provinsi (Pemprov) Maluku Utara, dikabarkan kembali melakukan perombakan jabatan pimpinan tinggi pratama atau pejabat eselon II. Sebanyak tiga pejabat dijadwalkan dilantik pada Kamis 19 November 2026, melalui mekanisme promosi jabatan. Informasi yang diperoleh dari sumber internal Pemprov Maluku Utara menyebutkan, pelantikan tahap awal ini diprioritaskan untuk mengisi sejumlah jabatan definitif pada Organisasi...",
-      "date_published": "2026-11-18T11:28:31Z",
-      "authors": [
-        {
-          "name": "redaksi"
-        }
-      ]
+      "summary": "Maluku Utara Pemprov Malut Dikabarkan Lantik Tiga Pejabat Eselon II, Termasuk BKD dan PUPR redaksi|November 18, 2026",
+      "content_text": "Maluku Utara Pemprov Malut Dikabarkan Lantik Tiga Pejabat Eselon II, Termasuk BKD dan PUPR redaksi|November 18, 2026",
+      "date_published": "2026-11-18T00:00:00Z",
+      "image": "https://www.ternatehariini.com/wp-content/uploads/2026/11/IMG-20261118-WA0052.jpg"
+    },
+    {
+      "id": "https://www.ternatehariini.com/2026/11/17/sherly-dorong-perempuan-petani-akses-permodalan-pnm-bunga-pinjaman-turun-jadi-8-persen/",
+      "url": "https://www.ternatehariini.com/2026/11/17/sherly-dorong-perempuan-petani-akses-permodalan-pnm-bunga-pinjaman-turun-jadi-8-persen/",
+      "title": "Sherly Dorong Perempuan Petani Akses Permodalan PNM, Bunga Pinjaman Turun Jadi 8 Persen",
+      "summary": "November 17, 2026",
+      "content_text": "November 17, 2026",
+      "date_published": "2026-11-17T00:00:00Z"
+    },
+    {
+      "id": "https://www.ternatehariini.com/2026/11/17/ketua-dprd-haltim-perintahkan-sekretariat-turunkan-foto-gibran-dari-ruang-sidang/",
+      "url": "https://www.ternatehariini.com/2026/11/17/ketua-dprd-haltim-perintahkan-sekretariat-turunkan-foto-gibran-dari-ruang-sidang/",
+      "title": "Ketua DPRD Haltim Perintahkan Sekretariat Turunkan Foto Gibran dari Ruang Sidang",
+      "summary": "November 17, 2026",
+      "content_text": "November 17, 2026",
+      "date_published": "2026-11-17T00:00:00Z"
+    },
+    {
+      "id": "https://www.ternatehariini.com/2026/11/15/pembangunan-bendung-sangowo-morotai-berlanjut-2026-tahap-kedua-tuntas-pada-2027/",
+      "url": "https://www.ternatehariini.com/2026/11/15/pembangunan-bendung-sangowo-morotai-berlanjut-2026-tahap-kedua-tuntas-pada-2027/",
+      "title": "Pembangunan Bendung Sangowo Morotai Berlanjut 2026, Tahap Kedua Tuntas pada 2027",
+      "summary": "November 15, 2026",
+      "content_text": "November 15, 2026",
+      "date_published": "2026-11-15T00:00:00Z"
+    },
+    {
+      "id": "https://www.ternatehariini.com/2026/11/14/helmi-umar-muchsin-tegaskan-nasdem-harus-perkuat-konsolidasi-dan-hadirkan-kerja-nyata/",
+      "url": "https://www.ternatehariini.com/2026/11/14/helmi-umar-muchsin-tegaskan-nasdem-harus-perkuat-konsolidasi-dan-hadirkan-kerja-nyata/",
+      "title": "Helmi Umar Muchsin Tegaskan NasDem Harus Perkuat Konsolidasi dan Hadirkan Kerja Nyata",
+      "summary": "November 14, 2026",
+      "content_text": "November 14, 2026",
+      "date_published": "2026-11-14T00:00:00Z"
     }
   ]
 }
