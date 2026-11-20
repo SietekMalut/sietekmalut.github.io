@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T11:38:24Z",
-  "count": 12,
+  "generated": "2026-11-20T11:47:36Z",
+  "count": 13,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -218,6 +218,24 @@
       "status": "ok",
       "error": "HTTP 403 dari https://rri.co.id/ternate (feed lama dipertahankan)",
       "stale": true
+    },
+    {
+      "slug": "terbitmalut-com",
+      "name": "Terbitmalut.com",
+      "title": "Terbitmalut.com",
+      "description": "Terang Mengabarkan",
+      "source_url": "https://terbitmalut.com/",
+      "site_url": "https://www.terbitmalut.com",
+      "xml_url": "https://sietekmalut.github.io/feeds/terbitmalut-com.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/terbitmalut-com.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 10,
+      "latest": "2026-11-20T10:45:05Z",
+      "updated": "2026-11-20T11:47:36Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
     }
   ]
 }

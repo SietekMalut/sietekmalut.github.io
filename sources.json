@@ -96,6 +96,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "terbitmalut-com",
+      "name": "Terbitmalut.com",
+      "url": "https://terbitmalut.com/",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }
