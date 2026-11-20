@@ -20,5 +20,6 @@
     <outline type="rss" text="LidikPost.id" title="LidikPost.id" xmlUrl="https://sietekmalut.github.io/feeds/lidikpost-id.xml" htmlUrl="https://lidikpost.id"/>
     <outline type="rss" text="Salawaku.id" title="Salawaku.id" xmlUrl="https://sietekmalut.github.io/feeds/salawaku-id.xml" htmlUrl="https://salawaku.id"/>
     <outline type="rss" text="NuansaMalut.com" title="NuansaMalut.com" xmlUrl="https://sietekmalut.github.io/feeds/nuansamalut-com.xml" htmlUrl="https://www.nuansamalut.com"/>
+    <outline type="rss" text="Corong Publik" title="Corong Publik" xmlUrl="https://sietekmalut.github.io/feeds/corong-publik.xml" htmlUrl="https://corongpublik.id"/>
   </body>
 </opml>

@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T11:54:38Z",
-  "count": 16,
+  "generated": "2026-11-20T11:56:34Z",
+  "count": 17,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -287,6 +287,24 @@
       "items": 10,
       "latest": "2026-11-20T08:58:00Z",
       "updated": "2026-11-20T11:54:34Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "corong-publik",
+      "name": "Corong Publik",
+      "title": "Corong Publik",
+      "description": "Corong Publik adalah media independen dan terpercaya yang fokus pada isu korupsi, ketidakadilan, lingkungan, tambang, dan politik",
+      "source_url": "corongpublik.id",
+      "site_url": "https://corongpublik.id",
+      "xml_url": "https://sietekmalut.github.io/feeds/corong-publik.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/corong-publik.json",
+      "mode": "scraped",
+      "language": "id",
+      "items": 30,
+      "latest": "",
+      "updated": "2026-11-20T11:56:34Z",
       "status": "ok",
       "error": "",
       "stale": false
