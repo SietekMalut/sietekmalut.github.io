@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T12:11:54Z",
-  "count": 23,
+  "generated": "2026-11-20T12:13:25Z",
+  "count": 24,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -413,6 +413,24 @@
       "items": 10,
       "latest": "2026-11-20T11:26:00Z",
       "updated": "2026-11-20T12:11:53Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "warta-republik",
+      "name": "Warta Republik",
+      "title": "Warta Republik",
+      "description": "Feed RSS untuk Warta Republik",
+      "source_url": "wartarepublik.com",
+      "site_url": "https://www.wartarepublik.com",
+      "xml_url": "https://sietekmalut.github.io/feeds/warta-republik.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/warta-republik.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 25,
+      "latest": "2026-11-20T06:34:38Z",
+      "updated": "2026-11-20T12:13:25Z",
       "status": "ok",
       "error": "",
       "stale": false
