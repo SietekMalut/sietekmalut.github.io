@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T12:13:52Z",
-  "count": 24,
+  "generated": "2026-11-20T12:55:20Z",
+  "count": 25,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -431,6 +431,24 @@
       "items": 25,
       "latest": "2026-11-19T23:34:38Z",
       "updated": "2026-11-20T12:13:58Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "bacarita-malut",
+      "name": "Bacarita Malut",
+      "title": "Bacarita Malut",
+      "description": "BACA BERITAMU",
+      "source_url": "https://bacaritamalut.com/",
+      "site_url": "https://bacaritamalut.com",
+      "xml_url": "https://sietekmalut.github.io/feeds/bacarita-malut.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/bacarita-malut.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 10,
+      "latest": "2026-11-20T12:39:03Z",
+      "updated": "2026-11-20T12:55:20Z",
       "status": "ok",
       "error": "",
       "stale": false

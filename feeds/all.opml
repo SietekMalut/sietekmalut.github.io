@@ -28,5 +28,6 @@
     <outline type="rss" text="FaktaHalmahera.com" title="FaktaHalmahera.com" xmlUrl="https://sietekmalut.github.io/feeds/faktahalmahera-com.xml" htmlUrl="https://faktahalmahera.com"/>
     <outline type="rss" text="DETIK HARIAN POSꄲꀘ i" title="DETIK HARIAN POSꄲꀘ i" xmlUrl="https://sietekmalut.github.io/feeds/detik-harian-pos-i.xml" htmlUrl="https://detikharianpos.com"/>
     <outline type="rss" text="Warta Republik" title="Warta Republik" xmlUrl="https://sietekmalut.github.io/feeds/warta-republik.xml" htmlUrl="https://www.wartarepublik.com"/>
+    <outline type="rss" text="Bacarita Malut" title="Bacarita Malut" xmlUrl="https://sietekmalut.github.io/feeds/bacarita-malut.xml" htmlUrl="https://bacaritamalut.com"/>
   </body>
 </opml>

@@ -192,6 +192,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "bacarita-malut",
+      "name": "Bacarita Malut",
+      "url": "https://bacaritamalut.com/",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }
