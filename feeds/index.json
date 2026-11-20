@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T13:03:30Z",
-  "count": 27,
+  "generated": "2026-11-20T13:49:21Z",
+  "count": 28,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -485,6 +485,24 @@
       "items": 10,
       "latest": "2026-11-20T12:57:00Z",
       "updated": "2026-11-20T13:03:29Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "satu-klik",
+      "name": "Satu Klik",
+      "title": "Satu Klik",
+      "description": "Berita Maluku Utara",
+      "source_url": "satukliik.com",
+      "site_url": "https://satukliik.com",
+      "xml_url": "https://sietekmalut.github.io/feeds/satu-klik.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/satu-klik.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 10,
+      "latest": "2026-10-01T12:28:33Z",
+      "updated": "2026-11-20T13:49:21Z",
       "status": "ok",
       "error": "",
       "stale": false

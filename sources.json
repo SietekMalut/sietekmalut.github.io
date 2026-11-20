@@ -216,6 +216,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "satu-klik",
+      "name": "Satu Klik",
+      "url": "satukliik.com",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }

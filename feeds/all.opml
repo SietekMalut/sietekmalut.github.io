@@ -31,5 +31,6 @@
     <outline type="rss" text="Bacarita Malut" title="Bacarita Malut" xmlUrl="https://sietekmalut.github.io/feeds/bacarita-malut.xml" htmlUrl="https://bacaritamalut.com"/>
     <outline type="rss" text="voicemu.com" title="voicemu.com" xmlUrl="https://sietekmalut.github.io/feeds/voicemu-com.xml" htmlUrl="https://www.voicemu.com"/>
     <outline type="rss" text="Halmahera Raya" title="Halmahera Raya" xmlUrl="https://sietekmalut.github.io/feeds/halmahera-raya.xml" htmlUrl="https://halmaheraraya.id"/>
+    <outline type="rss" text="Satu Klik" title="Satu Klik" xmlUrl="https://sietekmalut.github.io/feeds/satu-klik.xml" htmlUrl="https://satukliik.com"/>
   </body>
 </opml>
