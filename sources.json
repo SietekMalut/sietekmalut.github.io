@@ -136,6 +136,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "tandaseru-com-penting-dibaca",
+      "name": "tandaseru.com | Penting Dibaca",
+      "url": "https://www.tandaseru.com/",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }

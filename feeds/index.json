@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T11:58:34Z",
-  "count": 17,
+  "generated": "2026-11-20T11:59:34Z",
+  "count": 18,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -305,6 +305,24 @@
       "items": 50,
       "latest": "2026-11-20T11:55:00Z",
       "updated": "2026-11-20T11:58:34Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "tandaseru-com-penting-dibaca",
+      "name": "tandaseru.com | Penting Dibaca",
+      "title": "tandaseru.com | Penting Dibaca",
+      "description": "tandaseru.com",
+      "source_url": "https://www.tandaseru.com/",
+      "site_url": "https://www.tandaseru.com",
+      "xml_url": "https://sietekmalut.github.io/feeds/tandaseru-com-penting-dibaca.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/tandaseru-com-penting-dibaca.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 15,
+      "latest": "2026-11-20T10:31:28Z",
+      "updated": "2026-11-20T11:59:34Z",
       "status": "ok",
       "error": "",
       "stale": false
