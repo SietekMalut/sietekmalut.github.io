@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T12:58:30Z",
-  "count": 26,
+  "generated": "2026-11-20T13:03:07Z",
+  "count": 27,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -467,6 +467,24 @@
       "items": 19,
       "latest": "2026-11-20T00:00:00Z",
       "updated": "2026-11-20T12:58:43Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "halmahera-raya",
+      "name": "Halmahera Raya",
+      "title": "Halmahera Raya",
+      "description": "Bukan Informasi Biasa",
+      "source_url": "halmaheraraya.id",
+      "site_url": "https://halmaheraraya.id",
+      "xml_url": "https://sietekmalut.github.io/feeds/halmahera-raya.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/halmahera-raya.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 10,
+      "latest": "2026-11-20T12:57:18Z",
+      "updated": "2026-11-20T13:03:07Z",
       "status": "ok",
       "error": "",
       "stale": false

@@ -208,6 +208,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "halmahera-raya",
+      "name": "Halmahera Raya",
+      "url": "halmaheraraya.id",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }
