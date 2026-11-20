@@ -1,6 +1,6 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "Corong Publik",
+  "title": "Corong Publik - Independen & Terpercaya",
   "home_page_url": "https://corongpublik.id",
   "feed_url": "https://sietekmalut.github.io/feeds/corong-publik.json",
   "description": "Corong Publik adalah media independen dan terpercaya yang fokus pada isu korupsi, ketidakadilan, lingkungan, tambang, dan politik",
@@ -9,162 +9,242 @@
     {
       "id": "https://corongpublik.id/category/nasional",
       "url": "https://corongpublik.id/category/nasional",
-      "title": "NASIONAL"
+      "title": "NASIONAL",
+      "summary": "NASIONAL",
+      "content_text": "NASIONAL",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/maluku-utara/halteng",
       "url": "https://corongpublik.id/category/maluku-utara/halteng",
-      "title": "HALTENG"
+      "title": "HALTENG",
+      "summary": "HALTENG",
+      "content_text": "HALTENG",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/maluku-utara/haltim",
       "url": "https://corongpublik.id/category/maluku-utara/haltim",
-      "title": "HALTIM"
+      "title": "HALTIM",
+      "summary": "HALTIM",
+      "content_text": "HALTIM",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/maluku-utara/halbar",
       "url": "https://corongpublik.id/category/maluku-utara/halbar",
-      "title": "HALBAR"
+      "title": "HALBAR",
+      "summary": "HALBAR",
+      "content_text": "HALBAR",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/maluku-utara/halsel",
       "url": "https://corongpublik.id/category/maluku-utara/halsel",
-      "title": "HALSEL"
+      "title": "HALSEL",
+      "summary": "HALSEL",
+      "content_text": "HALSEL",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/maluku-utara/kepulauan-sula",
       "url": "https://corongpublik.id/category/maluku-utara/kepulauan-sula",
-      "title": "KEPULAUAN SULA"
+      "title": "KEPULAUAN SULA",
+      "summary": "KEPULAUAN SULA",
+      "content_text": "KEPULAUAN SULA",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/maluku-utara/morotai",
       "url": "https://corongpublik.id/category/maluku-utara/morotai",
-      "title": "MOROTAI"
+      "title": "MOROTAI",
+      "summary": "MOROTAI",
+      "content_text": "MOROTAI",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/maluku-utara/sofifi",
       "url": "https://corongpublik.id/category/maluku-utara/sofifi",
-      "title": "SOFIFI"
+      "title": "SOFIFI",
+      "summary": "SOFIFI",
+      "content_text": "SOFIFI",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/maluku-utara/taliabu",
       "url": "https://corongpublik.id/category/maluku-utara/taliabu",
-      "title": "TALIABU"
+      "title": "TALIABU",
+      "summary": "TALIABU",
+      "content_text": "TALIABU",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/maluku-utara/ternate",
       "url": "https://corongpublik.id/category/maluku-utara/ternate",
-      "title": "TERNATE"
+      "title": "TERNATE",
+      "summary": "TERNATE",
+      "content_text": "TERNATE",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/maluku-utara/tidore",
       "url": "https://corongpublik.id/category/maluku-utara/tidore",
-      "title": "TIDORE"
+      "title": "TIDORE",
+      "summary": "TIDORE",
+      "content_text": "TIDORE",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/info-desa",
       "url": "https://corongpublik.id/category/info-desa",
-      "title": "INFO DESA"
+      "title": "INFO DESA",
+      "summary": "INFO DESA",
+      "content_text": "INFO DESA",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/politik",
       "url": "https://corongpublik.id/category/politik",
-      "title": "POLITIK"
+      "title": "POLITIK",
+      "summary": "POLITIK",
+      "content_text": "POLITIK",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/ekonomi",
       "url": "https://corongpublik.id/category/ekonomi",
-      "title": "EKONOMI"
+      "title": "EKONOMI",
+      "summary": "EKONOMI",
+      "content_text": "EKONOMI",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/pendidikan",
       "url": "https://corongpublik.id/category/pendidikan",
-      "title": "PENDIDIKAN"
+      "title": "PENDIDIKAN",
+      "summary": "PENDIDIKAN",
+      "content_text": "PENDIDIKAN",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/category/lingkungan",
       "url": "https://corongpublik.id/category/lingkungan",
-      "title": "LINGKUNGAN"
-    },
-    {
-      "id": "https://corongpublik.id/pb-formmalut-desak-kapolri-usut-dugaan-tambang-ilegal-pt-position-di-halmahera-timur",
-      "url": "https://corongpublik.id/pb-formmalut-desak-kapolri-usut-dugaan-tambang-ilegal-pt-position-di-halmahera-timur",
-      "title": "PB-FORMMALUT Desak Kapolri Usut Dugaan Tambang Ilegal PT Position di Halmahera Timur"
-    },
-    {
-      "id": "https://corongpublik.id/apbd-2027-tidore-tembus-rp986-miliar-muhammad-sinen-beberkan-prioritas-anggaran",
-      "url": "https://corongpublik.id/apbd-2027-tidore-tembus-rp986-miliar-muhammad-sinen-beberkan-prioritas-anggaran",
-      "title": "APBD 2027 Tidore Tembus Rp986 Miliar, Muhammad Sinen Beberkan Prioritas Anggaran"
+      "title": "LINGKUNGAN",
+      "summary": "LINGKUNGAN",
+      "content_text": "LINGKUNGAN",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/dugaan-kdrt-berulang-korban-khawatir-ada-main-mata-dalam-sidang-etik-polisi",
       "url": "https://corongpublik.id/dugaan-kdrt-berulang-korban-khawatir-ada-main-mata-dalam-sidang-etik-polisi",
       "title": "Dugaan KDRT Berulang, Korban Khawatir Ada ‘Main Mata’ dalam Sidang Etik Polisi",
       "summary": "1",
-      "content_text": "1"
+      "content_text": "1",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/afrisal-guntur-dan-m-takdir-g-hipon-raih-suara-terbanyak-pimpin-osis-smkn-2-halsel",
       "url": "https://corongpublik.id/afrisal-guntur-dan-m-takdir-g-hipon-raih-suara-terbanyak-pimpin-osis-smkn-2-halsel",
       "title": "Afrisal Guntur dan M. Takdir G. Hipon Raih Suara Terbanyak, Pimpin OSIS SMKN 2 Halsel",
       "summary": "2",
-      "content_text": "2"
+      "content_text": "2",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/salwa-hayun-resmi-pimpin-osis-mts-sangapati-siap-cetak-pemimpin-muda",
       "url": "https://corongpublik.id/salwa-hayun-resmi-pimpin-osis-mts-sangapati-siap-cetak-pemimpin-muda",
       "title": "Salwa Hayun Resmi Pimpin OSIS MTs Sangapati, Siap Cetak Pemimpin Muda",
       "summary": "3",
-      "content_text": "3"
+      "content_text": "3",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/menyambung-benang-sejarah-yang-terputus",
       "url": "https://corongpublik.id/menyambung-benang-sejarah-yang-terputus",
       "title": "MENYAMBUNG BENANG SEJARAH YANG TERPUTUS",
       "summary": "4",
-      "content_text": "4"
+      "content_text": "4",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/gpm-minta-aset-fatmawati-ditelusuri-di-tengah-polemik-investasi-jahra-berkah",
       "url": "https://corongpublik.id/gpm-minta-aset-fatmawati-ditelusuri-di-tengah-polemik-investasi-jahra-berkah",
       "title": "GPM Minta Aset Fatmawati Ditelusuri di Tengah Polemik Investasi Jahra Berkah",
       "summary": "5",
-      "content_text": "5"
-    },
-    {
-      "id": "https://corongpublik.id/diduga-langgar-spesifikasi-warga-sebelei-palang-proyek-jalan-rp103-miliar",
-      "url": "https://corongpublik.id/diduga-langgar-spesifikasi-warga-sebelei-palang-proyek-jalan-rp103-miliar",
-      "title": "Diduga Langgar Spesifikasi, Warga Sebelei Palang Proyek Jalan Rp10,3 Miliar"
-    },
-    {
-      "id": "https://corongpublik.id/aktivis-malut-kepung-kementerian-pu-bongkar-dugaan-masalah-proyek-bws",
-      "url": "https://corongpublik.id/aktivis-malut-kepung-kementerian-pu-bongkar-dugaan-masalah-proyek-bws",
-      "title": "Aktivis Malut Kepung Kementerian PU, Bongkar Dugaan Masalah Proyek BWS"
-    },
-    {
-      "id": "https://corongpublik.id/gpm-sentil-wacana-dasco-jadi-wapres-jangan-tinggalkan-pr-uu-perampasan-aset",
-      "url": "https://corongpublik.id/gpm-sentil-wacana-dasco-jadi-wapres-jangan-tinggalkan-pr-uu-perampasan-aset",
-      "title": "GPM Sentil Wacana Dasco Jadi Wapres: Jangan Tinggalkan PR UU Perampasan Aset!"
+      "content_text": "5",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/di-balik-viralitas-politik-riset-utm-ungkap-ancaman-algoritma-bagi-demokrasi",
       "url": "https://corongpublik.id/di-balik-viralitas-politik-riset-utm-ungkap-ancaman-algoritma-bagi-demokrasi",
-      "title": "Di Balik Viralitas Politik, Riset UTM Ungkap Ancaman Algoritma bagi Demokrasi"
+      "title": "Di Balik Viralitas Politik, Riset UTM Ungkap Ancaman Algoritma bagi Demokrasi",
+      "summary": "Di Balik Viralitas Politik, Riset UTM Ungkap Ancaman Algoritma bagi Demokrasi",
+      "content_text": "Di Balik Viralitas Politik, Riset UTM Ungkap Ancaman Algoritma bagi Demokrasi",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/m-tauhid-soleman-kembali-pimpin-nasdem-ternate-husni-bopeng-ingatkan-kader-jaga-kedekatan-dengan-rakyat",
       "url": "https://corongpublik.id/m-tauhid-soleman-kembali-pimpin-nasdem-ternate-husni-bopeng-ingatkan-kader-jaga-kedekatan-dengan-rakyat",
-      "title": "M. Tauhid Soleman Kembali Pimpin NasDem Ternate, Husni Bopeng Ingatkan Kader Jaga Kedekatan dengan Rakyat"
+      "title": "M. Tauhid Soleman Kembali Pimpin NasDem Ternate, Husni Bopeng Ingatkan Kader Jaga Kedekatan dengan Rakyat",
+      "summary": "M. Tauhid Soleman Kembali Pimpin NasDem Ternate, Husni Bopeng Ingatkan Kader Jaga Kedekatan dengan Rakyat",
+      "content_text": "M. Tauhid Soleman Kembali Pimpin NasDem Ternate, Husni Bopeng Ingatkan Kader Jaga Kedekatan dengan Rakyat",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/menjaga-marwah-demokrasi-madura-peran-modal-sosial-dalam-mencegah-pelanggaran-pemilu-pilkada",
       "url": "https://corongpublik.id/menjaga-marwah-demokrasi-madura-peran-modal-sosial-dalam-mencegah-pelanggaran-pemilu-pilkada",
-      "title": "Menjaga Marwah Demokrasi Madura: Peran Modal Sosial dalam Mencegah Pelanggaran Pemilu-Pilkada"
+      "title": "Menjaga Marwah Demokrasi Madura: Peran Modal Sosial dalam Mencegah Pelanggaran Pemilu-Pilkada",
+      "summary": "Menjaga Marwah Demokrasi Madura: Peran Modal Sosial dalam Mencegah Pelanggaran Pemilu-Pilkada",
+      "content_text": "Menjaga Marwah Demokrasi Madura: Peran Modal Sosial dalam Mencegah Pelanggaran Pemilu-Pilkada",
+      "date_published": "2026-11-20T11:56:00Z"
     },
     {
       "id": "https://corongpublik.id/promosi-cumi-dokiri-mengangkat-potensi-sentra-cumi-dan-umkm-pesisir-di-kota-tidore-kepulauan",
       "url": "https://corongpublik.id/promosi-cumi-dokiri-mengangkat-potensi-sentra-cumi-dan-umkm-pesisir-di-kota-tidore-kepulauan",
-      "title": "Promosi “Cumi Dokiri”, Mengangkat Potensi Sentra Cumi dan UMKM Pesisir di Kota Tidore Kepulauan"
+      "title": "Promosi “Cumi Dokiri”, Mengangkat Potensi Sentra Cumi dan UMKM Pesisir di Kota Tidore Kepulauan",
+      "summary": "Promosi “Cumi Dokiri”, Mengangkat Potensi Sentra Cumi dan UMKM Pesisir di Kota Tidore Kepulauan",
+      "content_text": "Promosi “Cumi Dokiri”, Mengangkat Potensi Sentra Cumi dan UMKM Pesisir di Kota Tidore Kepulauan",
+      "date_published": "2026-11-20T11:56:00Z"
+    },
+    {
+      "id": "https://corongpublik.id/diduga-langgar-spesifikasi-warga-sebelei-palang-proyek-jalan-rp103-miliar/",
+      "url": "https://corongpublik.id/diduga-langgar-spesifikasi-warga-sebelei-palang-proyek-jalan-rp103-miliar/",
+      "title": "Diduga Langgar Spesifikasi, Warga Sebelei Palang Proyek Jalan Rp10,3 Miliar",
+      "summary": "20 Nov 2026",
+      "content_text": "20 Nov 2026",
+      "date_published": "2026-11-20T00:00:00Z"
+    },
+    {
+      "id": "https://corongpublik.id/pb-formmalut-desak-kapolri-usut-dugaan-tambang-ilegal-pt-position-di-halmahera-timur/",
+      "url": "https://corongpublik.id/pb-formmalut-desak-kapolri-usut-dugaan-tambang-ilegal-pt-position-di-halmahera-timur/",
+      "title": "PB-FORMMALUT Desak Kapolri Usut Dugaan Tambang Ilegal PT Position di Halmahera Timur",
+      "summary": "20 Nov 2026",
+      "content_text": "20 Nov 2026",
+      "date_published": "2026-11-20T00:00:00Z"
+    },
+    {
+      "id": "https://corongpublik.id/aktivis-malut-kepung-kementerian-pu-bongkar-dugaan-masalah-proyek-bws/",
+      "url": "https://corongpublik.id/aktivis-malut-kepung-kementerian-pu-bongkar-dugaan-masalah-proyek-bws/",
+      "title": "Aktivis Malut Kepung Kementerian PU, Bongkar Dugaan Masalah Proyek BWS",
+      "summary": "17 Nov 2026",
+      "content_text": "17 Nov 2026",
+      "date_published": "2026-11-17T00:00:00Z"
+    },
+    {
+      "id": "https://corongpublik.id/apbd-2027-tidore-tembus-rp986-miliar-muhammad-sinen-beberkan-prioritas-anggaran/",
+      "url": "https://corongpublik.id/apbd-2027-tidore-tembus-rp986-miliar-muhammad-sinen-beberkan-prioritas-anggaran/",
+      "title": "APBD 2027 Tidore Tembus Rp986 Miliar, Muhammad Sinen Beberkan Prioritas Anggaran",
+      "summary": "17 Nov 2026",
+      "content_text": "17 Nov 2026",
+      "date_published": "2026-11-17T00:00:00Z"
+    },
+    {
+      "id": "https://corongpublik.id/gpm-sentil-wacana-dasco-jadi-wapres-jangan-tinggalkan-pr-uu-perampasan-aset/",
+      "url": "https://corongpublik.id/gpm-sentil-wacana-dasco-jadi-wapres-jangan-tinggalkan-pr-uu-perampasan-aset/",
+      "title": "GPM Sentil Wacana Dasco Jadi Wapres: Jangan Tinggalkan PR UU Perampasan Aset!",
+      "summary": "16 Nov 2026",
+      "content_text": "16 Nov 2026",
+      "date_published": "2026-11-16T00:00:00Z"
     }
   ]
 }

@@ -1,222 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Corong Publik</title>
+    <title>Corong Publik - Independen &amp; Terpercaya</title>
     <link>https://corongpublik.id</link>
     <description>Corong Publik adalah media independen dan terpercaya yang fokus pada isu korupsi, ketidakadilan, lingkungan, tambang, dan politik</description>
     <language>id</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:56:32 +0000</lastBuildDate>
-    <generator>RSS Feed Desktop</generator>
-    <atom:link href="https://sietekmalut.github.io/feeds/corong-publik.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Nov 2026 11:56:57 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
+    <ttl>30</ttl>
+    <generator>SietekMalut RSS Feed Generator</generator>
+    <atom:link href="https://sietekmalut.github.io/feeds/corong-publik.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>NASIONAL</title>
       <link>https://corongpublik.id/category/nasional</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/nasional</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/nasional</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>NASIONAL</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>HALTENG</title>
       <link>https://corongpublik.id/category/maluku-utara/halteng</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/maluku-utara/halteng</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/maluku-utara/halteng</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>HALTENG</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>HALTIM</title>
       <link>https://corongpublik.id/category/maluku-utara/haltim</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/maluku-utara/haltim</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/maluku-utara/haltim</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>HALTIM</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>HALBAR</title>
       <link>https://corongpublik.id/category/maluku-utara/halbar</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/maluku-utara/halbar</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/maluku-utara/halbar</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>HALBAR</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>HALSEL</title>
       <link>https://corongpublik.id/category/maluku-utara/halsel</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/maluku-utara/halsel</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/maluku-utara/halsel</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>HALSEL</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>KEPULAUAN SULA</title>
       <link>https://corongpublik.id/category/maluku-utara/kepulauan-sula</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/maluku-utara/kepulauan-sula</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/maluku-utara/kepulauan-sula</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>KEPULAUAN SULA</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>MOROTAI</title>
       <link>https://corongpublik.id/category/maluku-utara/morotai</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/maluku-utara/morotai</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/maluku-utara/morotai</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>MOROTAI</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>SOFIFI</title>
       <link>https://corongpublik.id/category/maluku-utara/sofifi</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/maluku-utara/sofifi</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/maluku-utara/sofifi</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>SOFIFI</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>TALIABU</title>
       <link>https://corongpublik.id/category/maluku-utara/taliabu</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/maluku-utara/taliabu</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/maluku-utara/taliabu</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>TALIABU</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>TERNATE</title>
       <link>https://corongpublik.id/category/maluku-utara/ternate</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/maluku-utara/ternate</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/maluku-utara/ternate</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>TERNATE</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>TIDORE</title>
       <link>https://corongpublik.id/category/maluku-utara/tidore</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/maluku-utara/tidore</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/maluku-utara/tidore</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>TIDORE</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>INFO DESA</title>
       <link>https://corongpublik.id/category/info-desa</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/info-desa</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/info-desa</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>INFO DESA</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>POLITIK</title>
       <link>https://corongpublik.id/category/politik</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/politik</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/politik</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>POLITIK</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>EKONOMI</title>
       <link>https://corongpublik.id/category/ekonomi</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/ekonomi</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/ekonomi</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>EKONOMI</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>PENDIDIKAN</title>
       <link>https://corongpublik.id/category/pendidikan</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/pendidikan</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/pendidikan</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>PENDIDIKAN</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>LINGKUNGAN</title>
       <link>https://corongpublik.id/category/lingkungan</link>
-      <guid isPermaLink="true">https://corongpublik.id/category/lingkungan</guid>
+      <guid isPermaLink="false">https://corongpublik.id/category/lingkungan</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>LINGKUNGAN</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>PB-FORMMALUT Desak Kapolri Usut Dugaan Tambang Ilegal PT Position di Halmahera Timur</title>
-      <link>https://corongpublik.id/pb-formmalut-desak-kapolri-usut-dugaan-tambang-ilegal-pt-position-di-halmahera-timur</link>
-      <guid isPermaLink="true">https://corongpublik.id/pb-formmalut-desak-kapolri-usut-dugaan-tambang-ilegal-pt-position-di-halmahera-timur</guid>
-      <description>PB-FORMMALUT Desak Kapolri Usut Dugaan Tambang Ilegal PT Position di Halmahera Timur</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>APBD 2027 Tidore Tembus Rp986 Miliar, Muhammad Sinen Beberkan Prioritas Anggaran</title>
-      <link>https://corongpublik.id/apbd-2027-tidore-tembus-rp986-miliar-muhammad-sinen-beberkan-prioritas-anggaran</link>
-      <guid isPermaLink="true">https://corongpublik.id/apbd-2027-tidore-tembus-rp986-miliar-muhammad-sinen-beberkan-prioritas-anggaran</guid>
-      <description>APBD 2027 Tidore Tembus Rp986 Miliar, Muhammad Sinen Beberkan Prioritas Anggaran</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>Dugaan KDRT Berulang, Korban Khawatir Ada ‘Main Mata’ dalam Sidang Etik Polisi</title>
       <link>https://corongpublik.id/dugaan-kdrt-berulang-korban-khawatir-ada-main-mata-dalam-sidang-etik-polisi</link>
-      <guid isPermaLink="true">https://corongpublik.id/dugaan-kdrt-berulang-korban-khawatir-ada-main-mata-dalam-sidang-etik-polisi</guid>
+      <guid isPermaLink="false">https://corongpublik.id/dugaan-kdrt-berulang-korban-khawatir-ada-main-mata-dalam-sidang-etik-polisi</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>1</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>Afrisal Guntur dan M. Takdir G. Hipon Raih Suara Terbanyak, Pimpin OSIS SMKN 2 Halsel</title>
       <link>https://corongpublik.id/afrisal-guntur-dan-m-takdir-g-hipon-raih-suara-terbanyak-pimpin-osis-smkn-2-halsel</link>
-      <guid isPermaLink="true">https://corongpublik.id/afrisal-guntur-dan-m-takdir-g-hipon-raih-suara-terbanyak-pimpin-osis-smkn-2-halsel</guid>
+      <guid isPermaLink="false">https://corongpublik.id/afrisal-guntur-dan-m-takdir-g-hipon-raih-suara-terbanyak-pimpin-osis-smkn-2-halsel</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>2</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>Salwa Hayun Resmi Pimpin OSIS MTs Sangapati, Siap Cetak Pemimpin Muda</title>
       <link>https://corongpublik.id/salwa-hayun-resmi-pimpin-osis-mts-sangapati-siap-cetak-pemimpin-muda</link>
-      <guid isPermaLink="true">https://corongpublik.id/salwa-hayun-resmi-pimpin-osis-mts-sangapati-siap-cetak-pemimpin-muda</guid>
+      <guid isPermaLink="false">https://corongpublik.id/salwa-hayun-resmi-pimpin-osis-mts-sangapati-siap-cetak-pemimpin-muda</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>3</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>MENYAMBUNG BENANG SEJARAH YANG TERPUTUS</title>
       <link>https://corongpublik.id/menyambung-benang-sejarah-yang-terputus</link>
-      <guid isPermaLink="true">https://corongpublik.id/menyambung-benang-sejarah-yang-terputus</guid>
+      <guid isPermaLink="false">https://corongpublik.id/menyambung-benang-sejarah-yang-terputus</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>4</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>GPM Minta Aset Fatmawati Ditelusuri di Tengah Polemik Investasi Jahra Berkah</title>
       <link>https://corongpublik.id/gpm-minta-aset-fatmawati-ditelusuri-di-tengah-polemik-investasi-jahra-berkah</link>
-      <guid isPermaLink="true">https://corongpublik.id/gpm-minta-aset-fatmawati-ditelusuri-di-tengah-polemik-investasi-jahra-berkah</guid>
+      <guid isPermaLink="false">https://corongpublik.id/gpm-minta-aset-fatmawati-ditelusuri-di-tengah-polemik-investasi-jahra-berkah</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>5</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diduga Langgar Spesifikasi, Warga Sebelei Palang Proyek Jalan Rp10,3 Miliar</title>
-      <link>https://corongpublik.id/diduga-langgar-spesifikasi-warga-sebelei-palang-proyek-jalan-rp103-miliar</link>
-      <guid isPermaLink="true">https://corongpublik.id/diduga-langgar-spesifikasi-warga-sebelei-palang-proyek-jalan-rp103-miliar</guid>
-      <description>Diduga Langgar Spesifikasi, Warga Sebelei Palang Proyek Jalan Rp10,3 Miliar</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aktivis Malut Kepung Kementerian PU, Bongkar Dugaan Masalah Proyek BWS</title>
-      <link>https://corongpublik.id/aktivis-malut-kepung-kementerian-pu-bongkar-dugaan-masalah-proyek-bws</link>
-      <guid isPermaLink="true">https://corongpublik.id/aktivis-malut-kepung-kementerian-pu-bongkar-dugaan-masalah-proyek-bws</guid>
-      <description>Aktivis Malut Kepung Kementerian PU, Bongkar Dugaan Masalah Proyek BWS</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPM Sentil Wacana Dasco Jadi Wapres: Jangan Tinggalkan PR UU Perampasan Aset!</title>
-      <link>https://corongpublik.id/gpm-sentil-wacana-dasco-jadi-wapres-jangan-tinggalkan-pr-uu-perampasan-aset</link>
-      <guid isPermaLink="true">https://corongpublik.id/gpm-sentil-wacana-dasco-jadi-wapres-jangan-tinggalkan-pr-uu-perampasan-aset</guid>
-      <description>GPM Sentil Wacana Dasco Jadi Wapres: Jangan Tinggalkan PR UU Perampasan Aset!</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>Di Balik Viralitas Politik, Riset UTM Ungkap Ancaman Algoritma bagi Demokrasi</title>
       <link>https://corongpublik.id/di-balik-viralitas-politik-riset-utm-ungkap-ancaman-algoritma-bagi-demokrasi</link>
-      <guid isPermaLink="true">https://corongpublik.id/di-balik-viralitas-politik-riset-utm-ungkap-ancaman-algoritma-bagi-demokrasi</guid>
+      <guid isPermaLink="false">https://corongpublik.id/di-balik-viralitas-politik-riset-utm-ungkap-ancaman-algoritma-bagi-demokrasi</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>Di Balik Viralitas Politik, Riset UTM Ungkap Ancaman Algoritma bagi Demokrasi</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>M. Tauhid Soleman Kembali Pimpin NasDem Ternate, Husni Bopeng Ingatkan Kader Jaga Kedekatan dengan Rakyat</title>
       <link>https://corongpublik.id/m-tauhid-soleman-kembali-pimpin-nasdem-ternate-husni-bopeng-ingatkan-kader-jaga-kedekatan-dengan-rakyat</link>
-      <guid isPermaLink="true">https://corongpublik.id/m-tauhid-soleman-kembali-pimpin-nasdem-ternate-husni-bopeng-ingatkan-kader-jaga-kedekatan-dengan-rakyat</guid>
+      <guid isPermaLink="false">https://corongpublik.id/m-tauhid-soleman-kembali-pimpin-nasdem-ternate-husni-bopeng-ingatkan-kader-jaga-kedekatan-dengan-rakyat</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>M. Tauhid Soleman Kembali Pimpin NasDem Ternate, Husni Bopeng Ingatkan Kader Jaga Kedekatan dengan Rakyat</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>Menjaga Marwah Demokrasi Madura: Peran Modal Sosial dalam Mencegah Pelanggaran Pemilu-Pilkada</title>
       <link>https://corongpublik.id/menjaga-marwah-demokrasi-madura-peran-modal-sosial-dalam-mencegah-pelanggaran-pemilu-pilkada</link>
-      <guid isPermaLink="true">https://corongpublik.id/menjaga-marwah-demokrasi-madura-peran-modal-sosial-dalam-mencegah-pelanggaran-pemilu-pilkada</guid>
+      <guid isPermaLink="false">https://corongpublik.id/menjaga-marwah-demokrasi-madura-peran-modal-sosial-dalam-mencegah-pelanggaran-pemilu-pilkada</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>Menjaga Marwah Demokrasi Madura: Peran Modal Sosial dalam Mencegah Pelanggaran Pemilu-Pilkada</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
     </item>
     <item>
       <title>Promosi “Cumi Dokiri”, Mengangkat Potensi Sentra Cumi dan UMKM Pesisir di Kota Tidore Kepulauan</title>
       <link>https://corongpublik.id/promosi-cumi-dokiri-mengangkat-potensi-sentra-cumi-dan-umkm-pesisir-di-kota-tidore-kepulauan</link>
-      <guid isPermaLink="true">https://corongpublik.id/promosi-cumi-dokiri-mengangkat-potensi-sentra-cumi-dan-umkm-pesisir-di-kota-tidore-kepulauan</guid>
+      <guid isPermaLink="false">https://corongpublik.id/promosi-cumi-dokiri-mengangkat-potensi-sentra-cumi-dan-umkm-pesisir-di-kota-tidore-kepulauan</guid>
+      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>Promosi “Cumi Dokiri”, Mengangkat Potensi Sentra Cumi dan UMKM Pesisir di Kota Tidore Kepulauan</description>
-      <pubDate>Fri, 20 Nov 2026 11:56:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diduga Langgar Spesifikasi, Warga Sebelei Palang Proyek Jalan Rp10,3 Miliar</title>
+      <link>https://corongpublik.id/diduga-langgar-spesifikasi-warga-sebelei-palang-proyek-jalan-rp103-miliar/</link>
+      <guid isPermaLink="false">https://corongpublik.id/diduga-langgar-spesifikasi-warga-sebelei-palang-proyek-jalan-rp103-miliar/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>20 Nov 2026</description>
+    </item>
+    <item>
+      <title>PB-FORMMALUT Desak Kapolri Usut Dugaan Tambang Ilegal PT Position di Halmahera Timur</title>
+      <link>https://corongpublik.id/pb-formmalut-desak-kapolri-usut-dugaan-tambang-ilegal-pt-position-di-halmahera-timur/</link>
+      <guid isPermaLink="false">https://corongpublik.id/pb-formmalut-desak-kapolri-usut-dugaan-tambang-ilegal-pt-position-di-halmahera-timur/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>20 Nov 2026</description>
+    </item>
+    <item>
+      <title>Aktivis Malut Kepung Kementerian PU, Bongkar Dugaan Masalah Proyek BWS</title>
+      <link>https://corongpublik.id/aktivis-malut-kepung-kementerian-pu-bongkar-dugaan-masalah-proyek-bws/</link>
+      <guid isPermaLink="false">https://corongpublik.id/aktivis-malut-kepung-kementerian-pu-bongkar-dugaan-masalah-proyek-bws/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <description>17 Nov 2026</description>
+    </item>
+    <item>
+      <title>APBD 2027 Tidore Tembus Rp986 Miliar, Muhammad Sinen Beberkan Prioritas Anggaran</title>
+      <link>https://corongpublik.id/apbd-2027-tidore-tembus-rp986-miliar-muhammad-sinen-beberkan-prioritas-anggaran/</link>
+      <guid isPermaLink="false">https://corongpublik.id/apbd-2027-tidore-tembus-rp986-miliar-muhammad-sinen-beberkan-prioritas-anggaran/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <description>17 Nov 2026</description>
+    </item>
+    <item>
+      <title>GPM Sentil Wacana Dasco Jadi Wapres: Jangan Tinggalkan PR UU Perampasan Aset!</title>
+      <link>https://corongpublik.id/gpm-sentil-wacana-dasco-jadi-wapres-jangan-tinggalkan-pr-uu-perampasan-aset/</link>
+      <guid isPermaLink="false">https://corongpublik.id/gpm-sentil-wacana-dasco-jadi-wapres-jangan-tinggalkan-pr-uu-perampasan-aset/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description>16 Nov 2026</description>
     </item>
   </channel>
 </rss>
