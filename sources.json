@@ -120,6 +120,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "nuansamalut-com",
+      "name": "NuansaMalut.com",
+      "url": "nuansamalut.com",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T11:52:43Z",
-  "count": 15,
+  "generated": "2026-11-20T11:54:09Z",
+  "count": 16,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -272,6 +272,24 @@
       "status": "ok",
       "error": "HTTP 403 dari https://salawaku.id (feed lama dipertahankan)",
       "stale": true
+    },
+    {
+      "slug": "nuansamalut-com",
+      "name": "NuansaMalut.com",
+      "title": "NuansaMalut.com",
+      "description": "Feed RSS untuk NuansaMalut.com",
+      "source_url": "nuansamalut.com",
+      "site_url": "https://www.nuansamalut.com",
+      "xml_url": "https://sietekmalut.github.io/feeds/nuansamalut-com.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/nuansamalut-com.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 10,
+      "latest": "2026-11-20T08:58:34Z",
+      "updated": "2026-11-20T11:54:09Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
     }
   ]
 }
