@@ -5,11 +5,19 @@
     <link>https://www.suara.com</link>
     <description>Dapatkan berita terkini dan terpercaya dari Suara.com. Informasi lengkap seputar politik, bisnis, hukum, sepak bola, entertainment, gaya hidup, otomotif, sains &amp; teknologi, serta jurnalisme warga Indonesia.</description>
     <language>id</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:47:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:59:54 GMT</lastBuildDate>
     <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
     <ttl>30</ttl>
     <generator>SietekMalut RSS Feed Generator</generator>
     <atom:link href="https://sietekmalut.github.io/feeds/suara-com.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RUU Perampasan Aset Mendadak Disahkan, Ada Apa di Balik Target Desember yang Melesat?</title>
+      <link>https://www.suara.com/news/2026/11/20/184133/ruu-perampasan-aset-mendadak-disahkan-ada-apa-di-balik-target-desember-yang-melesat</link>
+      <guid isPermaLink="false">https://www.suara.com/news/2026/11/20/184133/ruu-perampasan-aset-mendadak-disahkan-ada-apa-di-balik-target-desember-yang-melesat</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>News| 18:41 WIB</description>
+      <enclosure url="https://media.suara.com/pictures/336x188/2026/11/20/44755-ilustrasi-pengesahan-ruu-perampasan-aset-oleh-dpr-ri.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Arti Telinga Berdenging Sebelah Kanan Berdasarkan Jam Menurut Primbon Jawa, Lengkap 24 Jam!</title>
       <link>https://www.suara.com/lifestyle/2026/11/20/184000/arti-telinga-berdenging-sebelah-kanan-berdasarkan-jam-menurut-primbon-jawa-lengkap-24-jam</link>
@@ -120,7 +128,6 @@
       <guid isPermaLink="false">https://www.suara.com/news/2026/11/20/180257/modus-bejat-suami-di-cianjur-jajakan-istri-di-facebook-hingga-diajak-threesome-bareng-tamu</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
       <description>News| 18:02 WIB</description>
-      <enclosure url="https://media.suara.com/pictures/336x188/2025/04/09/99926-ilustrasi-pelecehan-seksual-pexels.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Bitcoin Cs Lagi Loyo, Indeks CFX10 Ikut Terjun 2,95%</title>
@@ -226,13 +233,6 @@
       <guid isPermaLink="false">https://www.suara.com/news/2026/11/20/145239/kasus-kekerasan-seksual-bupati-kupang-naik-penyidikan-dpr-usut-tanpa-intervensi</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
       <description>News| 14:52 WIB</description>
-    </item>
-    <item>
-      <title>DPR Minta Korban Dugaan Pemerkosaan Bupati Kupang Tak Dibiarkan Berjuang Sendiri</title>
-      <link>https://www.suara.com/news/2026/11/20/145144/dpr-minta-korban-dugaan-pemerkosaan-bupati-kupang-tak-dibiarkan-berjuang-sendiri</link>
-      <guid isPermaLink="false">https://www.suara.com/news/2026/11/20/145144/dpr-minta-korban-dugaan-pemerkosaan-bupati-kupang-tak-dibiarkan-berjuang-sendiri</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-      <description>News| 14:51 WIB</description>
     </item>
   </channel>
 </rss>
