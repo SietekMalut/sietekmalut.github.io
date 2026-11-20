@@ -144,6 +144,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "marahainews-id",
+      "name": "MarahaiNews.id",
+      "url": "marahainews.id",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T11:59:54Z",
-  "count": 18,
+  "generated": "2026-11-20T12:01:05Z",
+  "count": 19,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -323,6 +323,24 @@
       "items": 15,
       "latest": "2026-11-20T10:31:00Z",
       "updated": "2026-11-20T11:59:53Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "marahainews-id",
+      "name": "MarahaiNews.id",
+      "title": "MarahaiNews.id",
+      "description": "Tegas & Modern",
+      "source_url": "marahainews.id",
+      "site_url": "https://marahainews.id",
+      "xml_url": "https://sietekmalut.github.io/feeds/marahainews-id.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/marahainews-id.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 10,
+      "latest": "2026-11-20T10:26:55Z",
+      "updated": "2026-11-20T12:01:05Z",
       "status": "ok",
       "error": "",
       "stale": false
