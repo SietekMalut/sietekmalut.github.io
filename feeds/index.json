@@ -1,6 +1,6 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-19T18:55:43Z",
+  "generated": "2026-11-20T01:00:42Z",
   "count": 11,
   "feeds": [
     {
@@ -15,8 +15,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T23:59:00Z",
-      "updated": "2026-11-19T18:55:43Z",
+      "latest": "2026-11-20T07:38:00Z",
+      "updated": "2026-11-20T01:00:44Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -33,11 +33,11 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T09:54:25Z",
-      "updated": "2026-11-19T18:55:42Z",
+      "latest": "2026-11-20T00:59:42Z",
+      "updated": "2026-11-20T01:00:43Z",
       "status": "ok",
-      "error": "tidak ada artikel yang bisa diekstrak (halaman mungkin butuh JavaScript) (feed lama dipertahankan)",
-      "stale": true
+      "error": "",
+      "stale": false
     },
     {
       "slug": "detik",
@@ -51,8 +51,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T18:53:43Z",
-      "updated": "2026-11-19T18:55:44Z",
+      "latest": "2026-11-20T00:56:42Z",
+      "updated": "2026-11-20T01:00:44Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -69,8 +69,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T16:55:43Z",
-      "updated": "2026-11-19T18:55:45Z",
+      "latest": "2026-11-19T22:00:42Z",
+      "updated": "2026-11-20T01:00:44Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -88,7 +88,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-19T11:41:00Z",
-      "updated": "2026-11-19T18:55:45Z",
+      "updated": "2026-11-20T01:00:41Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -105,8 +105,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T17:56:00Z",
-      "updated": "2026-11-19T18:55:47Z",
+      "latest": "2026-11-19T23:57:00Z",
+      "updated": "2026-11-20T01:00:56Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -124,7 +124,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-10T21:45:00Z",
-      "updated": "2026-11-19T18:55:42Z",
+      "updated": "2026-11-20T01:00:41Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -142,7 +142,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-19T13:01:00Z",
-      "updated": "2026-11-19T18:55:47Z",
+      "updated": "2026-11-20T01:00:41Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -160,7 +160,7 @@
       "language": "id",
       "items": 21,
       "latest": "2026-11-19T14:40:00Z",
-      "updated": "2026-11-19T18:55:49Z",
+      "updated": "2026-11-20T01:00:41Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -178,7 +178,7 @@
       "language": "id",
       "items": 5,
       "latest": "2026-11-14T00:00:00Z",
-      "updated": "2026-11-19T18:55:42Z",
+      "updated": "2026-11-20T01:00:41Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -195,8 +195,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-19T00:00:00Z",
-      "updated": "2026-11-19T18:55:45Z",
+      "latest": "2026-11-20T00:00:00Z",
+      "updated": "2026-11-20T01:00:44Z",
       "status": "ok",
       "error": "",
       "stale": false
