@@ -160,6 +160,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "ternate-hari-ini",
+      "name": "Ternate Hari ini",
+      "url": "ternatehariini.com",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }
