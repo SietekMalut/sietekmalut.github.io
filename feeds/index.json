@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T08:30:52Z",
-  "count": 11,
+  "generated": "2026-11-20T11:37:54Z",
+  "count": 12,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -197,6 +197,24 @@
       "items": 30,
       "latest": "2026-11-20T00:00:00Z",
       "updated": "2026-11-20T08:30:54Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "berita-pusat-pemberitaan-hari-ini-lpp-rri",
+      "name": "Berita Pusat Pemberitaan Hari Ini | LPP RRI",
+      "title": "Berita Pusat Pemberitaan Hari Ini | LPP RRI",
+      "description": "Portal berita RRI menyajikan berita Pusat Pemberitaan secara aktual dan terpercaya.",
+      "source_url": "https://rri.co.id/ternate",
+      "site_url": "https://www.rri.co.id",
+      "xml_url": "https://sietekmalut.github.io/feeds/berita-pusat-pemberitaan-hari-ini-lpp-rri.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/berita-pusat-pemberitaan-hari-ini-lpp-rri.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 50,
+      "latest": "2026-11-20T11:35:00Z",
+      "updated": "2026-11-20T11:37:54Z",
       "status": "ok",
       "error": "",
       "stale": false

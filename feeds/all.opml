@@ -15,5 +15,6 @@
     <outline type="rss" text="Malut Satu" title="Malut Satu" xmlUrl="https://sietekmalut.github.io/feeds/malutsatu.xml" htmlUrl="https://www.malutsatu.com"/>
     <outline type="rss" text="Indo Timur" title="Indo Timur" xmlUrl="https://sietekmalut.github.io/feeds/indotimur.xml" htmlUrl="https://indotimur.com"/>
     <outline type="rss" text="Suara.com" title="Suara.com" xmlUrl="https://sietekmalut.github.io/feeds/suara-com.xml" htmlUrl="https://www.suara.com"/>
+    <outline type="rss" text="Berita Pusat Pemberitaan Hari Ini | LPP RRI" title="Berita Pusat Pemberitaan Hari Ini | LPP RRI" xmlUrl="https://sietekmalut.github.io/feeds/berita-pusat-pemberitaan-hari-ini-lpp-rri.xml" htmlUrl="https://www.rri.co.id"/>
   </body>
 </opml>

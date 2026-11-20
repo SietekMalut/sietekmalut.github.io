@@ -88,6 +88,14 @@
       "mode": "auto",
       "limit": 30,
       "enabled": true
+    },
+    {
+      "slug": "berita-pusat-pemberitaan-hari-ini-lpp-rri",
+      "name": "Berita Pusat Pemberitaan Hari Ini | LPP RRI",
+      "url": "https://rri.co.id/ternate",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }
