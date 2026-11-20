@@ -18,5 +18,6 @@
     <outline type="rss" text="Berita Pusat Pemberitaan Hari Ini | LPP RRI" title="Berita Pusat Pemberitaan Hari Ini | LPP RRI" xmlUrl="https://sietekmalut.github.io/feeds/berita-pusat-pemberitaan-hari-ini-lpp-rri.xml" htmlUrl="https://www.rri.co.id"/>
     <outline type="rss" text="Terbitmalut.com" title="Terbitmalut.com" xmlUrl="https://sietekmalut.github.io/feeds/terbitmalut-com.xml" htmlUrl="https://www.terbitmalut.com"/>
     <outline type="rss" text="LidikPost.id" title="LidikPost.id" xmlUrl="https://sietekmalut.github.io/feeds/lidikpost-id.xml" htmlUrl="https://lidikpost.id"/>
+    <outline type="rss" text="Salawaku.id" title="Salawaku.id" xmlUrl="https://sietekmalut.github.io/feeds/salawaku-id.xml" htmlUrl="https://salawaku.id"/>
   </body>
 </opml>

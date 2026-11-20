@@ -112,6 +112,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "salawaku-id",
+      "name": "Salawaku.id",
+      "url": "salawaku.id",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }

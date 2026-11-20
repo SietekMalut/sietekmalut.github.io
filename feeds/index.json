@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T11:49:53Z",
-  "count": 14,
+  "generated": "2026-11-20T11:52:12Z",
+  "count": 15,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -254,6 +254,24 @@
       "status": "ok",
       "error": "HTTP 403 dari https://LidikPost.id (feed lama dipertahankan)",
       "stale": true
+    },
+    {
+      "slug": "salawaku-id",
+      "name": "Salawaku.id",
+      "title": "Salawaku.id",
+      "description": "Cerdas Mengabarkan",
+      "source_url": "salawaku.id",
+      "site_url": "https://salawaku.id",
+      "xml_url": "https://sietekmalut.github.io/feeds/salawaku-id.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/salawaku-id.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 10,
+      "latest": "2026-11-20T10:53:38Z",
+      "updated": "2026-11-20T11:52:12Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
     }
   ]
 }
