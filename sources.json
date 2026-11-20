@@ -104,6 +104,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "lidikpost-id",
+      "name": "LidikPost.id",
+      "url": "https://LidikPost.id",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }

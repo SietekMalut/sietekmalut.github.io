@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T11:47:58Z",
-  "count": 13,
+  "generated": "2026-11-20T11:49:32Z",
+  "count": 14,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -233,6 +233,24 @@
       "items": 10,
       "latest": "2026-11-20T10:45:00Z",
       "updated": "2026-11-20T11:47:56Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "lidikpost-id",
+      "name": "LidikPost.id",
+      "title": "LidikPost.id",
+      "description": "Menyajikan Informasi Faktual",
+      "source_url": "https://LidikPost.id",
+      "site_url": "https://lidikpost.id",
+      "xml_url": "https://sietekmalut.github.io/feeds/lidikpost-id.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/lidikpost-id.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 15,
+      "latest": "2026-11-19T12:57:22Z",
+      "updated": "2026-11-20T11:49:32Z",
       "status": "ok",
       "error": "",
       "stale": false
