@@ -1,6 +1,6 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T11:56:57Z",
+  "generated": "2026-11-20T11:58:34Z",
   "count": 17,
   "feeds": [
     {
@@ -202,24 +202,6 @@
       "stale": false
     },
     {
-      "slug": "berita-pusat-pemberitaan-hari-ini-lpp-rri",
-      "name": "Berita Pusat Pemberitaan Hari Ini | LPP RRI",
-      "title": "Berita Pusat Pemberitaan Hari Ini | LPP RRI",
-      "description": "Portal berita RRI menyajikan berita Pusat Pemberitaan secara aktual dan terpercaya.",
-      "source_url": "https://rri.co.id/ternate",
-      "site_url": "https://www.rri.co.id",
-      "xml_url": "https://sietekmalut.github.io/feeds/berita-pusat-pemberitaan-hari-ini-lpp-rri.xml",
-      "json_url": "https://sietekmalut.github.io/feeds/berita-pusat-pemberitaan-hari-ini-lpp-rri.json",
-      "mode": "discovered-feed",
-      "language": "id",
-      "items": 50,
-      "latest": "2026-11-20T11:35:00Z",
-      "updated": "2026-11-20T11:56:55Z",
-      "status": "ok",
-      "error": "HTTP 403 dari https://rri.co.id/ternate (feed lama dipertahankan)",
-      "stale": true
-    },
-    {
       "slug": "terbitmalut-com",
       "name": "Terbitmalut.com",
       "title": "Terbitmalut.com",
@@ -305,6 +287,24 @@
       "items": 30,
       "latest": "2026-11-20T11:56:00Z",
       "updated": "2026-11-20T11:57:17Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "berita-pusat-pemberitaan-hari-ini-lpp-rri",
+      "name": "Berita Pusat Pemberitaan Hari Ini | LPP RRI",
+      "title": "Berita Pusat Pemberitaan Hari Ini | LPP RRI",
+      "description": "Portal berita RRI menyajikan berita Pusat Pemberitaan secara aktual dan terpercaya.",
+      "source_url": "https://rri.co.id/ternate",
+      "site_url": "https://www.rri.co.id",
+      "xml_url": "https://sietekmalut.github.io/feeds/berita-pusat-pemberitaan-hari-ini-lpp-rri.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/berita-pusat-pemberitaan-hari-ini-lpp-rri.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 50,
+      "latest": "2026-11-20T11:55:00Z",
+      "updated": "2026-11-20T11:58:34Z",
       "status": "ok",
       "error": "",
       "stale": false
