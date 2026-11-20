@@ -176,6 +176,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "detik-harian-pos-i",
+      "name": "DETIK HARIAN POSꄲꀘ i",
+      "url": "detikharianpos.com",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }

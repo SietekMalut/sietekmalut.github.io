@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T12:09:26Z",
-  "count": 22,
+  "generated": "2026-11-20T12:11:33Z",
+  "count": 23,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -395,6 +395,24 @@
       "items": 10,
       "latest": "2026-11-20T07:11:00Z",
       "updated": "2026-11-20T12:09:25Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "detik-harian-pos-i",
+      "name": "DETIK HARIAN POSꄲꀘ i",
+      "title": "DETIK HARIAN POSꄲꀘ i",
+      "description": "Akurat Dan Berimbang",
+      "source_url": "detikharianpos.com",
+      "site_url": "https://detikharianpos.com",
+      "xml_url": "https://sietekmalut.github.io/feeds/detik-harian-pos-i.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/detik-harian-pos-i.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 10,
+      "latest": "2026-11-20T11:26:56Z",
+      "updated": "2026-11-20T12:11:33Z",
       "status": "ok",
       "error": "",
       "stale": false
