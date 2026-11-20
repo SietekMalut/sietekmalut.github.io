@@ -152,6 +152,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "seputar-malut-id-spirit-baru-maluku-utara",
+      "name": "Seputar Malut.ID – Spirit Baru Maluku Utara",
+      "url": "seputarmalut.id",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }
