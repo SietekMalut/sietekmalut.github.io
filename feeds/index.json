@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T12:55:45Z",
-  "count": 25,
+  "generated": "2026-11-20T12:58:07Z",
+  "count": 26,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -449,6 +449,24 @@
       "items": 13,
       "latest": "2026-11-20T12:39:00Z",
       "updated": "2026-11-20T12:55:56Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "voicemu-com",
+      "name": "voicemu.com",
+      "title": "voicemu.com",
+      "description": "saatnya bersuara",
+      "source_url": "https://www.voicemu.com/",
+      "site_url": "https://www.voicemu.com",
+      "xml_url": "https://sietekmalut.github.io/feeds/voicemu-com.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/voicemu-com.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 10,
+      "latest": "2026-11-20T10:28:39Z",
+      "updated": "2026-11-20T12:58:07Z",
       "status": "ok",
       "error": "",
       "stale": false

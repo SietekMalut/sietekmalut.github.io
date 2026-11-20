@@ -29,5 +29,6 @@
     <outline type="rss" text="DETIK HARIAN POSꄲꀘ i" title="DETIK HARIAN POSꄲꀘ i" xmlUrl="https://sietekmalut.github.io/feeds/detik-harian-pos-i.xml" htmlUrl="https://detikharianpos.com"/>
     <outline type="rss" text="Warta Republik" title="Warta Republik" xmlUrl="https://sietekmalut.github.io/feeds/warta-republik.xml" htmlUrl="https://www.wartarepublik.com"/>
     <outline type="rss" text="Bacarita Malut" title="Bacarita Malut" xmlUrl="https://sietekmalut.github.io/feeds/bacarita-malut.xml" htmlUrl="https://bacaritamalut.com"/>
+    <outline type="rss" text="voicemu.com" title="voicemu.com" xmlUrl="https://sietekmalut.github.io/feeds/voicemu-com.xml" htmlUrl="https://www.voicemu.com"/>
   </body>
 </opml>

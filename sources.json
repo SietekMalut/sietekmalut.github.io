@@ -200,6 +200,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "voicemu-com",
+      "name": "voicemu.com",
+      "url": "https://www.voicemu.com/",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }
