@@ -168,6 +168,14 @@
       "language": "id",
       "enabled": true,
       "mode": "auto"
+    },
+    {
+      "slug": "faktahalmahera-com",
+      "name": "FaktaHalmahera.com",
+      "url": "faktahalmahera.com",
+      "language": "id",
+      "enabled": true,
+      "mode": "auto"
     }
   ]
 }

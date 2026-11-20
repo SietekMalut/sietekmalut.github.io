@@ -25,5 +25,6 @@
     <outline type="rss" text="MarahaiNews.id" title="MarahaiNews.id" xmlUrl="https://sietekmalut.github.io/feeds/marahainews-id.xml" htmlUrl="https://marahainews.id"/>
     <outline type="rss" text="Seputar Malut.ID – Spirit Baru Maluku Utara" title="Seputar Malut.ID – Spirit Baru Maluku Utara" xmlUrl="https://sietekmalut.github.io/feeds/seputar-malut-id-spirit-baru-maluku-utara.xml" htmlUrl="https://seputarmalut.id"/>
     <outline type="rss" text="Ternate Hari ini" title="Ternate Hari ini" xmlUrl="https://sietekmalut.github.io/feeds/ternate-hari-ini.xml" htmlUrl="https://www.ternatehariini.com"/>
+    <outline type="rss" text="FaktaHalmahera.com" title="FaktaHalmahera.com" xmlUrl="https://sietekmalut.github.io/feeds/faktahalmahera-com.xml" htmlUrl="https://faktahalmahera.com"/>
   </body>
 </opml>

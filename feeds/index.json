@@ -1,7 +1,7 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T12:04:27Z",
-  "count": 21,
+  "generated": "2026-11-20T12:09:06Z",
+  "count": 22,
   "feeds": [
     {
       "slug": "cnn-indonesia",
@@ -377,6 +377,24 @@
       "items": 14,
       "latest": "2026-11-20T00:00:00Z",
       "updated": "2026-11-20T12:04:39Z",
+      "status": "ok",
+      "error": "",
+      "stale": false
+    },
+    {
+      "slug": "faktahalmahera-com",
+      "name": "FaktaHalmahera.com",
+      "title": "FaktaHalmahera.com",
+      "description": "Portal Informasi Halmahera",
+      "source_url": "faktahalmahera.com",
+      "site_url": "https://faktahalmahera.com",
+      "xml_url": "https://sietekmalut.github.io/feeds/faktahalmahera-com.xml",
+      "json_url": "https://sietekmalut.github.io/feeds/faktahalmahera-com.json",
+      "mode": "discovered-feed",
+      "language": "id",
+      "items": 10,
+      "latest": "2026-11-20T07:11:50Z",
+      "updated": "2026-11-20T12:09:06Z",
       "status": "ok",
       "error": "",
       "stale": false
