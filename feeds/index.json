@@ -1,6 +1,6 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-20T23:15:21Z",
+  "generated": "2026-11-21T04:08:13Z",
   "count": 28,
   "feeds": [
     {
@@ -15,8 +15,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-21T06:00:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "latest": "2026-11-21T10:48:00Z",
+      "updated": "2026-11-21T04:08:13Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -34,10 +34,10 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-21T00:00:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "HTTP 403 dari https://www.kompas.com/ (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "detik",
@@ -52,10 +52,10 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-20T23:09:21Z",
-      "updated": "2026-11-20T23:15:23Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "tidak bisa menghubungi https://www.detik.com/: _ssl.c:994: The handshake operation timed out (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "antaranews",
@@ -69,8 +69,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-20T22:15:21Z",
-      "updated": "2026-11-20T23:15:23Z",
+      "latest": "2026-11-20T22:15:00Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -88,7 +88,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-19T11:41:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -105,8 +105,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-20T20:56:00Z",
-      "updated": "2026-11-20T23:15:25Z",
+      "latest": "2026-11-21T03:56:00Z",
+      "updated": "2026-11-21T04:08:16Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -124,7 +124,7 @@
       "language": "id",
       "items": 11,
       "latest": "2026-11-20T09:32:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -141,8 +141,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-20T13:03:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "latest": "2026-11-21T01:30:00Z",
+      "updated": "2026-11-21T04:08:28Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -160,7 +160,7 @@
       "language": "id",
       "items": 24,
       "latest": "2026-11-20T04:24:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -178,7 +178,7 @@
       "language": "id",
       "items": 6,
       "latest": "2026-11-21T00:00:00Z",
-      "updated": "2026-11-20T23:15:38Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -195,8 +195,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-20T00:00:00Z",
-      "updated": "2026-11-20T23:15:22Z",
+      "latest": "2026-11-21T00:00:00Z",
+      "updated": "2026-11-21T04:08:14Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -214,7 +214,7 @@
       "language": "id",
       "items": 50,
       "latest": "2026-11-20T11:55:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
       "error": "HTTP 403 dari https://rri.co.id/ternate (feed lama dipertahankan)",
       "stale": true
@@ -232,10 +232,10 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T10:45:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "tidak bisa menghubungi https://terbitmalut.com/: timed out (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "lidikpost-id",
@@ -250,7 +250,7 @@
       "language": "id",
       "items": 15,
       "latest": "2026-11-19T12:57:22Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
       "error": "HTTP 403 dari https://LidikPost.id (feed lama dipertahankan)",
       "stale": true
@@ -268,7 +268,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T10:53:38Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
       "error": "HTTP 403 dari https://salawaku.id (feed lama dipertahankan)",
       "stale": true
@@ -286,10 +286,10 @@
       "language": "id",
       "items": 11,
       "latest": "2026-11-20T12:04:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "tidak bisa menghubungi https://nuansamalut.com: [Errno 101] Network is unreachable (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "corong-publik",
@@ -304,7 +304,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-20T11:56:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -322,10 +322,10 @@
       "language": "id",
       "items": 15,
       "latest": "2026-11-20T10:31:00Z",
-      "updated": "2026-11-20T23:15:36Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "tidak bisa menghubungi https://www.tandaseru.com/: [Errno 101] Network is unreachable (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "marahainews-id",
@@ -340,7 +340,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T10:26:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -356,9 +356,9 @@
       "json_url": "https://sietekmalut.github.io/feeds/seputar-malut-id-spirit-baru-maluku-utara.json",
       "mode": "native",
       "language": "id",
-      "items": 10,
-      "latest": "2026-11-20T09:39:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "items": 13,
+      "latest": "2026-11-21T02:03:00Z",
+      "updated": "2026-11-21T04:08:28Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -376,10 +376,10 @@
       "language": "id",
       "items": 14,
       "latest": "2026-11-20T00:00:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "tidak bisa menghubungi https://ternatehariini.com: timed out (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "faktahalmahera-com",
@@ -394,7 +394,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T07:11:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -410,9 +410,9 @@
       "json_url": "https://sietekmalut.github.io/feeds/detik-harian-pos-i.json",
       "mode": "native",
       "language": "id",
-      "items": 12,
-      "latest": "2026-11-20T13:42:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "items": 13,
+      "latest": "2026-11-20T23:51:00Z",
+      "updated": "2026-11-21T04:08:30Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -430,10 +430,10 @@
       "language": "id",
       "items": 27,
       "latest": "2026-11-20T13:30:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "HTTP 429 dari https://wartarepublik.com (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "bacarita-malut",
@@ -446,9 +446,9 @@
       "json_url": "https://sietekmalut.github.io/feeds/bacarita-malut.json",
       "mode": "html",
       "language": "id",
-      "items": 13,
-      "latest": "2026-11-20T12:39:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "items": 14,
+      "latest": "2026-11-21T02:36:27Z",
+      "updated": "2026-11-21T04:08:34Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -466,10 +466,10 @@
       "language": "id",
       "items": 20,
       "latest": "2026-11-20T00:00:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "tidak bisa menghubungi https://www.voicemu.com/: [Errno 101] Network is unreachable (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "halmahera-raya",
@@ -482,9 +482,9 @@
       "json_url": "https://sietekmalut.github.io/feeds/halmahera-raya.json",
       "mode": "html",
       "language": "id",
-      "items": 10,
-      "latest": "2026-11-20T12:57:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "items": 11,
+      "latest": "2026-11-21T03:14:56Z",
+      "updated": "2026-11-21T04:08:36Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -502,10 +502,10 @@
       "language": "id",
       "items": 10,
       "latest": "2026-10-01T12:28:00Z",
-      "updated": "2026-11-20T23:15:21Z",
+      "updated": "2026-11-21T04:08:12Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "tidak bisa menghubungi https://satukliik.com: [Errno 101] Network is unreachable (feed lama dipertahankan)",
+      "stale": true
     }
   ]
 }

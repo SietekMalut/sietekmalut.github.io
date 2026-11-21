@@ -1,23 +1,28 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "Halmahera Raya",
+  "title": "Halmahera Raya - Bukan Informasi Biasa",
   "home_page_url": "https://halmaheraraya.id",
   "feed_url": "https://sietekmalut.github.io/feeds/halmahera-raya.json",
   "description": "Bukan Informasi Biasa",
   "language": "id",
   "items": [
     {
-      "id": "https://halmaheraraya.id/?p=55040",
+      "id": "https://halmaheraraya.id/kinerja-ekonomi-unggul-pemkot-ternate-raih-penghargaan-kemendagri-dan-dana-bantuan-rp1-miliar/",
+      "url": "https://halmaheraraya.id/kinerja-ekonomi-unggul-pemkot-ternate-raih-penghargaan-kemendagri-dan-dana-bantuan-rp1-miliar/",
+      "title": "Kinerja Ekonomi Unggul, Pemkot Ternate Raih Penghargaan Kemendagri dan Dana Bantuan Rp1 Miliar",
+      "summary": "JAKARTA,HR— Pemerintah Kota (Pemkot) Ternate sukses mencatatkan prestasi nasional usai menyabet penghargaan dari Kementerian Dalam […]",
+      "content_text": "JAKARTA,HR— Pemerintah Kota (Pemkot) Ternate sukses mencatatkan prestasi nasional usai menyabet penghargaan dari Kementerian Dalam […]",
+      "date_published": "2026-11-21T03:14:56Z",
+      "image": "https://halmaheraraya.id/wp-content/uploads/2026/11/IMG-20261121-WA0087-200x112.jpg"
+    },
+    {
+      "id": "https://halmaheraraya.id/vakum-15-tahun-hasby-yusuf-resmi-jadi-ketua-ika-unkhair/",
       "url": "https://halmaheraraya.id/vakum-15-tahun-hasby-yusuf-resmi-jadi-ketua-ika-unkhair/",
       "title": "Vakum 15 Tahun, Hasby Yusuf Resmi Jadi Ketua IKA Unkhair",
-      "summary": "TERNATE,HR— Ikatan Alumni Universitas Khairun (IKA Unkhair) kembali mengaktifkan roda organisasinya setelah vakum lebih dari […] Artikel Vakum 15 Tahun, Hasby Yusuf Resmi Jadi Ketua IKA Unkhair pertama kali tampil pada Halmahera Raya .",
-      "content_text": "TERNATE,HR— Ikatan Alumni Universitas Khairun (IKA Unkhair) kembali mengaktifkan roda organisasinya setelah vakum lebih dari […] Artikel Vakum 15 Tahun, Hasby Yusuf Resmi Jadi Ketua IKA Unkhair pertama kali tampil pada Halmahera Raya .",
-      "date_published": "2026-11-20T12:57:18Z",
-      "authors": [
-        {
-          "name": "Asri Fabanyo"
-        }
-      ]
+      "summary": "TERNATE,HR— Ikatan Alumni Universitas Khairun (IKA Unkhair) kembali mengaktifkan roda organisasinya setelah vakum lebih dari […]",
+      "content_text": "TERNATE,HR— Ikatan Alumni Universitas Khairun (IKA Unkhair) kembali mengaktifkan roda organisasinya setelah vakum lebih dari […]",
+      "date_published": "2026-11-20T12:57:00Z",
+      "image": "https://halmaheraraya.id/wp-content/uploads/2026/11/IMG-20261120-WA0135-200x112.jpg"
     },
     {
       "id": "https://halmaheraraya.id/?p=55036",
@@ -25,12 +30,7 @@
       "title": "Wali Kota Ternate Bawa Aspirasi Penguatan Konektivitas dan Ekonomi Biru di Forum Nasional Jakarta",
       "summary": "JAKARTA,HR- Wali Kota Ternate, M Tauhid Soleman, menghadiri Forum Akselerasi Ekonomi Daerah 2026 yang digelar […] Artikel Wali Kota Ternate Bawa Aspirasi Penguatan Konektivitas dan Ekonomi Biru di Forum Nasional Jakarta pertama kali tampil pada Halmahera Raya .",
       "content_text": "JAKARTA,HR- Wali Kota Ternate, M Tauhid Soleman, menghadiri Forum Akselerasi Ekonomi Daerah 2026 yang digelar […] Artikel Wali Kota Ternate Bawa Aspirasi Penguatan Konektivitas dan Ekonomi Biru di Forum Nasional Jakarta pertama kali tampil pada Halmahera Raya .",
-      "date_published": "2026-11-20T12:45:49Z",
-      "authors": [
-        {
-          "name": "Fitriyanti Safar"
-        }
-      ]
+      "date_published": "2026-11-20T12:45:00Z"
     },
     {
       "id": "https://halmaheraraya.id/?p=55030",
@@ -38,90 +38,61 @@
       "title": "Harita Nickel Perkuat Dukungan Pelayanan Sampah di Ternate dan Halmahera Selatan",
       "summary": "TERNATE,HR– 20 November 2026 – Harita Nickel menyerahkan dua unit truk pengangkut sampah berjenis Mitsubishi […] Artikel Harita Nickel Perkuat Dukungan Pelayanan Sampah di Ternate dan Halmahera Selatan pertama kali tampil pada Halmahera Raya .",
       "content_text": "TERNATE,HR– 20 November 2026 – Harita Nickel menyerahkan dua unit truk pengangkut sampah berjenis Mitsubishi […] Artikel Harita Nickel Perkuat Dukungan Pelayanan Sampah di Ternate dan Halmahera Selatan pertama kali tampil pada Halmahera Raya .",
-      "date_published": "2026-11-20T09:18:07Z",
-      "authors": [
-        {
-          "name": "halmaheraraya"
-        }
-      ]
+      "date_published": "2026-11-20T09:18:00Z"
     },
     {
-      "id": "https://halmaheraraya.id/?p=55025",
+      "id": "https://halmaheraraya.id/pengurus-mkpd-cides-icmi-maluku-utara-dilantik-begini-harapan-wakil-gubernur/",
       "url": "https://halmaheraraya.id/pengurus-mkpd-cides-icmi-maluku-utara-dilantik-begini-harapan-wakil-gubernur/",
       "title": "Pengurus MKPD CIDES ICMI Maluku Utara Dilantik, Begini Harapan Wakil Gubernur",
-      "summary": "TERNATE,HR—Pengurus Majelis Kajian Pembangunan Daerah (MKPD) Center for Information and Development Studies (CIDES) Ikatan Cendekiawan […] Artikel Pengurus MKPD CIDES ICMI Maluku Utara Dilantik, Begini Harapan Wakil Gubernur pertama kali tampil pada Halmahera Raya .",
-      "content_text": "TERNATE,HR—Pengurus Majelis Kajian Pembangunan Daerah (MKPD) Center for Information and Development Studies (CIDES) Ikatan Cendekiawan […] Artikel Pengurus MKPD CIDES ICMI Maluku Utara Dilantik, Begini Harapan Wakil Gubernur pertama kali tampil pada Halmahera Raya .",
-      "date_published": "2026-11-20T07:26:45Z",
-      "authors": [
-        {
-          "name": "Asri Fabanyo"
-        }
-      ]
+      "summary": "TERNATE,HR—Pengurus Majelis Kajian Pembangunan Daerah (MKPD) Center for Information and Development Studies (CIDES) Ikatan Cendekiawan […]",
+      "content_text": "TERNATE,HR—Pengurus Majelis Kajian Pembangunan Daerah (MKPD) Center for Information and Development Studies (CIDES) Ikatan Cendekiawan […]",
+      "date_published": "2026-11-20T07:26:00Z",
+      "image": "https://halmaheraraya.id/wp-content/uploads/2026/11/IMG-20261120-WA0087-200x112.jpg"
     },
     {
-      "id": "https://halmaheraraya.id/?p=55021",
+      "id": "https://halmaheraraya.id/kaha-patu-cup-ii-dibuka-sekda-ternate-lahirkan-talenta-hingga-level-timnas/",
       "url": "https://halmaheraraya.id/kaha-patu-cup-ii-dibuka-sekda-ternate-lahirkan-talenta-hingga-level-timnas/",
       "title": "Kaha Patu Cup II Dibuka, Sekda Ternate: Lahirkan Talenta hingga Level Timnas",
-      "summary": "TERNATE,HR – Sekretaris Daerah (Sekda) Kota Ternate, Rizal Marsaoly, secara resmi membuka open turnamen sepak […] Artikel Kaha Patu Cup II Dibuka, Sekda Ternate: Lahirkan Talenta hingga Level Timnas pertama kali tampil pada Halmahera Raya .",
-      "content_text": "TERNATE,HR – Sekretaris Daerah (Sekda) Kota Ternate, Rizal Marsaoly, secara resmi membuka open turnamen sepak […] Artikel Kaha Patu Cup II Dibuka, Sekda Ternate: Lahirkan Talenta hingga Level Timnas pertama kali tampil pada Halmahera Raya .",
-      "date_published": "2026-11-19T13:32:11Z",
-      "authors": [
-        {
-          "name": "Fitriyanti Safar"
-        }
-      ]
+      "summary": "TERNATE,HR – Sekretaris Daerah (Sekda) Kota Ternate, Rizal Marsaoly, secara resmi membuka open turnamen sepak […]",
+      "content_text": "TERNATE,HR – Sekretaris Daerah (Sekda) Kota Ternate, Rizal Marsaoly, secara resmi membuka open turnamen sepak […]",
+      "date_published": "2026-11-19T13:32:00Z",
+      "image": "https://halmaheraraya.id/wp-content/uploads/2026/11/Screenshot_2026-11-19-22-31-38-23_6012fa4d4ddec268fc5c7112cbb265e7-200x112.jpg"
     },
     {
-      "id": "https://halmaheraraya.id/?p=55017",
+      "id": "https://halmaheraraya.id/ketua-pkk-tidore-ajak-kader-desa-dan-kelurahan-perangi-kekerasan-anak/",
       "url": "https://halmaheraraya.id/ketua-pkk-tidore-ajak-kader-desa-dan-kelurahan-perangi-kekerasan-anak/",
       "title": "Ketua PKK Tidore Ajak Kader Desa dan Kelurahan Perangi Kekerasan Anak",
-      "summary": "TIDORE,HR– Ketua TP PKK sekaligus Ketua Pusat Pembelajaran Keluarga (Puspaga) Kota Tidore Kepulauan, Hj. Rahmawati […] Artikel Ketua PKK Tidore Ajak Kader Desa dan Kelurahan Perangi Kekerasan Anak pertama kali tampil pada Halmahera Raya .",
-      "content_text": "TIDORE,HR– Ketua TP PKK sekaligus Ketua Pusat Pembelajaran Keluarga (Puspaga) Kota Tidore Kepulauan, Hj. Rahmawati […] Artikel Ketua PKK Tidore Ajak Kader Desa dan Kelurahan Perangi Kekerasan Anak pertama kali tampil pada Halmahera Raya .",
-      "date_published": "2026-11-19T10:34:28Z",
-      "authors": [
-        {
-          "name": "Fitriyanti Safar"
-        }
-      ]
+      "summary": "TIDORE,HR– Ketua TP PKK sekaligus Ketua Pusat Pembelajaran Keluarga (Puspaga) Kota Tidore Kepulauan, Hj. Rahmawati […]",
+      "content_text": "TIDORE,HR– Ketua TP PKK sekaligus Ketua Pusat Pembelajaran Keluarga (Puspaga) Kota Tidore Kepulauan, Hj. Rahmawati […]",
+      "date_published": "2026-11-19T10:34:00Z",
+      "image": "https://halmaheraraya.id/wp-content/uploads/2026/11/IMG-20261119-WA0105-200x112.jpg"
     },
     {
-      "id": "https://halmaheraraya.id/?p=55013",
+      "id": "https://halmaheraraya.id/pencanangan-hut-ke-27-dwp-kota-tidore-dimulai-dengan-doa-bersama-di-gedung-wanita/",
       "url": "https://halmaheraraya.id/pencanangan-hut-ke-27-dwp-kota-tidore-dimulai-dengan-doa-bersama-di-gedung-wanita/",
       "title": "Pencanangan HUT ke-27 DWP Kota Tidore Dimulai dengan Doa Bersama di Gedung Wanita",
-      "summary": "TIDORE, HR – Dharma Wanita Persatuan (DWP) Kota Tidore Kepulauan gelar pertemuan rutin dirangkaikan dengan […] Artikel Pencanangan HUT ke-27 DWP Kota Tidore Dimulai dengan Doa Bersama di Gedung Wanita pertama kali tampil pada Halmahera Raya .",
-      "content_text": "TIDORE, HR – Dharma Wanita Persatuan (DWP) Kota Tidore Kepulauan gelar pertemuan rutin dirangkaikan dengan […] Artikel Pencanangan HUT ke-27 DWP Kota Tidore Dimulai dengan Doa Bersama di Gedung Wanita pertama kali tampil pada Halmahera Raya .",
-      "date_published": "2026-11-19T10:32:55Z",
-      "authors": [
-        {
-          "name": "Fitriyanti Safar"
-        }
-      ]
+      "summary": "TIDORE, HR – Dharma Wanita Persatuan (DWP) Kota Tidore Kepulauan gelar pertemuan rutin dirangkaikan dengan […]",
+      "content_text": "TIDORE, HR – Dharma Wanita Persatuan (DWP) Kota Tidore Kepulauan gelar pertemuan rutin dirangkaikan dengan […]",
+      "date_published": "2026-11-19T10:32:00Z",
+      "image": "https://halmaheraraya.id/wp-content/uploads/2026/11/IMG-20261119-WA0104-200x112.jpg"
     },
     {
-      "id": "https://halmaheraraya.id/?p=55009",
+      "id": "https://halmaheraraya.id/wagub-sarbin-sehe-lantik-tiga-pejabat-eselon-ii-pemprov-malut-tekankan-manajemen-talenta-dan-amanah-jabatan/",
       "url": "https://halmaheraraya.id/wagub-sarbin-sehe-lantik-tiga-pejabat-eselon-ii-pemprov-malut-tekankan-manajemen-talenta-dan-amanah-jabatan/",
       "title": "Wagub Sarbin Sehe Lantik Tiga Pejabat Eselon II Pemprov Malut, Tekankan Manajemen Talenta dan Amanah Jabatan",
-      "summary": "SOFIFI,HR– Wakil Gubernur Maluku Utara (Malut), H. Sarbin Sehe, secara resmi melantik dan mengambil sumpah […] Artikel Wagub Sarbin Sehe Lantik Tiga Pejabat Eselon II Pemprov Malut, Tekankan Manajemen Talenta dan Amanah Jabatan pertama kali tampil pada Halmahera Raya .",
-      "content_text": "SOFIFI,HR– Wakil Gubernur Maluku Utara (Malut), H. Sarbin Sehe, secara resmi melantik dan mengambil sumpah […] Artikel Wagub Sarbin Sehe Lantik Tiga Pejabat Eselon II Pemprov Malut, Tekankan Manajemen Talenta dan Amanah Jabatan pertama kali tampil pada Halmahera Raya .",
-      "date_published": "2026-11-19T09:20:19Z",
-      "authors": [
-        {
-          "name": "halmaheraraya"
-        }
-      ]
+      "summary": "SOFIFI,HR– Wakil Gubernur Maluku Utara (Malut), H. Sarbin Sehe, secara resmi melantik dan mengambil sumpah […]",
+      "content_text": "SOFIFI,HR– Wakil Gubernur Maluku Utara (Malut), H. Sarbin Sehe, secara resmi melantik dan mengambil sumpah […]",
+      "date_published": "2026-11-19T09:20:00Z",
+      "image": "https://halmaheraraya.id/wp-content/uploads/2026/11/IMG-20261119-WA0084-200x112.jpg"
     },
     {
-      "id": "https://halmaheraraya.id/?p=55004",
+      "id": "https://halmaheraraya.id/dispersip-ternate-dituntut-lebih-menarik-di-tengah-era-gawai-sistem-kerja-harus-terus-berjalan/",
       "url": "https://halmaheraraya.id/dispersip-ternate-dituntut-lebih-menarik-di-tengah-era-gawai-sistem-kerja-harus-terus-berjalan/",
       "title": "Dispersip Ternate Dituntut Lebih Menarik di Tengah Era Gawai, Sistem Kerja Harus Terus Berjalan",
-      "summary": "TERNATE,HR — Penguatan minat baca dan pembenahan layanan perpustakaan menjadi sorotan utama agar Dinas Perpustakaan […] Artikel Dispersip Ternate Dituntut Lebih Menarik di Tengah Era Gawai, Sistem Kerja Harus Terus Berjalan pertama kali tampil pada Halmahera Raya .",
-      "content_text": "TERNATE,HR — Penguatan minat baca dan pembenahan layanan perpustakaan menjadi sorotan utama agar Dinas Perpustakaan […] Artikel Dispersip Ternate Dituntut Lebih Menarik di Tengah Era Gawai, Sistem Kerja Harus Terus Berjalan pertama kali tampil pada Halmahera Raya .",
-      "date_published": "2026-11-19T07:53:15Z",
-      "authors": [
-        {
-          "name": "Fitriyanti Safar"
-        }
-      ]
+      "summary": "TERNATE,HR — Penguatan minat baca dan pembenahan layanan perpustakaan menjadi sorotan utama agar Dinas Perpustakaan […]",
+      "content_text": "TERNATE,HR — Penguatan minat baca dan pembenahan layanan perpustakaan menjadi sorotan utama agar Dinas Perpustakaan […]",
+      "date_published": "2026-11-19T07:53:00Z",
+      "image": "https://halmaheraraya.id/wp-content/uploads/2026/11/IMG-20261119-WA0074-200x112.jpg"
     },
     {
       "id": "https://halmaheraraya.id/?p=55000",
@@ -129,12 +100,7 @@
       "title": "Pesan Menyentuh Sultan Tidore untuk Imam Adat dan Warga Tongowai",
       "summary": "TIDORE,HR— Sultan Tidore, Jou H. Husain Syah berharap para imam adat Kelurahan Tongowai bersama masyarakat […] Artikel Pesan Menyentuh Sultan Tidore untuk Imam Adat dan Warga Tongowai pertama kali tampil pada Halmahera Raya .",
       "content_text": "TIDORE,HR— Sultan Tidore, Jou H. Husain Syah berharap para imam adat Kelurahan Tongowai bersama masyarakat […] Artikel Pesan Menyentuh Sultan Tidore untuk Imam Adat dan Warga Tongowai pertama kali tampil pada Halmahera Raya .",
-      "date_published": "2026-11-19T05:26:43Z",
-      "authors": [
-        {
-          "name": "Fitriyanti Safar"
-        }
-      ]
+      "date_published": "2026-11-19T05:26:00Z"
     }
   ]
 }
