@@ -7,103 +7,184 @@
   "language": "id",
   "items": [
     {
+      "id": "https://www.antaranews.com/berita/5870131/bph-migas-konsisten-dorong-perluasan-pemanfaatan-gas-bumi-melalui-pipa",
+      "url": "https://www.antaranews.com/berita/5870131/bph-migas-konsisten-dorong-perluasan-pemanfaatan-gas-bumi-melalui-pipa",
+      "title": "BPH Migas konsisten dorong perluasan pemanfaatan gas bumi melalui pipa",
+      "summary": "4 jam lalu",
+      "content_text": "4 jam lalu",
+      "date_published": "2026-11-21T15:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/1000484867.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5870115/dirut-bulog-sebut-distribusi-bantuan-pangan-tahap-tiga-capai-39-persen",
+      "url": "https://www.antaranews.com/berita/5870115/dirut-bulog-sebut-distribusi-bantuan-pangan-tahap-tiga-capai-39-persen",
+      "title": "Dirut Bulog sebut distribusi bantuan pangan tahap tiga capai 39 persen",
+      "summary": "4 jam lalu",
+      "content_text": "4 jam lalu",
+      "date_published": "2026-11-21T15:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/87BC514E-89AC-4DFD-A0BB-BB557DF295C1.jpeg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5870095/pln-ikhtiar-penguatan-kelistrikan-sulawesi-lewat-sholat-istigasah",
+      "url": "https://www.antaranews.com/berita/5870095/pln-ikhtiar-penguatan-kelistrikan-sulawesi-lewat-sholat-istigasah",
+      "title": "PLN ikhtiar penguatan kelistrikan Sulawesi lewat sholat istigasah",
+      "summary": "5 jam lalu",
+      "content_text": "5 jam lalu",
+      "date_published": "2026-11-21T14:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/1003348254.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5870067/pertamina-patra-niaga-konsisten-jalankan-pemerataan-energi",
+      "url": "https://www.antaranews.com/berita/5870067/pertamina-patra-niaga-konsisten-jalankan-pemerataan-energi",
+      "title": "Pertamina Patra Niaga konsisten jalankan pemerataan energi",
+      "summary": "5 jam lalu",
+      "content_text": "5 jam lalu",
+      "date_published": "2026-11-21T14:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/1000484797.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5870051/amran-akan-tarik-bantuan-alsintan-yang-disalahgunakan",
+      "url": "https://www.antaranews.com/berita/5870051/amran-akan-tarik-bantuan-alsintan-yang-disalahgunakan",
+      "title": "Amran akan tarik bantuan alsintan yang disalahgunakan",
+      "summary": "5 jam lalu",
+      "content_text": "5 jam lalu",
+      "date_published": "2026-11-21T14:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/B158AB4D-D56D-4AED-8E5A-445F93614AC7.jpeg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5870047/dirut-bulog-sebut-cadangan-beras-kuat-hadapi-tantangan-pangan-global",
+      "url": "https://www.antaranews.com/berita/5870047/dirut-bulog-sebut-cadangan-beras-kuat-hadapi-tantangan-pangan-global",
+      "title": "Dirut Bulog sebut cadangan beras kuat hadapi tantangan pangan global",
+      "summary": "6 jam lalu",
+      "content_text": "6 jam lalu",
+      "date_published": "2026-11-21T13:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/459F88E3-76A0-4624-81E8-C486138661B6.jpeg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5870019/bulog-komisi-iv-dpr-perkuat-distribusi-bantuan-pangan-di-lampung",
+      "url": "https://www.antaranews.com/berita/5870019/bulog-komisi-iv-dpr-perkuat-distribusi-bantuan-pangan-di-lampung",
+      "title": "Bulog-Komisi IV DPR perkuat distribusi bantuan pangan di Lampung",
+      "summary": "6 jam lalu",
+      "content_text": "6 jam lalu",
+      "date_published": "2026-11-21T13:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/7398C987-9033-45CA-B472-25CCD89DB5C1.jpeg"
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5869963/tautan-data-bbm-subsidi-untuk-gerakkan-ekonomi-nelayan-cirebon",
+      "url": "https://www.antaranews.com/berita/5869963/tautan-data-bbm-subsidi-untuk-gerakkan-ekonomi-nelayan-cirebon",
+      "title": "Tautan data BBM subsidi untuk gerakkan ekonomi nelayan Cirebon",
+      "summary": "6 jam lalu",
+      "content_text": "6 jam lalu",
+      "date_published": "2026-11-21T13:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/1001685958.jpg"
+    },
+    {
+      "id": "https://www.antaranews.com/video/5869935/zulhas-pastikan-penyaluran-bantuan-pangan-di-banyuwangi-tepat-sasaran",
+      "url": "https://www.antaranews.com/video/5869935/zulhas-pastikan-penyaluran-bantuan-pangan-di-banyuwangi-tepat-sasaran",
+      "title": "Zulhas pastikan penyaluran bantuan pangan di Banyuwangi tepat sasaran",
+      "summary": "6 jam lalu",
+      "content_text": "6 jam lalu",
+      "date_published": "2026-11-21T13:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/ZULHAS-PASTIKAN-PENYALURAN-BANTUAN-PANGAN-DI-BANYUWANGI-TEPAT-SASARAN.jpg"
+    },
+    {
       "id": "https://www.antaranews.com/berita/5869879/ipb-university-inkindo-kolaborasi-kawal-ketahanan-pangan-daerah",
       "url": "https://www.antaranews.com/berita/5869879/ipb-university-inkindo-kolaborasi-kawal-ketahanan-pangan-daerah",
       "title": "IPB University-INKINDO kolaborasi kawal ketahanan pangan daerah",
-      "summary": "42 menit lalu",
-      "content_text": "42 menit lalu",
-      "date_published": "2026-11-21T11:55:31Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/21/ipb-university-dan-inkindo-kawal-ketahanan-pangan-daerah.jpg"
+      "summary": "7 jam lalu",
+      "content_text": "7 jam lalu",
+      "date_published": "2026-11-21T11:55:00Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/ipb-university-dan-inkindo-kawal-ketahanan-pangan-daerah.jpg"
     },
     {
       "id": "https://www.antaranews.com/berita/5869651/kepala-bgn-ajak-masyarakat-ikut-mengawasi-pelaksanaan-program-mbg",
       "url": "https://www.antaranews.com/berita/5869651/kepala-bgn-ajak-masyarakat-ikut-mengawasi-pelaksanaan-program-mbg",
       "title": "Kepala BGN ajak masyarakat ikut mengawasi pelaksanaan Program MBG",
-      "summary": "3 jam lalu",
-      "content_text": "3 jam lalu",
-      "date_published": "2026-11-21T09:37:31Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/21/1001637192.jpg"
+      "summary": "10 jam lalu",
+      "content_text": "10 jam lalu",
+      "date_published": "2026-11-21T09:37:00Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/1001637192.jpg"
     },
     {
       "id": "https://www.antaranews.com/berita/5869639/menko-zulhas-dorong-pesantren-untuk-perkuat-ketahanan-pangan-protein",
       "url": "https://www.antaranews.com/berita/5869639/menko-zulhas-dorong-pesantren-untuk-perkuat-ketahanan-pangan-protein",
       "title": "Menko Zulhas dorong pesantren untuk perkuat ketahanan pangan protein",
-      "summary": "3 jam lalu",
-      "content_text": "3 jam lalu",
-      "date_published": "2026-11-21T09:37:31Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/21/WhatsApp-Image-2026-11-21-at-16.11.57.jpeg"
+      "summary": "10 jam lalu",
+      "content_text": "10 jam lalu",
+      "date_published": "2026-11-21T09:37:00Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/WhatsApp-Image-2026-11-21-at-16.11.57.jpeg"
     },
     {
       "id": "https://www.antaranews.com/berita/5869571/bgn-tak-segan-tindak-tegas-dapur-mbg-tak-disertai-slhs",
       "url": "https://www.antaranews.com/berita/5869571/bgn-tak-segan-tindak-tegas-dapur-mbg-tak-disertai-slhs",
       "title": "BGN tak segan tindak tegas dapur MBG tak disertai SLHS",
-      "summary": "3 jam lalu",
-      "content_text": "3 jam lalu",
-      "date_published": "2026-11-21T09:37:31Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/21/1001637126.jpg"
+      "summary": "10 jam lalu",
+      "content_text": "10 jam lalu",
+      "date_published": "2026-11-21T09:37:00Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/1001637126.jpg"
     },
     {
       "id": "https://www.antaranews.com/berita/5869511/polres-jaktim-siapkan-50-ton-beras-sphp-dalam-gerakan-pangan-murah",
       "url": "https://www.antaranews.com/berita/5869511/polres-jaktim-siapkan-50-ton-beras-sphp-dalam-gerakan-pangan-murah",
       "title": "Polres Jaktim siapkan 50 ton beras SPHP dalam gerakan pangan murah",
-      "summary": "4 jam lalu",
-      "content_text": "4 jam lalu",
-      "date_published": "2026-11-21T08:37:31Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/21/InShot_20261121_133932794.jpg"
+      "summary": "11 jam lalu",
+      "content_text": "11 jam lalu",
+      "date_published": "2026-11-21T08:37:00Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/InShot_20261121_133932794.jpg"
     },
     {
       "id": "https://www.antaranews.com/berita/5869255/amran-perkuat-perlindungan-petani-usai-ada-temuan-pupuk-palsu",
       "url": "https://www.antaranews.com/berita/5869255/amran-perkuat-perlindungan-petani-usai-ada-temuan-pupuk-palsu",
       "title": "Amran perkuat perlindungan petani usai ada temuan pupuk palsu",
-      "summary": "7 jam lalu",
-      "content_text": "7 jam lalu",
-      "date_published": "2026-11-21T05:37:31Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/21/3128F02B-A699-4689-A763-DC1B9F2131D0.jpeg"
+      "summary": "14 jam lalu",
+      "content_text": "14 jam lalu",
+      "date_published": "2026-11-21T05:37:00Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/21/3128F02B-A699-4689-A763-DC1B9F2131D0.jpeg"
     },
     {
       "id": "https://www.antaranews.com/berita/5868859/titik-temu-indonesia-dalam-shenzhen-outlook",
       "url": "https://www.antaranews.com/berita/5868859/titik-temu-indonesia-dalam-shenzhen-outlook",
       "title": "Titik temu Indonesia dalam Shenzhen Outlook",
-      "summary": "14 jam lalu",
-      "content_text": "14 jam lalu",
+      "summary": "21 jam lalu",
+      "content_text": "21 jam lalu",
       "date_published": "2026-11-20T22:15:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2025/11/01/WhatsApp-Image-2025-11-01-at-15.02.29.jpeg"
+      "image": "https://img.antaranews.com/cache/180x120/2025/11/01/WhatsApp-Image-2025-11-01-at-15.02.29.jpeg"
     },
     {
       "id": "https://www.antaranews.com/berita/5868743/program-mbg-dongkrak-usaha-perajin-logam-di-bogor",
       "url": "https://www.antaranews.com/berita/5868743/program-mbg-dongkrak-usaha-perajin-logam-di-bogor",
       "title": "Program MBG dongkrak usaha perajin logam di Bogor",
-      "summary": "19 jam lalu",
-      "content_text": "19 jam lalu",
-      "date_published": "2026-11-20T16:38:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/20/1003562638.jpg"
+      "summary": "Kemarin 23:37",
+      "content_text": "Kemarin 23:37",
+      "date_published": "2026-11-20T19:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/20/1003562638.jpg"
     },
     {
       "id": "https://www.antaranews.com/berita/5868735/papua-tengah-scopi-dampingi-petani-tingkatkan-kualitas-kopi-paniai",
       "url": "https://www.antaranews.com/berita/5868735/papua-tengah-scopi-dampingi-petani-tingkatkan-kualitas-kopi-paniai",
       "title": "Papua Tengah-SCOPI dampingi petani tingkatkan kualitas kopi Paniai",
-      "summary": "20 jam lalu",
-      "content_text": "20 jam lalu",
-      "date_published": "2026-11-20T16:34:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/20/WhatsApp-Image-2026-11-20-at-13.30.05.jpeg"
+      "summary": "Kemarin 23:33",
+      "content_text": "Kemarin 23:33",
+      "date_published": "2026-11-20T19:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/20/WhatsApp-Image-2026-11-20-at-13.30.05.jpeg"
     },
     {
       "id": "https://www.antaranews.com/berita/5868715/pln-akan-kembangkan-plts-mentari-nusantara-ii-untuk-penguatan-ebt",
       "url": "https://www.antaranews.com/berita/5868715/pln-akan-kembangkan-plts-mentari-nusantara-ii-untuk-penguatan-ebt",
       "title": "PLN akan kembangkan PLTS Mentari Nusantara II untuk penguatan EBT",
-      "summary": "20 jam lalu",
-      "content_text": "20 jam lalu",
-      "date_published": "2026-11-20T16:25:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/09/20/1001643300.jpg"
+      "summary": "Kemarin 23:24",
+      "content_text": "Kemarin 23:24",
+      "date_published": "2026-11-20T19:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/09/20/1001643300.jpg"
     },
     {
       "id": "https://www.antaranews.com/berita/5868671/phm-berhasil-put-on-production-sumur-migas-di-lapangan-tambora",
       "url": "https://www.antaranews.com/berita/5868671/phm-berhasil-put-on-production-sumur-migas-di-lapangan-tambora",
       "title": "PHM berhasil 'put on production' sumur migas di Lapangan Tambora",
-      "summary": "20 jam lalu",
-      "content_text": "20 jam lalu",
-      "date_published": "2026-11-20T16:16:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/20/WhatsApp-Image-2026-11-20-at-15.17.45.jpeg"
+      "summary": "Kemarin 22:52",
+      "content_text": "Kemarin 22:52",
+      "date_published": "2026-11-20T19:47:22Z",
+      "image": "https://img.antaranews.com/cache/180x120/2026/11/20/WhatsApp-Image-2026-11-20-at-15.17.45.jpeg"
     },
     {
       "id": "https://www.antaranews.com/berita/5868647/forikan-kabupaten-bekasi-kampanye-konsumsi-ikan",
@@ -111,8 +192,7 @@
       "title": "Forikan Kabupaten Bekasi kampanye konsumsi ikan",
       "summary": "20 jam lalu",
       "content_text": "20 jam lalu",
-      "date_published": "2026-11-20T16:16:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/20/IMG-20261120-016.jpg"
+      "date_published": "2026-11-20T16:16:00Z"
     },
     {
       "id": "https://www.antaranews.com/berita/5868631/gorontalo-dapat-dukungan-rp46-miliar-rehabilitasi-lima-daerah-irigasi",
@@ -120,8 +200,7 @@
       "title": "Gorontalo dapat dukungan Rp46 miliar rehabilitasi lima daerah irigasi",
       "summary": "20 jam lalu",
       "content_text": "20 jam lalu",
-      "date_published": "2026-11-20T16:16:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/20/9b0ee377-dd07-48d5-81ff-7d3819950b6d.jpeg"
+      "date_published": "2026-11-20T16:16:00Z"
     },
     {
       "id": "https://www.antaranews.com/berita/5868607/komisi-xi-dpr-apresiasi-stok-beras-bulog-lampaui-target-4-juta-ton",
@@ -129,8 +208,7 @@
       "title": "Komisi XI DPR apresiasi stok beras Bulog lampaui target 4 juta ton",
       "summary": "21 jam lalu",
       "content_text": "21 jam lalu",
-      "date_published": "2026-11-20T16:16:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/20/9fe5bc37-374c-4917-abb3-b9d0ddc1e725.jpeg"
+      "date_published": "2026-11-20T16:16:00Z"
     },
     {
       "id": "https://www.antaranews.com/berita/5868599/bi-rumuskan-lima-strategi-perkuat-tata-kelola-pangan-jawa",
@@ -138,8 +216,7 @@
       "title": "BI rumuskan lima strategi perkuat tata kelola pangan Jawa",
       "summary": "21 jam lalu",
       "content_text": "21 jam lalu",
-      "date_published": "2026-11-20T16:16:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/20/WhatsApp-Image-2026-11-20-at-21.59.12.jpeg"
+      "date_published": "2026-11-20T16:16:00Z"
     },
     {
       "id": "https://www.antaranews.com/berita/5868579/pertamina-perkuat-ft-tuban-untuk-jaga-pasokan-bbm-lintas-wilayah",
@@ -147,8 +224,7 @@
       "title": "Pertamina perkuat FT Tuban untuk jaga pasokan BBM lintas wilayah",
       "summary": "21 jam lalu",
       "content_text": "21 jam lalu",
-      "date_published": "2026-11-20T15:16:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/20/WhatsApp-Image-2026-11-20-at-21.34.10.jpeg"
+      "date_published": "2026-11-20T15:16:00Z"
     },
     {
       "id": "https://www.antaranews.com/video/5868543/pemkab-tanah-datar-perluas-penggunaan-plts-untuk-irigasi-sawah",
@@ -156,8 +232,7 @@
       "title": "Pemkab Tanah Datar perluas penggunaan PLTS untuk irigasi sawah",
       "summary": "21 jam lalu",
       "content_text": "21 jam lalu",
-      "date_published": "2026-11-20T15:16:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/Screenshot-2026-11-20-215518.jpg"
+      "date_published": "2026-11-20T15:16:00Z"
     },
     {
       "id": "https://www.antaranews.com/berita/5868547/bi-dan-pemerintah-perkuat-neraca-pangan-jawa-antisipasi-el-nino",
@@ -165,8 +240,7 @@
       "title": "BI dan pemerintah perkuat neraca pangan Jawa antisipasi El Nino",
       "summary": "21 jam lalu",
       "content_text": "21 jam lalu",
-      "date_published": "2026-11-20T15:16:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/20/WhatsApp-Image-2026-11-20-at-21.44.50.jpeg"
+      "date_published": "2026-11-20T15:16:00Z"
     },
     {
       "id": "https://www.antaranews.com/berita/5868527/wamenko-realisasi-penyerapan-bbm-subsidi-bagi-nelayan-capai-30-persen",
@@ -174,8 +248,7 @@
       "title": "Wamenko: Realisasi penyerapan BBM subsidi bagi nelayan capai 30 persen",
       "summary": "21 jam lalu",
       "content_text": "21 jam lalu",
-      "date_published": "2026-11-20T15:16:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/20/IMG_20261120_214430.jpg"
+      "date_published": "2026-11-20T15:16:00Z"
     },
     {
       "id": "https://www.antaranews.com/berita/5868507/bulog-alokasikan-1-juta-ton-beras-bantuan-pangan-di-oktober-desember",
@@ -183,8 +256,7 @@
       "title": "Bulog alokasikan 1 juta ton beras bantuan pangan di Oktober-Desember",
       "summary": "21 jam lalu",
       "content_text": "21 jam lalu",
-      "date_published": "2026-11-20T15:16:00Z",
-      "image": "https://cdn.antaranews.com/cache/180x120/2026/11/20/20261120_171452-1.jpg"
+      "date_published": "2026-11-20T15:16:00Z"
     },
     {
       "id": "https://www.antaranews.com/berita/5868443/bulog-ingatkan-beras-bantuan-pangan-tidak-boleh-diperjualbelikan",
@@ -193,78 +265,6 @@
       "summary": "8 jam lalu",
       "content_text": "8 jam lalu",
       "date_published": "2026-11-20T15:16:00Z"
-    },
-    {
-      "id": "https://www.antaranews.com/berita/5868351/mendes-dana-desa-untuk-kdkmp-akan-jadi-aset-desa",
-      "url": "https://www.antaranews.com/berita/5868351/mendes-dana-desa-untuk-kdkmp-akan-jadi-aset-desa",
-      "title": "Mendes: Dana desa untuk KDKMP akan jadi aset desa",
-      "summary": "9 jam lalu",
-      "content_text": "9 jam lalu",
-      "date_published": "2026-11-20T14:16:00Z"
-    },
-    {
-      "id": "https://www.antaranews.com/video/5868311/pemkab-siapkan-lahan-untuk-sekolah-rakyat-pertama-di-temanggung",
-      "url": "https://www.antaranews.com/video/5868311/pemkab-siapkan-lahan-untuk-sekolah-rakyat-pertama-di-temanggung",
-      "title": "Pemkab siapkan lahan untuk Sekolah Rakyat pertama di Temanggung",
-      "summary": "9 jam lalu",
-      "content_text": "9 jam lalu",
-      "date_published": "2026-11-20T14:16:00Z"
-    },
-    {
-      "id": "https://www.antaranews.com/berita/5868259/menteri-pkp-pengusaha-hipmi-bisa-akses-kur-perumahan-kembangkan-usaha",
-      "url": "https://www.antaranews.com/berita/5868259/menteri-pkp-pengusaha-hipmi-bisa-akses-kur-perumahan-kembangkan-usaha",
-      "title": "Menteri PKP: Pengusaha HIPMI bisa akses KUR Perumahan kembangkan usaha",
-      "summary": "9 jam lalu",
-      "content_text": "9 jam lalu",
-      "date_published": "2026-11-20T13:29:00Z"
-    },
-    {
-      "id": "https://www.antaranews.com/berita/5868207/udang-vaname-dominasi-produksi-perikanan-budi-daya-bangka-tengah",
-      "url": "https://www.antaranews.com/berita/5868207/udang-vaname-dominasi-produksi-perikanan-budi-daya-bangka-tengah",
-      "title": "Udang vaname dominasi produksi perikanan budi daya Bangka Tengah",
-      "summary": "10 jam lalu",
-      "content_text": "10 jam lalu",
-      "date_published": "2026-11-20T13:11:00Z"
-    },
-    {
-      "id": "https://www.antaranews.com/berita/5868151/bupati-banyuwangi-serap-aspirasi-petani-dalam-program-bunga-desa",
-      "url": "https://www.antaranews.com/berita/5868151/bupati-banyuwangi-serap-aspirasi-petani-dalam-program-bunga-desa",
-      "title": "Bupati Banyuwangi serap aspirasi petani dalam program Bunga Desa",
-      "summary": "10 jam lalu",
-      "content_text": "10 jam lalu",
-      "date_published": "2026-11-20T12:56:00Z"
-    },
-    {
-      "id": "https://www.antaranews.com/berita/5868031/bgn-pemprov-jambi-perkuat-sinergi-pengaduan-dan-komunikasi-publik-mbg",
-      "url": "https://www.antaranews.com/berita/5868031/bgn-pemprov-jambi-perkuat-sinergi-pengaduan-dan-komunikasi-publik-mbg",
-      "title": "BGN-Pemprov Jambi perkuat sinergi pengaduan dan komunikasi publik MBG",
-      "summary": "4 jam lalu",
-      "content_text": "4 jam lalu",
-      "date_published": "2026-11-20T12:31:00Z"
-    },
-    {
-      "id": "https://www.antaranews.com/berita/5868011/bgn-mbg-20-perkuat-efisiensi-dan-akuntabilitas-anggaran-negara",
-      "url": "https://www.antaranews.com/berita/5868011/bgn-mbg-20-perkuat-efisiensi-dan-akuntabilitas-anggaran-negara",
-      "title": "BGN: MBG 2.0 perkuat efisiensi dan akuntabilitas anggaran negara",
-      "summary": "1 jam lalu",
-      "content_text": "1 jam lalu",
-      "date_published": "2026-11-20T12:12:00Z"
-    },
-    {
-      "id": "https://www.antaranews.com/berita/5867971/bgn-perluas-cakupan-mbg-hingga-78-juta-penerima-prioritaskan-3t",
-      "url": "https://www.antaranews.com/berita/5867971/bgn-perluas-cakupan-mbg-hingga-78-juta-penerima-prioritaskan-3t",
-      "title": "BGN perluas cakupan MBG hingga 78 juta penerima, prioritaskan 3T",
-      "summary": "1 jam lalu",
-      "content_text": "1 jam lalu",
-      "date_published": "2026-11-20T11:58:00Z"
-    },
-    {
-      "id": "https://www.antaranews.com/berita/5867955/pemkab-cirebon-pastikan-validitas-data-nelayan-untuk-subsidi-bbm",
-      "url": "https://www.antaranews.com/berita/5867955/pemkab-cirebon-pastikan-validitas-data-nelayan-untuk-subsidi-bbm",
-      "title": "Pemkab Cirebon pastikan validitas data nelayan untuk subsidi BBM",
-      "summary": "1 jam lalu",
-      "content_text": "1 jam lalu",
-      "date_published": "2026-11-20T11:54:00Z"
     }
   ]
 }
