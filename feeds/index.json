@@ -1,6 +1,6 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-22T14:55:35Z",
+  "generated": "2026-11-22T20:55:01Z",
   "count": 28,
   "feeds": [
     {
@@ -15,8 +15,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-22T21:10:00Z",
-      "updated": "2026-11-22T14:55:36Z",
+      "latest": "2026-11-22T22:45:00Z",
+      "updated": "2026-11-22T20:55:01Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -33,8 +33,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-22T14:48:35Z",
-      "updated": "2026-11-22T14:55:36Z",
+      "latest": "2026-11-23T00:00:00Z",
+      "updated": "2026-11-22T20:55:03Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -51,8 +51,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-22T14:50:35Z",
-      "updated": "2026-11-22T14:55:37Z",
+      "latest": "2026-11-22T20:29:01Z",
+      "updated": "2026-11-22T20:55:03Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -70,10 +70,10 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-22T14:40:35Z",
-      "updated": "2026-11-22T14:55:38Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "timeout saat mengambil https://www.antaranews.com/ (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "tagar",
@@ -88,7 +88,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-22T05:10:00Z",
-      "updated": "2026-11-22T14:55:35Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -105,8 +105,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-22T14:25:00Z",
-      "updated": "2026-11-22T14:55:45Z",
+      "latest": "2026-11-22T20:25:00Z",
+      "updated": "2026-11-22T20:55:06Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -124,7 +124,7 @@
       "language": "id",
       "items": 11,
       "latest": "2026-11-20T09:32:00Z",
-      "updated": "2026-11-22T14:55:35Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -142,7 +142,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-22T11:43:00Z",
-      "updated": "2026-11-22T14:55:41Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -160,7 +160,7 @@
       "language": "id",
       "items": 26,
       "latest": "2026-11-22T08:00:00Z",
-      "updated": "2026-11-22T14:55:47Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -178,7 +178,7 @@
       "language": "id",
       "items": 6,
       "latest": "2026-11-21T00:00:00Z",
-      "updated": "2026-11-22T14:55:35Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -196,7 +196,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-24T00:00:00Z",
-      "updated": "2026-11-22T14:55:37Z",
+      "updated": "2026-11-22T20:55:03Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -214,7 +214,7 @@
       "language": "id",
       "items": 50,
       "latest": "2026-11-20T11:55:00Z",
-      "updated": "2026-11-22T14:55:35Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "HTTP 403 dari https://rri.co.id/ternate (feed lama dipertahankan)",
       "stale": true
@@ -232,7 +232,7 @@
       "language": "id",
       "items": 19,
       "latest": "2026-11-22T12:45:00Z",
-      "updated": "2026-11-22T14:55:42Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -250,7 +250,7 @@
       "language": "id",
       "items": 15,
       "latest": "2026-11-19T12:57:22Z",
-      "updated": "2026-11-22T14:55:35Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "HTTP 403 dari https://LidikPost.id (feed lama dipertahankan)",
       "stale": true
@@ -268,7 +268,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T10:53:38Z",
-      "updated": "2026-11-22T14:55:35Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "HTTP 403 dari https://salawaku.id (feed lama dipertahankan)",
       "stale": true
@@ -286,7 +286,7 @@
       "language": "id",
       "items": 19,
       "latest": "2026-11-22T12:41:00Z",
-      "updated": "2026-11-22T14:55:42Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -304,7 +304,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-22T00:00:00Z",
-      "updated": "2026-11-22T14:55:52Z",
+      "updated": "2026-11-22T20:55:17Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -322,10 +322,10 @@
       "language": "id",
       "items": 26,
       "latest": "2026-11-22T04:00:00Z",
-      "updated": "2026-11-22T14:55:51Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "tidak ada artikel yang bisa diekstrak (halaman mungkin butuh JavaScript) (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "marahainews-id",
@@ -340,7 +340,7 @@
       "language": "id",
       "items": 13,
       "latest": "2026-11-22T08:34:00Z",
-      "updated": "2026-11-22T14:55:41Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -358,7 +358,7 @@
       "language": "id",
       "items": 20,
       "latest": "2026-11-21T10:12:00Z",
-      "updated": "2026-11-22T14:55:35Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -376,7 +376,7 @@
       "language": "id",
       "items": 20,
       "latest": "2026-11-22T00:00:00Z",
-      "updated": "2026-11-22T14:55:47Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -394,7 +394,7 @@
       "language": "id",
       "items": 14,
       "latest": "2026-11-22T06:55:00Z",
-      "updated": "2026-11-22T14:55:47Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -412,7 +412,7 @@
       "language": "id",
       "items": 25,
       "latest": "2026-11-22T12:58:00Z",
-      "updated": "2026-11-22T14:55:45Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -430,7 +430,7 @@
       "language": "id",
       "items": 27,
       "latest": "2026-11-20T13:30:00Z",
-      "updated": "2026-11-22T14:55:35Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "HTTP 429 dari https://wartarepublik.com (feed lama dipertahankan)",
       "stale": true
@@ -438,17 +438,17 @@
     {
       "slug": "bacarita-malut",
       "name": "Bacarita Malut",
-      "title": "Bacarita Malut » BACA BERITAMU",
+      "title": "Bacarita Malut",
       "description": "BACA BERITAMU",
       "source_url": "https://bacaritamalut.com/",
       "site_url": "https://bacaritamalut.com",
       "xml_url": "https://sietekmalut.github.io/feeds/bacarita-malut.xml",
       "json_url": "https://sietekmalut.github.io/feeds/bacarita-malut.json",
-      "mode": "html",
+      "mode": "native",
       "language": "id",
       "items": 15,
       "latest": "2026-11-22T05:15:00Z",
-      "updated": "2026-11-22T14:55:35Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -466,7 +466,7 @@
       "language": "id",
       "items": 22,
       "latest": "2026-11-22T00:00:00Z",
-      "updated": "2026-11-22T14:55:50Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -483,8 +483,8 @@
       "mode": "html",
       "language": "id",
       "items": 17,
-      "latest": "2026-11-22T13:35:49Z",
-      "updated": "2026-11-22T14:55:49Z",
+      "latest": "2026-11-22T13:35:00Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -502,7 +502,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-10-01T12:28:00Z",
-      "updated": "2026-11-22T14:55:35Z",
+      "updated": "2026-11-22T20:54:59Z",
       "status": "ok",
       "error": "",
       "stale": false
