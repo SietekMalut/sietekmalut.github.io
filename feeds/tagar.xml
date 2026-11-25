@@ -5,11 +5,21 @@
     <link>https://www.tagar.id</link>
     <description>Situs berita online Indonesia Tagar News, sajikan kabar terkini dari Jakarta dan daerah, beragam rubrik dan cerita menarik.</description>
     <language>id</language>
-    <lastBuildDate>Wed, 25 Nov 2026 00:58:59 GMT</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 23:17:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:42:30 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 04:21:00 GMT</pubDate>
     <ttl>30</ttl>
     <generator>SietekMalut RSS Feed Generator</generator>
     <atom:link href="https://sietekmalut.github.io/feeds/tagar.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jangan Beli Rumah Sebelum Cek 7 Dokumen Hukum Ini</title>
+      <link>https://www.tagar.id/jangan-beli-rumah-sebelum-cek-7-dokumen-hukum-ini</link>
+      <guid isPermaLink="false">https://www.tagar.id/jangan-beli-rumah-sebelum-cek-7-dokumen-hukum-ini</guid>
+      <pubDate>Wed, 25 Nov 2026 04:21:00 GMT</pubDate>
+      <description>Tanpa pemeriksaan yang memadai, pembeli berisiko menghadapi berbagai persoalan, seperti sertifikat tanah bermasalah, penjual tidak memiliki kewenangan menjual, bangunan tidak sesuai perizinan, hingga proses balik nama yang terhambat.</description>
+      <dc:creator>Mila Yefriza</dc:creator>
+      <category>Ekonomi &amp; Bisnis</category>
+      <enclosure url="https://www.tagar.id/uploads/2026/11/25/1795580454083-legalitas-rumah-684a7844d614e-edited.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Arsenal Gagal Kalahkan Borussia Dortmund Matchday 5 Liga Champions UEFA 2026/2027</title>
       <link>https://www.tagar.id/arsenal-gagal-kalahkan-borussia-dortmund-matchday-5-liga-champions-uefa-2026-2027</link>
@@ -299,16 +309,6 @@
       <dc:creator>Mila Yefriza</dc:creator>
       <category>Nasional</category>
       <enclosure url="https://www.tagar.id/uploads/2026/11/17/1794931442107-59d486ea-f4f6-42ff-a4e1-b1795f736327-1794923290-edited.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Kemensos Tegaskan Sekolah Rakyat Tidak Dibangun di Hutan Kota UI</title>
-      <link>https://www.tagar.id/kemensos-tegaskan-sekolah-rakyat-tidak-dibangun-di-hutan-kota-ui</link>
-      <guid isPermaLink="false">https://www.tagar.id/kemensos-tegaskan-sekolah-rakyat-tidak-dibangun-di-hutan-kota-ui</guid>
-      <pubDate>Tue, 17 Nov 2026 15:59:00 GMT</pubDate>
-      <description>Kementerian Sosial menegaskan pembangunan Sekolah Rakyat tidak akan dilakukan di kawasan hutan kota Universitas Indonesia (UI), melainkan pada lahan yang posisinya berimpitan dengan area tersebut di sisi wilayah DKI Jakarta.</description>
-      <dc:creator>Mila Yefriza</dc:creator>
-      <category>Nasional</category>
-      <enclosure url="https://www.tagar.id/uploads/2026/11/17/1794931190419-img-20261116-wa0054-1024x683-edited.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
