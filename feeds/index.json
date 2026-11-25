@@ -1,6 +1,6 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-25T09:42:30Z",
+  "generated": "2026-11-25T19:36:47Z",
   "count": 28,
   "feeds": [
     {
@@ -15,8 +15,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-25T12:34:00Z",
-      "updated": "2026-11-25T09:42:30Z",
+      "latest": "2026-11-26T02:30:00Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -34,10 +34,10 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-25T09:35:30Z",
-      "updated": "2026-11-25T09:42:30Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "tidak ada artikel yang bisa diekstrak (halaman mungkin butuh JavaScript) (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "detik",
@@ -51,8 +51,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-25T16:41:00Z",
-      "updated": "2026-11-25T09:42:31Z",
+      "latest": "2026-11-25T19:36:47Z",
+      "updated": "2026-11-25T19:36:49Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -69,8 +69,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-25T09:13:30Z",
-      "updated": "2026-11-25T09:42:31Z",
+      "latest": "2026-11-25T16:36:47Z",
+      "updated": "2026-11-25T19:36:49Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -88,7 +88,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-25T04:21:00Z",
-      "updated": "2026-11-25T09:42:31Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -105,8 +105,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-25T08:56:00Z",
-      "updated": "2026-11-25T09:42:34Z",
+      "latest": "2026-11-25T17:56:00Z",
+      "updated": "2026-11-25T19:36:55Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -124,7 +124,7 @@
       "language": "id",
       "items": 11,
       "latest": "2026-11-20T09:32:00Z",
-      "updated": "2026-11-25T09:42:26Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -142,7 +142,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-25T09:22:00Z",
-      "updated": "2026-11-25T09:42:34Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -159,8 +159,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-25T08:54:00Z",
-      "updated": "2026-11-25T09:42:37Z",
+      "latest": "2026-11-25T13:32:00Z",
+      "updated": "2026-11-25T19:36:57Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -178,7 +178,7 @@
       "language": "id",
       "items": 9,
       "latest": "2026-11-25T00:00:00Z",
-      "updated": "2026-11-25T09:42:34Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -196,7 +196,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-25T00:00:00Z",
-      "updated": "2026-11-25T09:42:31Z",
+      "updated": "2026-11-25T19:36:49Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -214,7 +214,7 @@
       "language": "id",
       "items": 50,
       "latest": "2026-11-20T11:55:00Z",
-      "updated": "2026-11-25T09:42:26Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
       "error": "HTTP 403 dari https://rri.co.id/ternate (feed lama dipertahankan)",
       "stale": true
@@ -231,8 +231,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-25T05:54:00Z",
-      "updated": "2026-11-25T09:42:34Z",
+      "latest": "2026-11-25T11:33:00Z",
+      "updated": "2026-11-25T19:36:53Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -250,7 +250,7 @@
       "language": "id",
       "items": 15,
       "latest": "2026-11-19T12:57:22Z",
-      "updated": "2026-11-25T09:42:26Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
       "error": "HTTP 403 dari https://LidikPost.id (feed lama dipertahankan)",
       "stale": true
@@ -268,7 +268,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T10:53:38Z",
-      "updated": "2026-11-25T09:42:26Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
       "error": "HTTP 403 dari https://salawaku.id (feed lama dipertahankan)",
       "stale": true
@@ -276,17 +276,17 @@
     {
       "slug": "nuansamalut-com",
       "name": "NuansaMalut.com",
-      "title": "NuansaMalut.com",
+      "title": "NuansaMalut.com -",
       "description": "Feed RSS otomatis untuk NuansaMalut.com.",
       "source_url": "nuansamalut.com",
       "site_url": "https://www.nuansamalut.com",
       "xml_url": "https://sietekmalut.github.io/feeds/nuansamalut-com.xml",
       "json_url": "https://sietekmalut.github.io/feeds/nuansamalut-com.json",
-      "mode": "native",
+      "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-25T06:21:00Z",
-      "updated": "2026-11-25T09:42:37Z",
+      "latest": "2026-11-25T12:34:32Z",
+      "updated": "2026-11-25T19:36:54Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -303,8 +303,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-25T02:22:31Z",
-      "updated": "2026-11-25T09:42:41Z",
+      "latest": "2026-11-25T02:22:00Z",
+      "updated": "2026-11-25T19:37:04Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -321,8 +321,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-25T06:22:00Z",
-      "updated": "2026-11-25T09:42:34Z",
+      "latest": "2026-11-25T12:18:00Z",
+      "updated": "2026-11-25T19:36:53Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -340,7 +340,7 @@
       "language": "id",
       "items": 22,
       "latest": "2026-11-25T06:05:00Z",
-      "updated": "2026-11-25T09:42:34Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -356,12 +356,12 @@
       "json_url": "https://sietekmalut.github.io/feeds/seputar-malut-id-spirit-baru-maluku-utara.json",
       "mode": "native",
       "language": "id",
-      "items": 29,
-      "latest": "2026-11-24T09:31:00Z",
-      "updated": "2026-11-25T09:42:26Z",
+      "items": 30,
+      "latest": "2026-11-25T08:23:00Z",
+      "updated": "2026-11-25T19:36:59Z",
       "status": "ok",
-      "error": "tidak bisa menghubungi https://seputarmalut.id: [Errno 104] Connection reset by peer (feed lama dipertahankan)",
-      "stale": true
+      "error": "",
+      "stale": false
     },
     {
       "slug": "ternate-hari-ini",
@@ -376,7 +376,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-25T00:00:00Z",
-      "updated": "2026-11-25T09:42:38Z",
+      "updated": "2026-11-25T19:36:58Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -392,9 +392,9 @@
       "json_url": "https://sietekmalut.github.io/feeds/faktahalmahera-com.json",
       "mode": "native",
       "language": "id",
-      "items": 18,
-      "latest": "2026-11-25T04:00:00Z",
-      "updated": "2026-11-25T09:42:36Z",
+      "items": 20,
+      "latest": "2026-11-25T12:52:00Z",
+      "updated": "2026-11-25T19:36:55Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -412,7 +412,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-25T07:52:00Z",
-      "updated": "2026-11-25T09:42:37Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -430,25 +430,25 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-24T19:58:00Z",
-      "updated": "2026-11-25T09:42:26Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "HTTP 429 dari https://wartarepublik.com (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "bacarita-malut",
       "name": "Bacarita Malut",
-      "title": "Bacarita Malut » BACA BERITAMU",
+      "title": "Bacarita Malut",
       "description": "BACA BERITAMU",
       "source_url": "https://bacaritamalut.com/",
       "site_url": "https://bacaritamalut.com",
       "xml_url": "https://sietekmalut.github.io/feeds/bacarita-malut.xml",
       "json_url": "https://sietekmalut.github.io/feeds/bacarita-malut.json",
-      "mode": "html",
+      "mode": "native",
       "language": "id",
       "items": 19,
-      "latest": "2026-11-25T05:05:11Z",
-      "updated": "2026-11-25T09:42:37Z",
+      "latest": "2026-11-25T05:05:00Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -464,9 +464,9 @@
       "json_url": "https://sietekmalut.github.io/feeds/voicemu-com.json",
       "mode": "html",
       "language": "id",
-      "items": 26,
+      "items": 27,
       "latest": "2026-11-25T00:00:00Z",
-      "updated": "2026-11-25T09:42:39Z",
+      "updated": "2026-11-25T19:37:00Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -482,9 +482,9 @@
       "json_url": "https://sietekmalut.github.io/feeds/halmahera-raya.json",
       "mode": "html",
       "language": "id",
-      "items": 29,
-      "latest": "2026-11-25T07:36:15Z",
-      "updated": "2026-11-25T09:42:38Z",
+      "items": 30,
+      "latest": "2026-11-25T14:24:55Z",
+      "updated": "2026-11-25T19:36:59Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -502,7 +502,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-10-01T12:28:00Z",
-      "updated": "2026-11-25T09:42:26Z",
+      "updated": "2026-11-25T19:36:47Z",
       "status": "ok",
       "error": "",
       "stale": false
