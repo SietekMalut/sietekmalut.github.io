@@ -5,11 +5,18 @@
     <link>https://corongpublik.id</link>
     <description>Corong Publik adalah media independen dan terpercaya yang fokus pada isu korupsi, ketidakadilan, lingkungan, tambang, dan politik</description>
     <language>id</language>
-    <lastBuildDate>Thu, 26 Nov 2026 11:20:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 20:21:37 GMT</lastBuildDate>
     <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
     <ttl>30</ttl>
     <generator>SietekMalut RSS Feed Generator</generator>
     <atom:link href="https://sietekmalut.github.io/feeds/corong-publik.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BPJN Maluku Utara Angkat Bicara soal Proyek Jalan Rp42 Miliar, Ini Penjelasan PPK Yusep Lingga</title>
+      <link>https://corongpublik.id/bpjn-maluku-utara-jelaskan-proyek-jalan-trans-waleh-simpang-yeke-rp42-miliar-ini-penjelasan-ppk/</link>
+      <guid isPermaLink="false">https://corongpublik.id/bpjn-maluku-utara-jelaskan-proyek-jalan-trans-waleh-simpang-yeke-rp42-miliar-ini-penjelasan-ppk/</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <description>26 Nov 2026</description>
+    </item>
     <item>
       <title>Satgas PKH Garang di Panggung, Penindakan PT Karya Wijaya Terafiliasi Sherly Dipertanyakan</title>
       <link>https://corongpublik.id/satgas-pkh-garang-di-panggung-penindakan-pt-karya-wijaya-terafiliasi-sherly-dipertanyakan/</link>
@@ -212,13 +219,6 @@
       <guid isPermaLink="false">https://corongpublik.id/category/pendidikan</guid>
       <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
       <description>PENDIDIKAN</description>
-    </item>
-    <item>
-      <title>LINGKUNGAN</title>
-      <link>https://corongpublik.id/category/lingkungan</link>
-      <guid isPermaLink="false">https://corongpublik.id/category/lingkungan</guid>
-      <pubDate>Fri, 20 Nov 2026 11:56:00 GMT</pubDate>
-      <description>LINGKUNGAN</description>
     </item>
   </channel>
 </rss>
