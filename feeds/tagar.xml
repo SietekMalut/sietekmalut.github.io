@@ -5,11 +5,21 @@
     <link>https://www.tagar.id</link>
     <description>Situs berita online Indonesia Tagar News, sajikan kabar terkini dari Jakarta dan daerah, beragam rubrik dan cerita menarik.</description>
     <language>id</language>
-    <lastBuildDate>Thu, 26 Nov 2026 02:27:28 GMT</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 23:22:00 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:20:56 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 03:38:00 GMT</pubDate>
     <ttl>30</ttl>
     <generator>SietekMalut RSS Feed Generator</generator>
     <atom:link href="https://sietekmalut.github.io/feeds/tagar.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Literasi Digital dan Tantangan Masyarakat dalam Memilih Informasi yang Kredibel</title>
+      <link>https://www.tagar.id/literasi-digital-dan-tantangan-masyarakat-dalam-memilih-informasi-yang-kredibel</link>
+      <guid isPermaLink="false">https://www.tagar.id/literasi-digital-dan-tantangan-masyarakat-dalam-memilih-informasi-yang-kredibel</guid>
+      <pubDate>Thu, 26 Nov 2026 03:38:00 GMT</pubDate>
+      <description>Jika dahulu surat kabar, radio, dan televisi menjadi sumber utama pemberitaan, kini masyarakat dapat mengakses berbagai informasi hanya melalui telepon genggam. Perubahan tersebut membawa kemudahan sekaligus tantangan baru dalam menjaga kualitas informasi yang beredar di ruang publik.</description>
+      <dc:creator>Mila Yefriza</dc:creator>
+      <category>Teknologi</category>
+      <enclosure url="https://www.tagar.id/uploads/2026/11/26/1795664306620-literasi-digital-edited.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Manchester United Main Imbang di Kandang Sporting CP Matchday 5 Liga Champions UEFA 2026/2027</title>
       <link>https://www.tagar.id/manchester-united-main-imbang-di-kandang-sporting-cp-matchday-5-liga-champions-uefa-2026-2027</link>
@@ -299,16 +309,6 @@
       <dc:creator>Mila Yefriza</dc:creator>
       <category>Nasional</category>
       <enclosure url="https://www.tagar.id/uploads/2026/11/17/1794932629035-balipostcom-kapolri-sebut-belum-ada-tersangka-kasus-dugaan-makar-penyadapan-ileg.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Raffi Ahmad Sampaikan Permintaan Maaf Soal Endorse Rp 15 M dari Kementerian</title>
-      <link>https://www.tagar.id/raffi-ahmad-sampaikan-permintaan-maaf-soal-endorse-rp-15-m-dari-kementerian</link>
-      <guid isPermaLink="false">https://www.tagar.id/raffi-ahmad-sampaikan-permintaan-maaf-soal-endorse-rp-15-m-dari-kementerian</guid>
-      <pubDate>Tue, 17 Nov 2026 16:19:00 GMT</pubDate>
-      <description>Polemik kerja sama dan endorsement senilai sekitar Rp 15 miliar antara Raffi Ahmad bersama kelompok The Dudas Minus One dan sejumlah kementerian menjadi sorotan publik.</description>
-      <dc:creator>Mila Yefriza</dc:creator>
-      <category>Selebriti</category>
-      <enclosure url="https://www.tagar.id/uploads/2026/11/17/1794932382790-01m7hw9bfegnthasz3jg5qp8vf-edited.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
