@@ -1,6 +1,6 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-26T20:21:37Z",
+  "generated": "2026-11-27T03:01:33Z",
   "count": 28,
   "feeds": [
     {
@@ -15,8 +15,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T01:00:00Z",
-      "updated": "2026-11-26T20:21:37Z",
+      "latest": "2026-11-27T09:46:00Z",
+      "updated": "2026-11-27T03:01:34Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -33,8 +33,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-26T16:21:37Z",
-      "updated": "2026-11-26T20:21:38Z",
+      "latest": "2026-11-27T03:00:33Z",
+      "updated": "2026-11-27T03:01:33Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -52,10 +52,10 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-26T20:01:37Z",
-      "updated": "2026-11-26T20:21:38Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "tidak bisa menghubungi https://www.detik.com/: _ssl.c:994: The handshake operation timed out (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "antaranews",
@@ -69,8 +69,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-26T16:21:37Z",
-      "updated": "2026-11-26T20:21:39Z",
+      "latest": "2026-11-26T16:21:00Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -87,8 +87,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-26T03:38:00Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "latest": "2026-11-26T22:01:00Z",
+      "updated": "2026-11-27T03:01:35Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -105,8 +105,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-26T17:56:00Z",
-      "updated": "2026-11-26T20:21:41Z",
+      "latest": "2026-11-26T23:56:00Z",
+      "updated": "2026-11-27T03:01:36Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -124,7 +124,7 @@
       "language": "id",
       "items": 11,
       "latest": "2026-11-20T09:32:00Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -142,7 +142,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-26T14:02:00Z",
-      "updated": "2026-11-26T20:21:42Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -160,7 +160,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-26T05:10:00Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -178,7 +178,7 @@
       "language": "id",
       "items": 9,
       "latest": "2026-11-25T00:00:00Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -195,8 +195,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-26T00:00:00Z",
-      "updated": "2026-11-26T20:21:38Z",
+      "latest": "2026-11-27T03:01:33Z",
+      "updated": "2026-11-27T03:01:34Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -214,7 +214,7 @@
       "language": "id",
       "items": 50,
       "latest": "2026-11-20T11:55:00Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "HTTP 403 dari https://rri.co.id/ternate (feed lama dipertahankan)",
       "stale": true
@@ -232,7 +232,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-26T12:00:00Z",
-      "updated": "2026-11-26T20:21:42Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -250,7 +250,7 @@
       "language": "id",
       "items": 15,
       "latest": "2026-11-19T12:57:22Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "HTTP 403 dari https://LidikPost.id (feed lama dipertahankan)",
       "stale": true
@@ -268,7 +268,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T10:53:38Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "HTTP 403 dari https://salawaku.id (feed lama dipertahankan)",
       "stale": true
@@ -286,7 +286,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-26T12:51:00Z",
-      "updated": "2026-11-26T20:21:42Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -303,8 +303,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-26T00:00:00Z",
-      "updated": "2026-11-26T20:21:55Z",
+      "latest": "2026-11-27T00:00:00Z",
+      "updated": "2026-11-27T03:01:46Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -312,17 +312,17 @@
     {
       "slug": "tandaseru-com-penting-dibaca",
       "name": "tandaseru.com | Penting Dibaca",
-      "title": "tandaseru.com | Penting Dibaca - tandaseru.com",
+      "title": "tandaseru.com | Penting Dibaca",
       "description": "tandaseru.com",
       "source_url": "https://www.tandaseru.com/",
       "site_url": "https://www.tandaseru.com",
       "xml_url": "https://sietekmalut.github.io/feeds/tandaseru-com-penting-dibaca.xml",
       "json_url": "https://sietekmalut.github.io/feeds/tandaseru-com-penting-dibaca.json",
-      "mode": "html",
+      "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-26T16:21:37Z",
-      "updated": "2026-11-26T20:21:50Z",
+      "latest": "2026-11-27T01:29:00Z",
+      "updated": "2026-11-27T03:01:38Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -338,9 +338,9 @@
       "json_url": "https://sietekmalut.github.io/feeds/marahainews-id.json",
       "mode": "native",
       "language": "id",
-      "items": 23,
-      "latest": "2026-11-26T04:05:00Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "items": 24,
+      "latest": "2026-11-26T23:29:00Z",
+      "updated": "2026-11-27T03:01:38Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -358,7 +358,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-26T08:16:00Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "tidak bisa menghubungi https://seputarmalut.id: [Errno 104] Connection reset by peer (feed lama dipertahankan)",
       "stale": true
@@ -376,7 +376,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-26T00:00:00Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -394,7 +394,7 @@
       "language": "id",
       "items": 24,
       "latest": "2026-11-26T14:40:00Z",
-      "updated": "2026-11-26T20:21:48Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -411,8 +411,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-26T11:31:00Z",
-      "updated": "2026-11-26T20:21:44Z",
+      "latest": "2026-11-27T01:41:00Z",
+      "updated": "2026-11-27T03:01:41Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -430,25 +430,25 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-25T20:32:00Z",
-      "updated": "2026-11-26T20:21:44Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
-      "error": "",
-      "stale": false
+      "error": "HTTP 429 dari https://wartarepublik.com (feed lama dipertahankan)",
+      "stale": true
     },
     {
       "slug": "bacarita-malut",
       "name": "Bacarita Malut",
-      "title": "Bacarita Malut » BACA BERITAMU",
+      "title": "Bacarita Malut",
       "description": "BACA BERITAMU",
       "source_url": "https://bacaritamalut.com/",
       "site_url": "https://bacaritamalut.com",
       "xml_url": "https://sietekmalut.github.io/feeds/bacarita-malut.xml",
       "json_url": "https://sietekmalut.github.io/feeds/bacarita-malut.json",
-      "mode": "html",
+      "mode": "native",
       "language": "id",
       "items": 19,
       "latest": "2026-11-25T05:05:00Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -466,7 +466,7 @@
       "language": "id",
       "items": 28,
       "latest": "2026-11-26T00:00:00Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -483,8 +483,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-26T12:51:58Z",
-      "updated": "2026-11-26T20:21:46Z",
+      "latest": "2026-11-27T02:55:05Z",
+      "updated": "2026-11-27T03:01:43Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -502,7 +502,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-10-01T12:28:00Z",
-      "updated": "2026-11-26T20:21:36Z",
+      "updated": "2026-11-27T03:01:32Z",
       "status": "ok",
       "error": "",
       "stale": false
