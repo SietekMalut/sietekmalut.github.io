@@ -1,6 +1,6 @@
 {
   "site": "https://sietekmalut.github.io",
-  "generated": "2026-11-27T21:19:13Z",
+  "generated": "2026-11-28T03:25:05Z",
   "count": 28,
   "feeds": [
     {
@@ -15,8 +15,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-28T02:30:00Z",
-      "updated": "2026-11-27T21:19:14Z",
+      "latest": "2026-11-28T08:50:00Z",
+      "updated": "2026-11-28T03:25:05Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -33,8 +33,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T18:19:13Z",
-      "updated": "2026-11-27T21:19:14Z",
+      "latest": "2026-11-28T03:22:05Z",
+      "updated": "2026-11-28T03:25:05Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -51,8 +51,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T21:01:13Z",
-      "updated": "2026-11-27T21:19:15Z",
+      "latest": "2026-11-28T03:24:05Z",
+      "updated": "2026-11-28T03:25:06Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -69,8 +69,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T19:19:13Z",
-      "updated": "2026-11-27T21:19:16Z",
+      "latest": "2026-11-28T03:06:05Z",
+      "updated": "2026-11-28T03:25:07Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -87,8 +87,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T10:32:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "latest": "2026-11-27T21:41:00Z",
+      "updated": "2026-11-28T03:25:08Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -105,8 +105,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T20:56:00Z",
-      "updated": "2026-11-27T21:19:18Z",
+      "latest": "2026-11-27T23:56:00Z",
+      "updated": "2026-11-28T03:25:09Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -124,7 +124,7 @@
       "language": "id",
       "items": 12,
       "latest": "2026-11-27T03:36:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -141,11 +141,11 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T11:20:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "latest": "2026-11-28T00:26:00Z",
+      "updated": "2026-11-28T03:25:09Z",
       "status": "ok",
-      "error": "tidak ada artikel yang bisa diekstrak (halaman mungkin butuh JavaScript) (feed lama dipertahankan)",
-      "stale": true
+      "error": "",
+      "stale": false
     },
     {
       "slug": "malutsatu",
@@ -159,11 +159,11 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T06:25:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "latest": "2026-11-27T12:26:00Z",
+      "updated": "2026-11-28T03:25:11Z",
       "status": "ok",
-      "error": "tidak ada artikel yang bisa diekstrak (halaman mungkin butuh JavaScript) (feed lama dipertahankan)",
-      "stale": true
+      "error": "",
+      "stale": false
     },
     {
       "slug": "indotimur",
@@ -178,7 +178,7 @@
       "language": "id",
       "items": 9,
       "latest": "2026-11-25T00:00:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -195,8 +195,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T03:01:00Z",
-      "updated": "2026-11-27T21:19:14Z",
+      "latest": "2026-11-28T00:00:00Z",
+      "updated": "2026-11-28T03:25:06Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -214,7 +214,7 @@
       "language": "id",
       "items": 50,
       "latest": "2026-11-20T11:55:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "HTTP 403 dari https://rri.co.id/ternate (feed lama dipertahankan)",
       "stale": true
@@ -231,8 +231,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T13:50:00Z",
-      "updated": "2026-11-27T21:19:19Z",
+      "latest": "2026-11-28T00:44:00Z",
+      "updated": "2026-11-28T03:25:09Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -250,7 +250,7 @@
       "language": "id",
       "items": 15,
       "latest": "2026-11-19T12:57:22Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "HTTP 403 dari https://LidikPost.id (feed lama dipertahankan)",
       "stale": true
@@ -268,7 +268,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-11-20T10:53:38Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "HTTP 403 dari https://salawaku.id (feed lama dipertahankan)",
       "stale": true
@@ -286,7 +286,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-27T14:44:00Z",
-      "updated": "2026-11-27T21:19:19Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -303,26 +303,26 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T04:09:51Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "latest": "2026-11-28T03:02:31Z",
+      "updated": "2026-11-28T03:25:21Z",
       "status": "ok",
-      "error": "tidak ada artikel yang bisa diekstrak (halaman mungkin butuh JavaScript) (feed lama dipertahankan)",
-      "stale": true
+      "error": "",
+      "stale": false
     },
     {
       "slug": "tandaseru-com-penting-dibaca",
       "name": "tandaseru.com | Penting Dibaca",
-      "title": "tandaseru.com | Penting Dibaca",
+      "title": "tandaseru.com | Penting Dibaca - tandaseru.com",
       "description": "tandaseru.com",
       "source_url": "https://www.tandaseru.com/",
       "site_url": "https://www.tandaseru.com",
       "xml_url": "https://sietekmalut.github.io/feeds/tandaseru-com-penting-dibaca.xml",
       "json_url": "https://sietekmalut.github.io/feeds/tandaseru-com-penting-dibaca.json",
-      "mode": "native",
+      "mode": "html",
       "language": "id",
       "items": 30,
       "latest": "2026-11-27T12:01:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -340,7 +340,7 @@
       "language": "id",
       "items": 25,
       "latest": "2026-11-27T08:13:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -357,8 +357,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T14:21:00Z",
-      "updated": "2026-11-27T21:19:25Z",
+      "latest": "2026-11-28T01:42:00Z",
+      "updated": "2026-11-28T03:25:13Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -376,7 +376,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-27T00:00:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -394,7 +394,7 @@
       "language": "id",
       "items": 28,
       "latest": "2026-11-27T14:06:00Z",
-      "updated": "2026-11-27T21:19:28Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -411,8 +411,8 @@
       "mode": "native",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T14:43:00Z",
-      "updated": "2026-11-27T21:19:21Z",
+      "latest": "2026-11-28T03:02:00Z",
+      "updated": "2026-11-28T03:25:11Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -430,7 +430,7 @@
       "language": "id",
       "items": 30,
       "latest": "2026-11-27T10:16:00Z",
-      "updated": "2026-11-27T21:19:21Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -448,10 +448,10 @@
       "language": "id",
       "items": 19,
       "latest": "2026-11-25T05:05:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
-      "error": "tidak ada artikel yang bisa diekstrak (halaman mungkin butuh JavaScript) (feed lama dipertahankan)",
-      "stale": true
+      "error": "",
+      "stale": false
     },
     {
       "slug": "voicemu-com",
@@ -466,7 +466,7 @@
       "language": "id",
       "items": 29,
       "latest": "2026-11-27T00:00:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -483,8 +483,8 @@
       "mode": "html",
       "language": "id",
       "items": 30,
-      "latest": "2026-11-27T02:55:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "latest": "2026-11-27T21:49:35Z",
+      "updated": "2026-11-28T03:25:14Z",
       "status": "ok",
       "error": "",
       "stale": false
@@ -502,7 +502,7 @@
       "language": "id",
       "items": 10,
       "latest": "2026-10-01T12:28:00Z",
-      "updated": "2026-11-27T21:19:13Z",
+      "updated": "2026-11-28T03:25:02Z",
       "status": "ok",
       "error": "",
       "stale": false

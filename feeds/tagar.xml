@@ -5,11 +5,21 @@
     <link>https://www.tagar.id</link>
     <description>Situs berita online Indonesia Tagar News, sajikan kabar terkini dari Jakarta dan daerah, beragam rubrik dan cerita menarik.</description>
     <language>id</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:12:52 GMT</lastBuildDate>
-    <pubDate>Fri, 27 Nov 2026 10:32:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:25:05 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 21:41:00 GMT</pubDate>
     <ttl>30</ttl>
     <generator>SietekMalut RSS Feed Generator</generator>
     <atom:link href="https://sietekmalut.github.io/feeds/tagar.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pangdam IM Brigjen TNI Mahesa Fitriadi Berkunjung ke Makorem 011 Lilawangsa</title>
+      <link>https://www.tagar.id/pangdam-im-brigjen-tni-mahesa-fitriadi-berkunjung-ke-makorem-011-lilawangsa</link>
+      <guid isPermaLink="false">https://www.tagar.id/pangdam-im-brigjen-tni-mahesa-fitriadi-berkunjung-ke-makorem-011-lilawangsa</guid>
+      <pubDate>Fri, 27 Nov 2026 21:41:00 GMT</pubDate>
+      <description>Pangdam IM Tatap Muka dengan Prajurit Korem 011/Lilawangsa, ingatkan prajurit jauhi judi online dan bijak bermedsos</description>
+      <dc:creator>Syaiful W Harahap</dc:creator>
+      <category>Daerah</category>
+      <enclosure url="https://www.tagar.id/uploads/2026/11/28/1795815550574-pangdam-im-2-edited.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Avenzel Hotel &amp; Convention Hadirkan Program Liburan Akhir Tahun Dan Midnight Fantasy In Wonderland 2027</title>
       <link>https://www.tagar.id/avenzel-hotel-convention-hadirkan-program-liburan-akhir-tahun-dan-midnight-fantasy-in-wonderland-2027</link>
@@ -299,16 +309,6 @@
       <dc:creator>Syaiful W Harahap</dc:creator>
       <category>Daerah</category>
       <enclosure url="https://www.tagar.id/uploads/2026/11/19/1795089838416-danrem-haul-3-tgr-edited.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>7 Mitos Kemoterapi yang Perlu Diluruskan Sebelum Memulai Pengobatan</title>
-      <link>https://www.tagar.id/7-mitos-kemoterapi-yang-perlu-diluruskan-sebelum-memulai-pengobatan</link>
-      <guid isPermaLink="false">https://www.tagar.id/7-mitos-kemoterapi-yang-perlu-diluruskan-sebelum-memulai-pengobatan</guid>
-      <pubDate>Wed, 18 Nov 2026 13:17:00 GMT</pubDate>
-      <description>Artikel ini membahas pengobatan kanker di luar negeri melalui langkah praktis dan informasi yang perlu dikonfirmasi dengan tenaga medis. Keputusan pemeriksaan maupun pengobatan harus disesuaikan dengan diagnosis dan kondisi setiap pasien.</description>
-      <dc:creator>Mila Yefriza</dc:creator>
-      <category>Sehat</category>
-      <enclosure url="https://www.tagar.id/uploads/2026/11/18/1795007782534-yangini-edited.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
